@@ -1,0 +1,346 @@
+['Arshdeep Singh', 'Varun Chakravarthy', 'Shimron Hetmyer', 'Harpreet Brar', 'Jason Holder', 'Rashid Khan', 'Nitish Rana', 'Adam Milne', 'Rishabh Pant', 'Devdutt Padikkal', 'Nicholas Pooran']
+mi won the toss and chose to field
+0.1 Arshdeep Singh to Liam Livingstone 0 Score: 0/0
+0.2 Arshdeep Singh to Liam Livingstone Wide Score: 1/0
+0.2 Arshdeep Singh to Liam Livingstone 4 Score: 5/0
+0.3 Arshdeep Singh to Liam Livingstone 6 Score: 11/0
+0.4 Arshdeep Singh to Liam Livingstone 0 Score: 11/0
+0.5 Arshdeep Singh to Liam Livingstone 0 Score: 11/0
+0.6 Arshdeep Singh to Liam Livingstone 1 Score: 12/0
+1.1 Harpreet Brar to Liam Livingstone 4 Score: 16/0
+1.2 Harpreet Brar to Liam Livingstone 1 Score: 17/0
+1.3 Harpreet Brar to Chris Gayle 1 Score: 18/0
+1.4 Harpreet Brar to Liam Livingstone 1 Score: 19/0
+1.5 Harpreet Brar to Chris Gayle 1 Score: 20/0
+1.6 Harpreet Brar to Liam Livingstone 1 Score: 21/0
+2.1 Jason Holder to Liam Livingstone 1 Score: 22/0
+2.2 Jason Holder to Chris Gayle 0 Score: 22/0
+2.3 Jason Holder to Chris Gayle 1 Score: 23/0
+2.4 Jason Holder to Liam Livingstone W Score: 23/1 Bowled
+2.5 Jason Holder to Shreyas Iyer 4 Score: 27/1
+2.6 Jason Holder to Shreyas Iyer 2 Score: 29/1
+3.1 Nitish Rana to Chris Gayle 0 Score: 29/1
+3.2 Nitish Rana to Chris Gayle 4 Score: 33/1
+3.3 Nitish Rana to Chris Gayle 0 Score: 33/1
+3.4 Nitish Rana to Chris Gayle 0 Score: 33/1
+3.5 Nitish Rana to Chris Gayle 6 Score: 39/1
+3.6 Nitish Rana to Chris Gayle 0 Score: 39/1
+4.1 Arshdeep Singh to Shreyas Iyer 0 Score: 39/1
+4.2 Arshdeep Singh to Shreyas Iyer 0 Score: 39/1
+4.3 Arshdeep Singh to Shreyas Iyer 1 Score: 40/1
+4.4 Arshdeep Singh to Chris Gayle 1 Score: 41/1
+4.5 Arshdeep Singh to Shreyas Iyer 0 Score: 41/1
+4.6 Arshdeep Singh to Shreyas Iyer 1 Score: 42/1
+5.1 Rashid Khan to Shreyas Iyer 1 Score: 43/1
+5.2 Rashid Khan to Chris Gayle 6 Score: 49/1
+5.3 Rashid Khan to Chris Gayle 0 Score: 49/1
+5.4 Rashid Khan to Chris Gayle 0 Score: 49/1
+5.5 Rashid Khan to Chris Gayle 0 Score: 49/1
+5.6 Rashid Khan to Chris Gayle 4 Score: 53/1
+6.1 Varun Chakravarthy to Shreyas Iyer 1 Score: 54/1
+6.2 Varun Chakravarthy to Chris Gayle 2 Score: 56/1
+6.3 Varun Chakravarthy to Chris Gayle 1 Score: 57/1
+6.4 Varun Chakravarthy to Shreyas Iyer 0 Score: 57/1
+6.5 Varun Chakravarthy to Shreyas Iyer 1 Score: 58/1
+6.6 Varun Chakravarthy to Chris Gayle W Score: 58/2 Caught
+7.1 Harpreet Brar to Shreyas Iyer 0 Score: 58/2
+7.2 Harpreet Brar to Shreyas Iyer 0 Score: 58/2
+7.3 Harpreet Brar to Shreyas Iyer 4 Score: 62/2
+7.4 Harpreet Brar to Shreyas Iyer 1 Score: 63/2
+7.5 Harpreet Brar to Manish Pandey 0 Score: 63/2
+7.6 Harpreet Brar to Manish Pandey 0 Score: 63/2
+8.1 Jason Holder to Shreyas Iyer 1 Score: 64/2
+8.2 Jason Holder to Manish Pandey 1 Score: 65/2
+8.3 Jason Holder to Shreyas Iyer 0 Score: 65/2
+8.4 Jason Holder to Shreyas Iyer Wide Score: 66/2
+8.4 Jason Holder to Shreyas Iyer 4 Score: 70/2
+8.5 Jason Holder to Shreyas Iyer 1 Score: 71/2
+8.6 Jason Holder to Manish Pandey 1 Score: 72/2
+9.1 Nitish Rana to Manish Pandey 0 Score: 72/2
+9.2 Nitish Rana to Manish Pandey 0 Score: 72/2
+9.3 Nitish Rana to Manish Pandey 1 Score: 73/2
+9.4 Nitish Rana to Shreyas Iyer 4 Score: 77/2
+9.5 Nitish Rana to Shreyas Iyer 1 Score: 78/2
+9.6 Nitish Rana to Manish Pandey 1 Score: 79/2
+10.1 Arshdeep Singh to Manish Pandey 0 Score: 79/2
+10.2 Arshdeep Singh to Manish Pandey 0 Score: 79/2
+10.3 Arshdeep Singh to Manish Pandey 0 Score: 79/2
+10.4 Arshdeep Singh to Manish Pandey 0 Score: 79/2
+10.5 Arshdeep Singh to Manish Pandey Wide Score: 80/2
+10.5 Arshdeep Singh to Manish Pandey 0 Score: 80/2
+10.6 Arshdeep Singh to Manish Pandey 6 Score: 86/2
+11.1 Rashid Khan to Shreyas Iyer 1 Score: 87/2
+11.2 Rashid Khan to Manish Pandey 1 Score: 88/2
+11.3 Rashid Khan to Shreyas Iyer 0 Score: 88/2
+11.4 Rashid Khan to Shreyas Iyer 0 Score: 88/2
+11.5 Rashid Khan to Shreyas Iyer 2 Score: 90/2
+11.6 Rashid Khan to Shreyas Iyer 0 Score: 90/2
+12.1 Varun Chakravarthy to Manish Pandey 1 Score: 91/2
+12.2 Varun Chakravarthy to Shreyas Iyer 6 Score: 97/2
+12.3 Varun Chakravarthy to Shreyas Iyer 1 Score: 98/2
+12.4 Varun Chakravarthy to Manish Pandey 0 Score: 98/2
+12.5 Varun Chakravarthy to Manish Pandey Wide Score: 99/2
+12.5 Varun Chakravarthy to Manish Pandey 1 Score: 100/2
+12.6 Varun Chakravarthy to Shreyas Iyer 1 Score: 101/2
+13.1 Harpreet Brar to Shreyas Iyer 4 Score: 105/2
+13.2 Harpreet Brar to Shreyas Iyer 1 Score: 106/2
+13.3 Harpreet Brar to Manish Pandey 1 Score: 107/2
+13.4 Harpreet Brar to Shreyas Iyer 4 Score: 111/2
+13.5 Harpreet Brar to Shreyas Iyer 1 Score: 112/2
+13.6 Harpreet Brar to Manish Pandey 1 Score: 113/2
+14.1 Jason Holder to Manish Pandey 0 Score: 113/2
+14.2 Jason Holder to Manish Pandey 0 Score: 113/2
+14.3 Jason Holder to Manish Pandey 0 Score: 113/2
+14.4 Jason Holder to Manish Pandey 2 Score: 115/2
+14.5 Jason Holder to Manish Pandey 0 Score: 115/2
+14.6 Jason Holder to Manish Pandey 4 Score: 119/2
+15.1 Nitish Rana to Shreyas Iyer 2 Score: 121/2
+15.2 Nitish Rana to Shreyas Iyer 4 Score: 125/2
+15.3 Nitish Rana to Shreyas Iyer 1 Score: 126/2
+15.4 Nitish Rana to Manish Pandey 4 Score: 130/2
+15.5 Nitish Rana to Manish Pandey 1 Score: 131/2
+15.6 Nitish Rana to Shreyas Iyer 0 Score: 131/2
+16.1 Arshdeep Singh to Manish Pandey 4 Score: 135/2
+16.2 Arshdeep Singh to Manish Pandey 1 Score: 136/2
+16.3 Arshdeep Singh to Shreyas Iyer 0 Score: 136/2
+16.4 Arshdeep Singh to Shreyas Iyer Wide Score: 137/2
+16.4 Arshdeep Singh to Shreyas Iyer 6 Score: 143/2
+16.5 Arshdeep Singh to Shreyas Iyer 1 Score: 144/2
+16.6 Arshdeep Singh to Manish Pandey 1 Score: 145/2
+17.1 Rashid Khan to Manish Pandey 4 Score: 149/2
+17.2 Rashid Khan to Manish Pandey 4 Score: 153/2
+17.3 Rashid Khan to Manish Pandey 0 Score: 153/2
+17.4 Rashid Khan to Manish Pandey 1 Score: 154/2
+17.5 Rashid Khan to Shreyas Iyer 1 B! Score: 155/2
+17.6 Rashid Khan to Manish Pandey 4 Score: 159/2
+18.1 Varun Chakravarthy to Shreyas Iyer 6 Score: 165/2
+18.2 Varun Chakravarthy to Shreyas Iyer 0 Score: 165/2
+18.3 Varun Chakravarthy to Shreyas Iyer 1 Score: 166/2
+18.4 Varun Chakravarthy to Manish Pandey W Score: 166/3 Bowled
+18.5 Varun Chakravarthy to Ambati Rayudu 1 B! Score: 167/3
+18.6 Varun Chakravarthy to Shreyas Iyer 0 Score: 167/3
+19.1 Harpreet Brar to Ambati Rayudu 6 Score: 173/3
+19.2 Harpreet Brar to Ambati Rayudu 0 Score: 173/3
+19.3 Harpreet Brar to Ambati Rayudu 4 Score: 177/3
+19.4 Harpreet Brar to Ambati Rayudu 6 Score: 183/3
+19.5 Harpreet Brar to Ambati Rayudu 0 Score: 183/3
+19.6 Harpreet Brar to Ambati Rayudu 1 Score: 184/3
++-------------------+--------+---------+--------+--------------------+
+| Player            |   Runs |   Balls | SR     | Out                |
++===================+========+=========+========+====================+
+| HH Pandya         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| CH Gayle          |     27 |      19 | 142.11 | Caught b CV Varun  |
++-------------------+--------+---------+--------+--------------------+
+| TA Boult          |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| SS Iyer           |     69 |      45 | 153.33 | Not out            |
++-------------------+--------+---------+--------+--------------------+
+| LS Livingstone    |     19 |      12 | 158.33 | Bowled b JO Holder |
++-------------------+--------+---------+--------+--------------------+
+| AT Rayudu         |     17 |       7 | 242.86 | Not out            |
++-------------------+--------+---------+--------+--------------------+
+| KM Jadhav         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| JJ Bumrah         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| DT Christian      |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| MK Pandey         |     45 |      37 | 121.62 | Bowled b CV Varun  |
++-------------------+--------+---------+--------+--------------------+
+| M Prasidh Krishna |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Arshdeep Singh |     36 |       4 |         0 | 9.0   |
++----------------+--------+---------+-----------+-------+
+| CV Varun       |     23 |       3 |         2 | 7.67  |
++----------------+--------+---------+-----------+-------+
+| SO Hetmyer     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Harpreet Brar  |     43 |       4 |         0 | 10.75 |
++----------------+--------+---------+-----------+-------+
+| JO Holder      |     23 |       3 |         1 | 7.67  |
++----------------+--------+---------+-----------+-------+
+| Rashid Khan    |     28 |       3 |         0 | 9.33  |
++----------------+--------+---------+-----------+-------+
+| N Rana         |     29 |       3 |         0 | 9.67  |
++----------------+--------+---------+-----------+-------+
+| AF Milne       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| RR Pant        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| D Padikkal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| N Pooran       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Devdutt Padikkal 1 Score: 1/0
+0.2 Trent Boult to Nitish Rana 0 Score: 1/0
+0.3 Trent Boult to Nitish Rana 0 Score: 1/0
+0.4 Trent Boult to Nitish Rana 0 Score: 1/0
+0.5 Trent Boult to Nitish Rana 4 Score: 5/0
+0.6 Trent Boult to Nitish Rana 0 Score: 5/0
+1.1 Prasidh Krishna to Devdutt Padikkal 6 Score: 11/0
+1.2 Prasidh Krishna to Devdutt Padikkal 0 Score: 11/0
+1.3 Prasidh Krishna to Devdutt Padikkal 1 Score: 12/0
+1.4 Prasidh Krishna to Nitish Rana 4 Score: 16/0
+1.5 Prasidh Krishna to Nitish Rana 0 Score: 16/0
+1.6 Prasidh Krishna to Nitish Rana Wide Score: 17/0
+1.6 Prasidh Krishna to Nitish Rana 1 Score: 18/0
+2.1 Trent Boult to Nitish Rana Wide Score: 19/0
+2.1 Trent Boult to Nitish Rana 1 Score: 20/0
+2.2 Trent Boult to Devdutt Padikkal 1 Score: 21/0
+2.3 Trent Boult to Nitish Rana 1 Score: 22/0
+2.4 Trent Boult to Devdutt Padikkal W Score: 22/1 Run Out (0r)
+2.5 Trent Boult to Rishabh Pant 4 LB! Score: 26/1
+2.6 Trent Boult to Rishabh Pant 0 Score: 26/1
+3.1 Jasprit Bumrah to Nitish Rana 4 Score: 30/1
+3.2 Jasprit Bumrah to Nitish Rana 4 Score: 34/1
+3.3 Jasprit Bumrah to Nitish Rana 4 Score: 38/1
+3.4 Jasprit Bumrah to Nitish Rana 0 Score: 38/1
+3.5 Jasprit Bumrah to Nitish Rana 0 Score: 38/1
+3.6 Jasprit Bumrah to Nitish Rana 4 Score: 42/1
+4.1 Hardik Pandya to Rishabh Pant 6 Score: 48/1
+4.2 Hardik Pandya to Rishabh Pant 0 Score: 48/1
+4.3 Hardik Pandya to Rishabh Pant 1 Score: 49/1
+4.4 Hardik Pandya to Nitish Rana 1 Score: 50/1
+4.5 Hardik Pandya to Rishabh Pant 1 Score: 51/1
+4.6 Hardik Pandya to Nitish Rana 0 Score: 51/1
+5.1 Dan Christian to Rishabh Pant 2 Score: 53/1
+5.2 Dan Christian to Rishabh Pant 0 Score: 53/1
+5.3 Dan Christian to Rishabh Pant 2 Score: 55/1
+5.4 Dan Christian to Rishabh Pant 4 Score: 59/1
+5.5 Dan Christian to Rishabh Pant 2 Score: 61/1
+5.6 Dan Christian to Rishabh Pant 1 LB! Score: 62/1
+6.1 Prasidh Krishna to Rishabh Pant 0 Score: 62/1
+6.2 Prasidh Krishna to Rishabh Pant 0 Score: 62/1
+6.3 Prasidh Krishna to Rishabh Pant 2 Score: 64/1
+6.4 Prasidh Krishna to Rishabh Pant 1 Score: 65/1
+6.5 Prasidh Krishna to Nitish Rana 1 Score: 66/1
+6.6 Prasidh Krishna to Rishabh Pant 0 Score: 66/1
+7.1 Chris Gayle to Nitish Rana 1 Score: 67/1
+7.2 Chris Gayle to Rishabh Pant Wide Score: 68/1
+7.2 Chris Gayle to Rishabh Pant Wide Score: 69/1
+7.2 Chris Gayle to Rishabh Pant 1 Score: 70/1
+7.3 Chris Gayle to Nitish Rana 4 Score: 74/1
+7.4 Chris Gayle to Nitish Rana 1 Score: 75/1
+7.5 Chris Gayle to Rishabh Pant 0 Score: 75/1
+7.6 Chris Gayle to Rishabh Pant 1 Score: 76/1
+8.1 Trent Boult to Rishabh Pant 0 Score: 76/1
+8.2 Trent Boult to Rishabh Pant 1 Score: 77/1
+8.3 Trent Boult to Nitish Rana 0 Score: 77/1
+8.4 Trent Boult to Nitish Rana 1 Score: 78/1
+8.5 Trent Boult to Rishabh Pant 0 Score: 78/1
+8.6 Trent Boult to Rishabh Pant 0 Score: 78/1
+9.1 Jasprit Bumrah to Nitish Rana 1 Score: 79/1
+9.2 Jasprit Bumrah to Rishabh Pant 4 Score: 83/1
+9.3 Jasprit Bumrah to Rishabh Pant 1 Score: 84/1
+9.4 Jasprit Bumrah to Nitish Rana 1 Score: 85/1
+9.5 Jasprit Bumrah to Rishabh Pant 2 Score: 87/1
+9.6 Jasprit Bumrah to Rishabh Pant 1 Score: 88/1
+10.1 Hardik Pandya to Rishabh Pant 0 Score: 88/1
+10.2 Hardik Pandya to Rishabh Pant 1 Score: 89/1
+10.3 Hardik Pandya to Nitish Rana 1 Score: 90/1
+10.4 Hardik Pandya to Rishabh Pant 0 Score: 90/1
+10.5 Hardik Pandya to Rishabh Pant 6 Score: 96/1
+10.6 Hardik Pandya to Rishabh Pant 1 Score: 97/1
+11.1 Dan Christian to Rishabh Pant 4 Score: 101/1
+11.2 Dan Christian to Rishabh Pant 1 Score: 102/1
+11.3 Dan Christian to Nitish Rana 0 Score: 102/1
+11.4 Dan Christian to Nitish Rana 1 Score: 103/1
+11.5 Dan Christian to Rishabh Pant 4 Score: 107/1
+11.6 Dan Christian to Rishabh Pant 1 Score: 108/1
+12.1 Prasidh Krishna to Rishabh Pant 1 Score: 109/1
+12.2 Prasidh Krishna to Nitish Rana 0 Score: 109/1
+12.3 Prasidh Krishna to Nitish Rana 0 Score: 109/1
+12.4 Prasidh Krishna to Nitish Rana 1 Score: 110/1
+12.5 Prasidh Krishna to Rishabh Pant 4 Score: 114/1
+12.6 Prasidh Krishna to Rishabh Pant 1 Score: 115/1
+13.1 Chris Gayle to Rishabh Pant 1 Score: 116/1
+13.2 Chris Gayle to Nitish Rana 0 Score: 116/1
+13.3 Chris Gayle to Nitish Rana 1 Score: 117/1
+13.4 Chris Gayle to Rishabh Pant 0 Score: 117/1
+13.5 Chris Gayle to Rishabh Pant 1 Score: 118/1
+13.6 Chris Gayle to Nitish Rana W Score: 118/2 Caught
+14.1 Trent Boult to Rishabh Pant 0 Score: 118/2
+14.2 Trent Boult to Rishabh Pant 4 Score: 122/2
+14.3 Trent Boult to Rishabh Pant 1 Score: 123/2
+14.4 Trent Boult to Nicholas Pooran 0 Score: 123/2
+14.5 Trent Boult to Nicholas Pooran 0 Score: 123/2
+14.6 Trent Boult to Nicholas Pooran 0 Score: 123/2
+15.1 Jasprit Bumrah to Rishabh Pant 1 Score: 124/2
+15.2 Jasprit Bumrah to Nicholas Pooran 1 Score: 125/2
+15.3 Jasprit Bumrah to Rishabh Pant 1 Score: 126/2
+15.4 Jasprit Bumrah to Nicholas Pooran 4 Score: 130/2
+15.5 Jasprit Bumrah to Nicholas Pooran 2 Score: 132/2
+15.6 Jasprit Bumrah to Nicholas Pooran 1 Score: 133/2
+16.1 Hardik Pandya to Nicholas Pooran 4 Score: 137/2
+16.2 Hardik Pandya to Nicholas Pooran 6 Score: 143/2
+16.3 Hardik Pandya to Nicholas Pooran 1 Score: 144/2
+16.4 Hardik Pandya to Rishabh Pant 6 Score: 150/2
+16.5 Hardik Pandya to Rishabh Pant 6 Score: 156/2
+16.6 Hardik Pandya to Rishabh Pant 6 Score: 162/2
+17.1 Dan Christian to Nicholas Pooran 2 Score: 164/2
+17.2 Dan Christian to Nicholas Pooran 4 Score: 168/2
+17.3 Dan Christian to Nicholas Pooran 6 Score: 174/2
+17.4 Dan Christian to Nicholas Pooran W Score: 174/3 Caught
+17.5 Dan Christian to Shimron Hetmyer 0 Score: 174/3
+17.6 Dan Christian to Shimron Hetmyer 1 Score: 175/3
+18.1 Prasidh Krishna to Shimron Hetmyer 6 Score: 181/3
+18.2 Prasidh Krishna to Shimron Hetmyer 1 Score: 182/3
+18.3 Prasidh Krishna to Rishabh Pant 1 LB! Score: 183/3
+18.4 Prasidh Krishna to Shimron Hetmyer 1 Score: 184/3
+18.5 Prasidh Krishna to Rishabh Pant 0 Score: 184/3
+18.6 Prasidh Krishna to Rishabh Pant 2 Score: 186/3
+mi won by 7 wickets
++----------------+--------+---------+--------+-------------------------+
+| Player         |   Runs |   Balls | SR     | Out                     |
++================+========+=========+========+=========================+
+| Arshdeep Singh |      0 |       0 | NA     | DNB                     |
++----------------+--------+---------+--------+-------------------------+
+| CV Varun       |      0 |       0 | NA     | DNB                     |
++----------------+--------+---------+--------+-------------------------+
+| SO Hetmyer     |      9 |       5 | 180.0  | Not out                 |
++----------------+--------+---------+--------+-------------------------+
+| Harpreet Brar  |      0 |       0 | NA     | DNB                     |
++----------------+--------+---------+--------+-------------------------+
+| JO Holder      |      0 |       0 | NA     | DNB                     |
++----------------+--------+---------+--------+-------------------------+
+| Rashid Khan    |      0 |       0 | NA     | DNB                     |
++----------------+--------+---------+--------+-------------------------+
+| N Rana         |     42 |      35 | 120.0  | Caught b CH Gayle       |
++----------------+--------+---------+--------+-------------------------+
+| AF Milne       |      0 |       0 | NA     | DNB                     |
++----------------+--------+---------+--------+-------------------------+
+| RR Pant        |     85 |      54 | 157.41 | Not out                 |
++----------------+--------+---------+--------+-------------------------+
+| D Padikkal     |      9 |       6 | 150.0  | Run Out (0r) b TA Boult |
++----------------+--------+---------+--------+-------------------------+
+| N Pooran       |     31 |      14 | 221.43 | Caught b DT Christian   |
++----------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| HH Pandya         |     47 |       3 |         0 | 15.67 |
++-------------------+--------+---------+-----------+-------+
+| CH Gayle          |     13 |       2 |         1 | 6.5   |
++-------------------+--------+---------+-----------+-------+
+| TA Boult          |     16 |       4 |         0 | 4.0   |
++-------------------+--------+---------+-----------+-------+
+| SS Iyer           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| LS Livingstone    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AT Rayudu         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KM Jadhav         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| JJ Bumrah         |     36 |       3 |         0 | 12.0  |
++-------------------+--------+---------+-----------+-------+
+| DT Christian      |     34 |       3 |         1 | 11.33 |
++-------------------+--------+---------+-----------+-------+
+| MK Pandey         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     34 |       4 |         0 | 8.5   |
++-------------------+--------+---------+-----------+-------+

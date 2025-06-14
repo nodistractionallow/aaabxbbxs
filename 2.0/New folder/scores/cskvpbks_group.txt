@@ -1,0 +1,346 @@
+['Shikhar Dhawan', 'Glenn Maxwell', 'Khaleel Ahmed', 'Mustafizur Rahman', 'Suryakumar Yadav', 'Sanju Samson', 'Dwayne Bravo', 'Chris Morris', 'Prithvi Shaw', 'Kane Williamson', 'Axar Patel']
+csk won the toss and chose to bat
+0.1 Chetan Sakariya to Prithvi Shaw 1 Score: 1/0
+0.2 Chetan Sakariya to Shikhar Dhawan 1 Score: 2/0
+0.3 Chetan Sakariya to Prithvi Shaw 0 Score: 2/0
+0.4 Chetan Sakariya to Prithvi Shaw 1 Score: 3/0
+0.5 Chetan Sakariya to Shikhar Dhawan 0 Score: 3/0
+0.6 Chetan Sakariya to Shikhar Dhawan 4 Score: 7/0
+1.1 Moeen Ali to Prithvi Shaw 0 Score: 7/0
+1.2 Moeen Ali to Prithvi Shaw 0 Score: 7/0
+1.3 Moeen Ali to Prithvi Shaw 1 Score: 8/0
+1.4 Moeen Ali to Shikhar Dhawan 1 Score: 9/0
+1.5 Moeen Ali to Prithvi Shaw 1 Score: 10/0
+1.6 Moeen Ali to Shikhar Dhawan 1 Score: 11/0
+2.1 Shahbaz Ahmed to Shikhar Dhawan 2 Score: 13/0
+2.2 Shahbaz Ahmed to Shikhar Dhawan 0 Score: 13/0
+2.3 Shahbaz Ahmed to Shikhar Dhawan 0 Score: 13/0
+2.4 Shahbaz Ahmed to Shikhar Dhawan 0 Score: 13/0
+2.5 Shahbaz Ahmed to Shikhar Dhawan 4 Score: 17/0
+2.6 Shahbaz Ahmed to Shikhar Dhawan W Score: 17/1 Caught
+3.1 Moeen Ali to Prithvi Shaw 1 Score: 18/1
+3.2 Moeen Ali to Sanju Samson 2 Score: 20/1
+3.3 Moeen Ali to Sanju Samson 1 Score: 21/1
+3.4 Moeen Ali to Prithvi Shaw 4 Score: 25/1
+3.5 Moeen Ali to Prithvi Shaw W Score: 25/2 Lbw
+3.6 Moeen Ali to Kane Williamson 0 Score: 25/2
+4.1 Ravi Bishnoi to Sanju Samson 0 Score: 25/2
+4.2 Ravi Bishnoi to Sanju Samson 0 Score: 25/2
+4.3 Ravi Bishnoi to Sanju Samson 1 Score: 26/2
+4.4 Ravi Bishnoi to Kane Williamson 0 Score: 26/2
+4.5 Ravi Bishnoi to Kane Williamson 0 Score: 26/2
+4.6 Ravi Bishnoi to Kane Williamson 0 Score: 26/2
+5.1 Chetan Sakariya to Sanju Samson 1 Score: 27/2
+5.2 Chetan Sakariya to Kane Williamson 1 Score: 28/2
+5.3 Chetan Sakariya to Sanju Samson 1 Score: 29/2
+5.4 Chetan Sakariya to Kane Williamson 0 Score: 29/2
+5.5 Chetan Sakariya to Kane Williamson Wide Score: 30/2
+5.5 Chetan Sakariya to Kane Williamson 1 Score: 31/2
+5.6 Chetan Sakariya to Sanju Samson 4 Score: 35/2
+6.1 Deepak Hooda to Kane Williamson 2 Score: 37/2
+6.2 Deepak Hooda to Kane Williamson 1 Score: 38/2
+6.3 Deepak Hooda to Sanju Samson 6 Score: 44/2
+6.4 Deepak Hooda to Sanju Samson 4 B! Score: 48/2
+6.5 Deepak Hooda to Sanju Samson 1 Score: 49/2
+6.6 Deepak Hooda to Kane Williamson 4 Score: 53/2
+7.1 RINKU SINGH to Sanju Samson 0 Score: 53/2
+7.2 RINKU SINGH to Sanju Samson 6 Score: 59/2
+7.3 RINKU SINGH to Sanju Samson 6 Score: 65/2
+7.4 RINKU SINGH to Sanju Samson 0 Score: 65/2
+7.5 RINKU SINGH to Sanju Samson 6 Score: 71/2
+7.6 RINKU SINGH to Sanju Samson 1 Score: 72/2
+8.1 Shahbaz Ahmed to Sanju Samson 1 Score: 73/2
+8.2 Shahbaz Ahmed to Kane Williamson 1 Score: 74/2
+8.3 Shahbaz Ahmed to Sanju Samson W Score: 74/3 Caught
+8.4 Shahbaz Ahmed to Suryakumar Yadav 1 B! Score: 75/3
+8.5 Shahbaz Ahmed to Kane Williamson 2 Score: 77/3
+8.6 Shahbaz Ahmed to Kane Williamson 0 Score: 77/3
+9.1 Moeen Ali to Suryakumar Yadav 1 Score: 78/3
+9.2 Moeen Ali to Kane Williamson 0 Score: 78/3
+9.3 Moeen Ali to Kane Williamson 1 Score: 79/3
+9.4 Moeen Ali to Suryakumar Yadav 1 Score: 80/3
+9.5 Moeen Ali to Kane Williamson 0 Score: 80/3
+9.6 Moeen Ali to Kane Williamson 1 Score: 81/3
+10.1 Ravi Bishnoi to Kane Williamson 1 Score: 82/3
+10.2 Ravi Bishnoi to Suryakumar Yadav 1 Score: 83/3
+10.3 Ravi Bishnoi to Kane Williamson 1 Score: 84/3
+10.4 Ravi Bishnoi to Suryakumar Yadav 1 B! Score: 85/3
+10.5 Ravi Bishnoi to Kane Williamson 1 Score: 86/3
+10.6 Ravi Bishnoi to Suryakumar Yadav 4 Score: 90/3
+11.1 Chetan Sakariya to Kane Williamson 4 Score: 94/3
+11.2 Chetan Sakariya to Kane Williamson 1 Score: 95/3
+11.3 Chetan Sakariya to Suryakumar Yadav Wide Score: 96/3
+11.3 Chetan Sakariya to Suryakumar Yadav 1 Score: 97/3
+11.4 Chetan Sakariya to Kane Williamson 1 Score: 98/3
+11.5 Chetan Sakariya to Suryakumar Yadav 1 Score: 99/3
+11.6 Chetan Sakariya to Kane Williamson 1 Score: 100/3
+12.1 Deepak Hooda to Kane Williamson 0 Score: 100/3
+12.2 Deepak Hooda to Kane Williamson 1 Score: 101/3
+12.3 Deepak Hooda to Suryakumar Yadav 2 Score: 103/3
+12.4 Deepak Hooda to Suryakumar Yadav 1 Score: 104/3
+12.5 Deepak Hooda to Kane Williamson 1 Score: 105/3
+12.6 Deepak Hooda to Suryakumar Yadav 1 Score: 106/3
+13.1 RINKU SINGH to Suryakumar Yadav 0 Score: 106/3
+13.2 RINKU SINGH to Suryakumar Yadav 0 Score: 106/3
+13.3 RINKU SINGH to Suryakumar Yadav 4 Score: 110/3
+13.4 RINKU SINGH to Suryakumar Yadav 1 Score: 111/3
+13.5 RINKU SINGH to Kane Williamson NO BALL! Score: 112/3
+13.5 RINKU SINGH to Kane Williamson 0 Score: 112/3 (Free Hit) (Off No-Ball)
+13.5 RINKU SINGH to Kane Williamson 0 Score: 112/3 (Free Hit)
+13.6 RINKU SINGH to Kane Williamson 6 Score: 118/3
+14.1 Shahbaz Ahmed to Suryakumar Yadav 4 Score: 122/3
+14.2 Shahbaz Ahmed to Suryakumar Yadav 0 Score: 122/3
+14.3 Shahbaz Ahmed to Suryakumar Yadav 1 Score: 123/3
+14.4 Shahbaz Ahmed to Kane Williamson 1 Score: 124/3
+14.5 Shahbaz Ahmed to Suryakumar Yadav 1 Score: 125/3
+14.6 Shahbaz Ahmed to Kane Williamson 0 Score: 125/3
+15.1 Moeen Ali to Suryakumar Yadav 1 Score: 126/3
+15.2 Moeen Ali to Kane Williamson 4 Score: 130/3
+15.3 Moeen Ali to Kane Williamson 1 Score: 131/3
+15.4 Moeen Ali to Suryakumar Yadav 1 Score: 132/3
+15.5 Moeen Ali to Kane Williamson 0 Score: 132/3
+15.6 Moeen Ali to Kane Williamson 0 Score: 132/3
+16.1 Ravi Bishnoi to Suryakumar Yadav 0 Score: 132/3
+16.2 Ravi Bishnoi to Suryakumar Yadav 1 Score: 133/3
+16.3 Ravi Bishnoi to Kane Williamson 0 Score: 133/3
+16.4 Ravi Bishnoi to Kane Williamson 1 Score: 134/3
+16.5 Ravi Bishnoi to Suryakumar Yadav 1 Score: 135/3
+16.6 Ravi Bishnoi to Kane Williamson 2 B! Score: 137/3
+17.1 Chetan Sakariya to Suryakumar Yadav 2 Score: 139/3
+17.2 Chetan Sakariya to Suryakumar Yadav 2 Score: 141/3
+17.3 Chetan Sakariya to Suryakumar Yadav 1 Score: 142/3
+17.4 Chetan Sakariya to Kane Williamson 4 Score: 146/3
+17.5 Chetan Sakariya to Kane Williamson 1 Score: 147/3
+17.6 Chetan Sakariya to Suryakumar Yadav 4 Score: 151/3
+18.1 Deepak Hooda to Kane Williamson 0 Score: 151/3
+18.2 Deepak Hooda to Kane Williamson 0 Score: 151/3
+18.3 Deepak Hooda to Kane Williamson 1 Score: 152/3
+18.4 Deepak Hooda to Suryakumar Yadav 0 Score: 152/3
+18.5 Deepak Hooda to Suryakumar Yadav 2 Score: 154/3
+18.6 Deepak Hooda to Suryakumar Yadav 1 Score: 155/3
+19.1 RINKU SINGH to Suryakumar Yadav 4 Score: 159/3
+19.2 RINKU SINGH to Suryakumar Yadav 1 Score: 160/3
+19.3 RINKU SINGH to Kane Williamson 6 Score: 166/3
+19.4 RINKU SINGH to Kane Williamson 4 Score: 170/3
+19.5 RINKU SINGH to Kane Williamson 1 Score: 171/3
+19.6 RINKU SINGH to Suryakumar Yadav 2 Score: 173/3
++-------------------+--------+---------+--------+------------------------+
+| Player            |   Runs |   Balls | SR     | Out                    |
++===================+========+=========+========+========================+
+| S Dhawan          |     13 |      11 | 118.18 | Caught b Shahbaz Ahmed |
++-------------------+--------+---------+--------+------------------------+
+| GJ Maxwell        |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| KK Ahmed          |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| Mustafizur Rahman |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| SA Yadav          |     47 |      34 | 138.24 | Not out                |
++-------------------+--------+---------+--------+------------------------+
+| SV Samson         |     37 |      19 | 194.74 | Caught b Shahbaz Ahmed |
++-------------------+--------+---------+--------+------------------------+
+| DJ Bravo          |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| CH Morris         |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| PP Shaw           |      9 |      10 | 90.0   | Lbw b MM Ali           |
++-------------------+--------+---------+--------+------------------------+
+| KS Williamson     |     56 |      47 | 119.15 | Not out                |
++-------------------+--------+---------+--------+------------------------+
+| AR Patel          |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| Shahbaz Ahmed   |     17 |       3 |         2 | 5.67  |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KL Rahul        |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Lomror       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MM Ali          |     23 |       4 |         1 | 5.75  |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     12 |       3 |         0 | 4.0   |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |     24 |       3 |         0 | 8.0   |
++-----------------+--------+---------+-----------+-------+
+| T VERMA         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| R SINGH         |     49 |       3 |         0 | 16.33 |
++-----------------+--------+---------+-----------+-------+
+| R Parag         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| C Sakariya      |     40 |       4 |         0 | 10.0  |
++-----------------+--------+---------+-----------+-------+
+0.1 Chris Morris to TILAK VERMA 1 Score: 1/0
+0.2 Chris Morris to KL Rahul 2 Score: 3/0
+0.3 Chris Morris to KL Rahul 1 Score: 4/0
+0.4 Chris Morris to TILAK VERMA 1 Score: 5/0
+0.5 Chris Morris to KL Rahul 0 Score: 5/0
+0.6 Chris Morris to KL Rahul 4 B! Score: 9/0
+1.1 Khaleel Ahmed to TILAK VERMA 4 Score: 13/0
+1.2 Khaleel Ahmed to TILAK VERMA 0 Score: 13/0
+1.3 Khaleel Ahmed to TILAK VERMA 0 Score: 13/0
+1.4 Khaleel Ahmed to TILAK VERMA 0 Score: 13/0
+1.5 Khaleel Ahmed to TILAK VERMA 2 Score: 15/0
+1.6 Khaleel Ahmed to TILAK VERMA 1 LB! Score: 16/0
+2.1 Chris Morris to TILAK VERMA 0 Score: 16/0
+2.2 Chris Morris to TILAK VERMA 6 Score: 22/0
+2.3 Chris Morris to TILAK VERMA 1 Score: 23/0
+2.4 Chris Morris to KL Rahul 4 Score: 27/0
+2.5 Chris Morris to KL Rahul 4 Score: 31/0
+2.6 Chris Morris to KL Rahul 4 Score: 35/0
+3.1 Khaleel Ahmed to TILAK VERMA 0 Score: 35/0
+3.2 Khaleel Ahmed to TILAK VERMA 6 Score: 41/0
+3.3 Khaleel Ahmed to TILAK VERMA 1 Score: 42/0
+3.4 Khaleel Ahmed to KL Rahul 0 Score: 42/0
+3.5 Khaleel Ahmed to KL Rahul 2 Score: 44/0
+3.6 Khaleel Ahmed to KL Rahul 1 Score: 45/0
+4.1 Mustafizur Rahman to KL Rahul 1 Score: 46/0
+4.2 Mustafizur Rahman to TILAK VERMA 1 Score: 47/0
+4.3 Mustafizur Rahman to KL Rahul 1 Score: 48/0
+4.4 Mustafizur Rahman to TILAK VERMA 0 Score: 48/0
+4.5 Mustafizur Rahman to TILAK VERMA 2 Score: 50/0
+4.6 Mustafizur Rahman to TILAK VERMA 1 Score: 51/0
+5.1 Dwayne Bravo to TILAK VERMA 1 Score: 52/0
+5.2 Dwayne Bravo to KL Rahul 0 Score: 52/0
+5.3 Dwayne Bravo to KL Rahul 4 Score: 56/0
+5.4 Dwayne Bravo to KL Rahul 4 Score: 60/0
+5.5 Dwayne Bravo to KL Rahul 4 Score: 64/0
+5.6 Dwayne Bravo to KL Rahul 1 Score: 65/0
+6.1 Glenn Maxwell to KL Rahul 1 Score: 66/0
+6.2 Glenn Maxwell to TILAK VERMA 0 Score: 66/0
+6.3 Glenn Maxwell to TILAK VERMA 4 Score: 70/0
+6.4 Glenn Maxwell to TILAK VERMA 6 Score: 76/0
+6.5 Glenn Maxwell to TILAK VERMA 4 Score: 80/0
+6.6 Glenn Maxwell to TILAK VERMA 0 Score: 80/0
+7.1 Axar Patel to KL Rahul 0 Score: 80/0
+7.2 Axar Patel to KL Rahul 4 Score: 84/0
+7.3 Axar Patel to KL Rahul 0 Score: 84/0
+7.4 Axar Patel to KL Rahul 1 Score: 85/0
+7.5 Axar Patel to TILAK VERMA 1 B! Score: 86/0
+7.6 Axar Patel to KL Rahul 1 Score: 87/0
+8.1 Chris Morris to KL Rahul 1 Score: 88/0
+8.2 Chris Morris to TILAK VERMA NO BALL! Score: 89/0
+8.2 Chris Morris to TILAK VERMA NOT OUT (caught on Free Hit!) Score: 89/0
+8.2 Chris Morris to TILAK VERMA 0 Score: 89/0 (Free Hit)
+8.3 Chris Morris to TILAK VERMA 0 Score: 89/0
+8.4 Chris Morris to TILAK VERMA 2 Score: 91/0
+8.5 Chris Morris to TILAK VERMA 0 Score: 91/0
+8.6 Chris Morris to TILAK VERMA W Score: 91/1 Caught
+9.1 Khaleel Ahmed to KL Rahul 1 Score: 92/1
+9.2 Khaleel Ahmed to Moeen Ali 4 Score: 96/1
+9.3 Khaleel Ahmed to Moeen Ali 0 Score: 96/1
+9.4 Khaleel Ahmed to Moeen Ali 0 Score: 96/1
+9.5 Khaleel Ahmed to Moeen Ali 1 Score: 97/1
+9.6 Khaleel Ahmed to KL Rahul 1 Score: 98/1
+10.1 Mustafizur Rahman to KL Rahul 1 Score: 99/1
+10.2 Mustafizur Rahman to Moeen Ali 1 Score: 100/1
+10.3 Mustafizur Rahman to KL Rahul 0 Score: 100/1
+10.4 Mustafizur Rahman to KL Rahul 0 Score: 100/1
+10.5 Mustafizur Rahman to KL Rahul 1 Score: 101/1
+10.6 Mustafizur Rahman to Moeen Ali 1 Score: 102/1
+11.1 Dwayne Bravo to Moeen Ali 1 Score: 103/1
+11.2 Dwayne Bravo to KL Rahul 4 Score: 107/1
+11.3 Dwayne Bravo to KL Rahul 6 Score: 113/1
+11.4 Dwayne Bravo to KL Rahul 0 Score: 113/1
+11.5 Dwayne Bravo to KL Rahul 0 Score: 113/1
+11.6 Dwayne Bravo to KL Rahul 6 Score: 119/1
+12.1 Glenn Maxwell to Moeen Ali 1 Score: 120/1
+12.2 Glenn Maxwell to KL Rahul 0 Score: 120/1
+12.3 Glenn Maxwell to KL Rahul 1 Score: 121/1
+12.4 Glenn Maxwell to Moeen Ali 0 Score: 121/1
+12.5 Glenn Maxwell to Moeen Ali 1 Score: 122/1
+12.6 Glenn Maxwell to KL Rahul 1 Score: 123/1
+13.1 Axar Patel to KL Rahul 1 Score: 124/1
+13.2 Axar Patel to Moeen Ali 6 Score: 130/1
+13.3 Axar Patel to Moeen Ali 1 Score: 131/1
+13.4 Axar Patel to KL Rahul 0 Score: 131/1
+13.5 Axar Patel to KL Rahul 2 LB! Score: 133/1
+13.6 Axar Patel to KL Rahul 1 Score: 134/1
+14.1 Chris Morris to KL Rahul 2 Score: 136/1
+14.2 Chris Morris to KL Rahul 0 Score: 136/1
+14.3 Chris Morris to KL Rahul 1 LB! Score: 137/1
+14.4 Chris Morris to Moeen Ali 4 Score: 141/1
+14.5 Chris Morris to Moeen Ali 1 LB! Score: 142/1
+14.6 Chris Morris to KL Rahul 0 Score: 142/1
+15.1 Khaleel Ahmed to Moeen Ali 2 LB! Score: 144/1
+15.2 Khaleel Ahmed to Moeen Ali 0 Score: 144/1
+15.3 Khaleel Ahmed to Moeen Ali 1 Score: 145/1
+15.4 Khaleel Ahmed to KL Rahul 4 Score: 149/1
+15.5 Khaleel Ahmed to KL Rahul 1 Score: 150/1
+15.6 Khaleel Ahmed to Moeen Ali 4 Score: 154/1
+16.1 Mustafizur Rahman to KL Rahul 0 Score: 154/1
+16.2 Mustafizur Rahman to KL Rahul 0 Score: 154/1
+16.3 Mustafizur Rahman to KL Rahul 0 Score: 154/1
+16.4 Mustafizur Rahman to KL Rahul 0 Score: 154/1
+16.5 Mustafizur Rahman to KL Rahul 0 Score: 154/1
+16.6 Mustafizur Rahman to KL Rahul 2 Score: 156/1
+17.1 Dwayne Bravo to Moeen Ali 1 Score: 157/1
+17.2 Dwayne Bravo to KL Rahul 0 Score: 157/1
+17.3 Dwayne Bravo to KL Rahul 1 Score: 158/1
+17.4 Dwayne Bravo to Moeen Ali 1 Score: 159/1
+17.5 Dwayne Bravo to KL Rahul 0 Score: 159/1
+17.6 Dwayne Bravo to KL Rahul 6 Score: 165/1
+18.1 Glenn Maxwell to Moeen Ali 2 Score: 167/1
+18.2 Glenn Maxwell to Moeen Ali Wide Score: 168/1
+18.2 Glenn Maxwell to Moeen Ali 4 Score: 172/1
+18.3 Glenn Maxwell to Moeen Ali 0 Score: 172/1
+18.4 Glenn Maxwell to Moeen Ali 1 Score: 173/1
+18.5 Glenn Maxwell to KL Rahul 0 Score: 173/1
+18.6 Glenn Maxwell to KL Rahul W Score: 173/2 Lbw
+19.1 Axar Patel to Moeen Ali 0 Score: 173/2
+19.2 Axar Patel to Moeen Ali 1 Score: 174/2
+pbks won by 8 wickets
++-----------------+--------+---------+--------+--------------------+
+| Player          |   Runs |   Balls | SR     | Out                |
++=================+========+=========+========+====================+
+| Shahbaz Ahmed   |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
+| M Shahrukh Khan |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
+| KL Rahul        |     81 |      60 | 135.0  | Lbw b GJ Maxwell   |
++-----------------+--------+---------+--------+--------------------+
+| MK Lomror       |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
+| MM Ali          |     36 |      26 | 138.46 | Not out            |
++-----------------+--------+---------+--------+--------------------+
+| Ravi Bishnoi    |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
+| DJ Hooda        |      0 |       0 | NA     | Not out            |
++-----------------+--------+---------+--------+--------------------+
+| T VERMA         |     43 |      31 | 138.71 | Caught b CH Morris |
++-----------------+--------+---------+--------+--------------------+
+| R SINGH         |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
+| R Parag         |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
+| C Sakariya      |      0 |       0 | NA     | DNB                |
++-----------------+--------+---------+--------+--------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| S Dhawan          |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |     27 |     3   |         1 | 9.0   |
++-------------------+--------+---------+-----------+-------+
+| KK Ahmed          |     33 |     4   |         0 | 8.25  |
++-------------------+--------+---------+-----------+-------+
+| Mustafizur Rahman |     12 |     3   |         0 | 4.0   |
++-------------------+--------+---------+-----------+-------+
+| SA Yadav          |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SV Samson         |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| DJ Bravo          |     40 |     3   |         0 | 13.33 |
++-------------------+--------+---------+-----------+-------+
+| CH Morris         |     34 |     4   |         1 | 8.5   |
++-------------------+--------+---------+-----------+-------+
+| PP Shaw           |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KS Williamson     |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AR Patel          |     16 |     2.2 |         0 | 6.86  |
++-------------------+--------+---------+-----------+-------+

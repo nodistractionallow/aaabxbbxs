@@ -1,0 +1,349 @@
+['Mohammed Siraj', 'Mayank Agarwal', 'Kieron Pollard', 'Kartik Tyagi', 'Yuzvendra Chahal', 'AB de Villiers', 'Kagiso Rabada', 'Wriddhiman Saha', 'Andre Russell', 'Lalit Yadav', 'Quinton de Kock']
+rr won the toss and chose to field
+0.1 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 0/0
+0.2 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 0/0
+0.3 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 0/0
+0.4 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 0/0
+0.5 Kagiso Rabada to Yashasvi Jaiswal 1 B! Score: 1/0
+0.6 Kagiso Rabada to Rahul Tripathi 1 Score: 2/0
+1.1 Andre Russell to Rahul Tripathi 1 Score: 3/0
+1.2 Andre Russell to Yashasvi Jaiswal 1 Score: 4/0
+1.3 Andre Russell to Rahul Tripathi 0 Score: 4/0
+1.4 Andre Russell to Rahul Tripathi 4 Score: 8/0
+1.5 Andre Russell to Rahul Tripathi 2 Score: 10/0
+1.6 Andre Russell to Rahul Tripathi 1 Score: 11/0
+2.1 Kagiso Rabada to Rahul Tripathi 2 Score: 13/0
+2.2 Kagiso Rabada to Rahul Tripathi 1 Score: 14/0
+2.3 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 14/0
+2.4 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 14/0
+2.5 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 14/0
+2.6 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 14/0
+3.1 Andre Russell to Rahul Tripathi 2 Score: 16/0
+3.2 Andre Russell to Rahul Tripathi W Score: 16/1 Caught
+3.3 Andre Russell to Sunil Narine 0 Score: 16/1
+3.4 Andre Russell to Sunil Narine 0 Score: 16/1
+3.5 Andre Russell to Sunil Narine 1 Score: 17/1
+3.6 Andre Russell to Yashasvi Jaiswal 0 Score: 17/1
+4.1 Yuzvendra Chahal to Sunil Narine 1 B! Score: 18/1
+4.2 Yuzvendra Chahal to Yashasvi Jaiswal 1 Score: 19/1
+4.3 Yuzvendra Chahal to Sunil Narine W Score: 19/2 Caught
+4.4 Yuzvendra Chahal to Eoin Morgan 1 Score: 20/2
+4.5 Yuzvendra Chahal to Yashasvi Jaiswal 1 Score: 21/2
+4.6 Yuzvendra Chahal to Eoin Morgan 1 Score: 22/2
+5.1 Mohammed Siraj to Eoin Morgan 6 Score: 28/2
+5.2 Mohammed Siraj to Eoin Morgan 1 Score: 29/2
+5.3 Mohammed Siraj to Yashasvi Jaiswal 0 Score: 29/2
+5.4 Mohammed Siraj to Yashasvi Jaiswal 0 Score: 29/2
+5.5 Mohammed Siraj to Yashasvi Jaiswal 0 Score: 29/2
+5.6 Mohammed Siraj to Yashasvi Jaiswal Wide Score: 30/2
+5.6 Mohammed Siraj to Yashasvi Jaiswal 1 Score: 31/2
+6.1 Lalit Yadav to Yashasvi Jaiswal 0 Score: 31/2
+6.2 Lalit Yadav to Yashasvi Jaiswal 0 Score: 31/2
+6.3 Lalit Yadav to Yashasvi Jaiswal 1 Score: 32/2
+6.4 Lalit Yadav to Eoin Morgan 1 B! Score: 33/2
+6.5 Lalit Yadav to Yashasvi Jaiswal 1 Score: 34/2
+6.6 Lalit Yadav to Eoin Morgan 1 Score: 35/2
+7.1 Kartik Tyagi to Eoin Morgan 0 Score: 35/2
+7.2 Kartik Tyagi to Eoin Morgan 6 Score: 41/2
+7.3 Kartik Tyagi to Eoin Morgan 1 Score: 42/2
+7.4 Kartik Tyagi to Yashasvi Jaiswal 1 Score: 43/2
+7.5 Kartik Tyagi to Eoin Morgan 0 Score: 43/2
+7.6 Kartik Tyagi to Eoin Morgan 0 Score: 43/2
+8.1 Kagiso Rabada to Yashasvi Jaiswal 6 Score: 49/2
+8.2 Kagiso Rabada to Yashasvi Jaiswal 0 Score: 49/2
+8.3 Kagiso Rabada to Yashasvi Jaiswal 1 B! Score: 50/2
+8.4 Kagiso Rabada to Eoin Morgan 0 Score: 50/2
+8.5 Kagiso Rabada to Eoin Morgan 3 Score: 53/2
+8.6 Kagiso Rabada to Yashasvi Jaiswal 4 Score: 57/2
+9.1 Andre Russell to Eoin Morgan 4 Score: 61/2
+9.2 Andre Russell to Eoin Morgan Wide Score: 62/2
+9.2 Andre Russell to Eoin Morgan 4 Score: 66/2
+9.3 Andre Russell to Eoin Morgan Wide Score: 67/2
+9.3 Andre Russell to Eoin Morgan 1 Score: 68/2
+9.4 Andre Russell to Yashasvi Jaiswal 1 Score: 69/2
+9.5 Andre Russell to Eoin Morgan 0 Score: 69/2
+9.6 Andre Russell to Eoin Morgan 4 Score: 73/2
+10.1 Yuzvendra Chahal to Yashasvi Jaiswal Wide Score: 74/2
+10.1 Yuzvendra Chahal to Yashasvi Jaiswal 0 Score: 74/2
+10.2 Yuzvendra Chahal to Yashasvi Jaiswal 1 Score: 75/2
+10.3 Yuzvendra Chahal to Eoin Morgan 1 Score: 76/2
+10.4 Yuzvendra Chahal to Yashasvi Jaiswal 1 Score: 77/2
+10.5 Yuzvendra Chahal to Eoin Morgan 1 Score: 78/2
+10.6 Yuzvendra Chahal to Yashasvi Jaiswal 0 Score: 78/2
+11.1 Mohammed Siraj to Eoin Morgan 1 Score: 79/2
+11.2 Mohammed Siraj to Yashasvi Jaiswal 1 Score: 80/2
+11.3 Mohammed Siraj to Eoin Morgan 4 Score: 84/2
+11.4 Mohammed Siraj to Eoin Morgan 0 Score: 84/2
+11.5 Mohammed Siraj to Eoin Morgan 4 Score: 88/2
+11.6 Mohammed Siraj to Eoin Morgan 1 Score: 89/2
+12.1 Lalit Yadav to Eoin Morgan 0 Score: 89/2
+12.2 Lalit Yadav to Eoin Morgan 0 Score: 89/2
+12.3 Lalit Yadav to Eoin Morgan 4 Score: 93/2
+12.4 Lalit Yadav to Eoin Morgan 1 Score: 94/2
+12.5 Lalit Yadav to Yashasvi Jaiswal W Score: 94/3 Bowled
+12.6 Lalit Yadav to Abdul Samad 0 Score: 94/3
+13.1 Kartik Tyagi to Eoin Morgan 1 Score: 95/3
+13.2 Kartik Tyagi to Abdul Samad 0 Score: 95/3
+13.3 Kartik Tyagi to Abdul Samad 0 Score: 95/3
+13.4 Kartik Tyagi to Abdul Samad 1 Score: 96/3
+13.5 Kartik Tyagi to Eoin Morgan 1 Score: 97/3
+13.6 Kartik Tyagi to Abdul Samad Wide Score: 98/3
+13.6 Kartik Tyagi to Abdul Samad 1 Score: 99/3
+14.1 Kagiso Rabada to Abdul Samad 0 Score: 99/3
+14.2 Kagiso Rabada to Abdul Samad 0 Score: 99/3
+14.3 Kagiso Rabada to Abdul Samad 1 Score: 100/3
+14.4 Kagiso Rabada to Eoin Morgan 1 Score: 101/3
+14.5 Kagiso Rabada to Abdul Samad W Score: 101/4 Caught
+14.6 Kagiso Rabada to Krunal Pandya 2 Score: 103/4
+15.1 Andre Russell to Eoin Morgan 1 Score: 104/4
+15.2 Andre Russell to Krunal Pandya 0 Score: 104/4
+15.3 Andre Russell to Krunal Pandya 4 Score: 108/4
+15.4 Andre Russell to Krunal Pandya 0 Score: 108/4
+15.5 Andre Russell to Krunal Pandya 1 Score: 109/4
+15.6 Andre Russell to Eoin Morgan 4 Score: 113/4
+16.1 Yuzvendra Chahal to Krunal Pandya 0 Score: 113/4
+16.2 Yuzvendra Chahal to Krunal Pandya 4 Score: 117/4
+16.3 Yuzvendra Chahal to Krunal Pandya 6 Score: 123/4
+16.4 Yuzvendra Chahal to Krunal Pandya 1 Score: 124/4
+16.5 Yuzvendra Chahal to Eoin Morgan 1 Score: 125/4
+16.6 Yuzvendra Chahal to Krunal Pandya 6 Score: 131/4
+17.1 Mohammed Siraj to Eoin Morgan 6 Score: 137/4
+17.2 Mohammed Siraj to Eoin Morgan 1 Score: 138/4
+17.3 Mohammed Siraj to Krunal Pandya 0 Score: 138/4
+17.4 Mohammed Siraj to Krunal Pandya 1 Score: 139/4
+17.5 Mohammed Siraj to Eoin Morgan 6 Score: 145/4
+17.6 Mohammed Siraj to Eoin Morgan 0 Score: 145/4
+18.1 Lalit Yadav to Krunal Pandya 4 Score: 149/4
+18.2 Lalit Yadav to Krunal Pandya 4 Score: 153/4
+18.3 Lalit Yadav to Krunal Pandya 0 Score: 153/4
+18.4 Lalit Yadav to Krunal Pandya 1 Score: 154/4
+18.5 Lalit Yadav to Eoin Morgan W Score: 154/5 Caught
+18.6 Lalit Yadav to Ravindra Jadeja 2 Score: 156/5
+19.1 Kartik Tyagi to Krunal Pandya 6 Score: 162/5
+19.2 Kartik Tyagi to Krunal Pandya 0 Score: 162/5
+19.3 Kartik Tyagi to Krunal Pandya 0 Score: 162/5
+19.4 Kartik Tyagi to Krunal Pandya 1 Score: 163/5
+19.5 Kartik Tyagi to Ravindra Jadeja 1 Score: 164/5
+19.6 Kartik Tyagi to Krunal Pandya 0 Score: 164/5
++-------------+--------+---------+--------+----------------------+
+| Player      |   Runs |   Balls | SR     | Out                  |
++=============+========+=========+========+======================+
+| HV Patel    |      0 |       0 | NA     | DNB                  |
++-------------+--------+---------+--------+----------------------+
+| KH Pandya   |     41 |      21 | 195.24 | Not out              |
++-------------+--------+---------+--------+----------------------+
+| Abdul Samad |      3 |       9 | 33.33  | Caught b K Rabada    |
++-------------+--------+---------+--------+----------------------+
+| YBK Jaiswal |     21 |      33 | 63.64  | Bowled b Lalit Yadav |
++-------------+--------+---------+--------+----------------------+
+| RA Tripathi |     14 |      10 | 140.0  | Caught b AD Russell  |
++-------------+--------+---------+--------+----------------------+
+| EJG Morgan  |     72 |      40 | 180.0  | Caught b Lalit Yadav |
++-------------+--------+---------+--------+----------------------+
+| RA Jadeja   |      3 |       2 | 150.0  | Not out              |
++-------------+--------+---------+--------+----------------------+
+| SP Narine   |      1 |       5 | 20.0   | Caught b YS Chahal   |
++-------------+--------+---------+--------+----------------------+
+| Shivam Mavi |      0 |       0 | NA     | DNB                  |
++-------------+--------+---------+--------+----------------------+
+| RP Meredith |      0 |       0 | NA     | DNB                  |
++-------------+--------+---------+--------+----------------------+
+| R Tewatia   |      0 |       0 | NA     | DNB                  |
++-------------+--------+---------+--------+----------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Mohammed Siraj |     34 |       3 |         0 | 11.33 |
++----------------+--------+---------+-----------+-------+
+| MA Agarwal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KA Pollard     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Kartik Tyagi   |     21 |       3 |         0 | 7.0   |
++----------------+--------+---------+-----------+-------+
+| YS Chahal      |     27 |       3 |         1 | 9.0   |
++----------------+--------+---------+-----------+-------+
+| AB de Villiers |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| K Rabada       |     21 |       4 |         1 | 5.25  |
++----------------+--------+---------+-----------+-------+
+| WP Saha        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| AD Russell     |     38 |       4 |         1 | 9.5   |
++----------------+--------+---------+-----------+-------+
+| Lalit Yadav    |     19 |       3 |         2 | 6.33  |
++----------------+--------+---------+-----------+-------+
+| Q de Kock      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+0.1 Shivam Mavi to Quinton de Kock 0 Score: 0/0
+0.2 Shivam Mavi to Quinton de Kock 4 Score: 4/0
+0.3 Shivam Mavi to Quinton de Kock 4 Score: 8/0
+0.4 Shivam Mavi to Quinton de Kock 0 Score: 8/0
+0.5 Shivam Mavi to Quinton de Kock 1 Score: 9/0
+0.6 Shivam Mavi to Mayank Agarwal 2 Score: 11/0
+1.1 Sunil Narine to Quinton de Kock 1 Score: 12/0
+1.2 Sunil Narine to Mayank Agarwal 1 Score: 13/0
+1.3 Sunil Narine to Quinton de Kock 0 Score: 13/0
+1.4 Sunil Narine to Quinton de Kock 0 Score: 13/0
+1.5 Sunil Narine to Quinton de Kock 0 Score: 13/0
+1.6 Sunil Narine to Quinton de Kock 4 Score: 17/0
+2.1 Harshal Patel to Mayank Agarwal W Score: 17/1 Bowled
+2.2 Harshal Patel to AB de Villiers 2 Score: 19/1
+2.3 Harshal Patel to AB de Villiers 4 Score: 23/1
+2.4 Harshal Patel to AB de Villiers 0 Score: 23/1
+2.5 Harshal Patel to AB de Villiers 0 Score: 23/1
+2.6 Harshal Patel to AB de Villiers 0 Score: 23/1
+3.1 Shivam Mavi to Quinton de Kock 0 Score: 23/1
+3.2 Shivam Mavi to Quinton de Kock 1 Score: 24/1
+3.3 Shivam Mavi to AB de Villiers 0 Score: 24/1
+3.4 Shivam Mavi to AB de Villiers 4 Score: 28/1
+3.5 Shivam Mavi to AB de Villiers 4 Score: 32/1
+3.6 Shivam Mavi to AB de Villiers 1 Score: 33/1
+4.1 Rahul Tewatia to AB de Villiers 1 Score: 34/1
+4.2 Rahul Tewatia to Quinton de Kock 0 Score: 34/1
+4.3 Rahul Tewatia to Quinton de Kock 2 Score: 36/1
+4.4 Rahul Tewatia to Quinton de Kock 0 Score: 36/1
+4.5 Rahul Tewatia to Quinton de Kock 2 Score: 38/1
+4.6 Rahul Tewatia to Quinton de Kock W Score: 38/2 Caught
+5.1 Ravindra Jadeja to AB de Villiers 0 Score: 38/2
+5.2 Ravindra Jadeja to AB de Villiers 4 Score: 42/2
+5.3 Ravindra Jadeja to AB de Villiers 4 Score: 46/2
+5.4 Ravindra Jadeja to AB de Villiers 1 Score: 47/2
+5.5 Ravindra Jadeja to Wriddhiman Saha 0 Score: 47/2
+5.6 Ravindra Jadeja to Wriddhiman Saha 1 Score: 48/2
+6.1 Sunil Narine to Wriddhiman Saha W Score: 48/3 Lbw
+6.2 Sunil Narine to Kieron Pollard 1 Score: 49/3
+6.3 Sunil Narine to AB de Villiers 1 Score: 50/3
+6.4 Sunil Narine to Kieron Pollard 1 Score: 51/3
+6.5 Sunil Narine to AB de Villiers 4 Score: 55/3
+6.6 Sunil Narine to AB de Villiers 1 Score: 56/3
+7.1 Krunal Pandya to AB de Villiers 1 Score: 57/3
+7.2 Krunal Pandya to Kieron Pollard W Score: 57/4 Lbw
+7.3 Krunal Pandya to Andre Russell 1 Score: 58/4
+7.4 Krunal Pandya to AB de Villiers 4 Score: 62/4
+7.5 Krunal Pandya to AB de Villiers 1 Score: 63/4
+7.6 Krunal Pandya to Andre Russell 1 Score: 64/4
+8.1 Harshal Patel to Andre Russell 0 Score: 64/4
+8.2 Harshal Patel to Andre Russell 6 Score: 70/4
+8.3 Harshal Patel to Andre Russell 1 Score: 71/4
+8.4 Harshal Patel to AB de Villiers 1 Score: 72/4
+8.5 Harshal Patel to Andre Russell 1 Score: 73/4
+8.6 Harshal Patel to AB de Villiers 1 Score: 74/4
+9.1 Shivam Mavi to AB de Villiers 1 Score: 75/4
+9.2 Shivam Mavi to Andre Russell 0 Score: 75/4
+9.3 Shivam Mavi to Andre Russell W Score: 75/5 Run Out (0r)
+9.4 Shivam Mavi to Lalit Yadav 0 Score: 75/5
+9.5 Shivam Mavi to Lalit Yadav 1 Score: 76/5
+9.6 Shivam Mavi to AB de Villiers 4 Score: 80/5
+10.1 Rahul Tewatia to Lalit Yadav 1 Score: 81/5
+10.2 Rahul Tewatia to AB de Villiers 1 Score: 82/5
+10.3 Rahul Tewatia to Lalit Yadav 1 Score: 83/5
+10.4 Rahul Tewatia to AB de Villiers 0 Score: 83/5
+10.5 Rahul Tewatia to AB de Villiers 0 Score: 83/5
+10.6 Rahul Tewatia to AB de Villiers 1 Score: 84/5
+11.1 Ravindra Jadeja to AB de Villiers 4 Score: 88/5
+11.2 Ravindra Jadeja to AB de Villiers 0 Score: 88/5
+11.3 Ravindra Jadeja to AB de Villiers 0 Score: 88/5
+11.4 Ravindra Jadeja to AB de Villiers 2 Score: 90/5
+11.5 Ravindra Jadeja to AB de Villiers 6 Score: 96/5
+11.6 Ravindra Jadeja to AB de Villiers 0 Score: 96/5
+12.1 Sunil Narine to Lalit Yadav 0 Score: 96/5
+12.2 Sunil Narine to Lalit Yadav 0 Score: 96/5
+12.3 Sunil Narine to Lalit Yadav 0 Score: 96/5
+12.4 Sunil Narine to Lalit Yadav 2 Score: 98/5
+12.5 Sunil Narine to Lalit Yadav 1 LB! Score: 99/5
+12.6 Sunil Narine to AB de Villiers 1 Score: 100/5
+13.1 Krunal Pandya to AB de Villiers 1 LB! Score: 101/5
+13.2 Krunal Pandya to Lalit Yadav 0 Score: 101/5
+13.3 Krunal Pandya to Lalit Yadav 1 Score: 102/5
+13.4 Krunal Pandya to AB de Villiers 1 Score: 103/5
+13.5 Krunal Pandya to Lalit Yadav 1 Score: 104/5
+13.6 Krunal Pandya to AB de Villiers 1 Score: 105/5
+14.1 Harshal Patel to AB de Villiers 0 Score: 105/5
+14.2 Harshal Patel to AB de Villiers 0 Score: 105/5
+14.3 Harshal Patel to AB de Villiers 2 Score: 107/5
+14.4 Harshal Patel to AB de Villiers 1 Score: 108/5
+14.5 Harshal Patel to Lalit Yadav 0 Score: 108/5
+14.6 Harshal Patel to Lalit Yadav 2 Score: 110/5
+15.1 Shivam Mavi to AB de Villiers 4 Score: 114/5
+15.2 Shivam Mavi to AB de Villiers 0 Score: 114/5
+15.3 Shivam Mavi to AB de Villiers W Score: 114/6 Caught
+15.4 Shivam Mavi to Kagiso Rabada 6 Score: 120/6
+15.5 Shivam Mavi to Kagiso Rabada 0 Score: 120/6
+15.6 Shivam Mavi to Kagiso Rabada 0 Score: 120/6
+16.1 Rahul Tewatia to Lalit Yadav 1 Score: 121/6
+16.2 Rahul Tewatia to Kagiso Rabada 0 Score: 121/6
+16.3 Rahul Tewatia to Kagiso Rabada 0 Score: 121/6
+16.4 Rahul Tewatia to Kagiso Rabada 1 Score: 122/6
+16.5 Rahul Tewatia to Lalit Yadav 6 Score: 128/6
+16.6 Rahul Tewatia to Lalit Yadav W Score: 128/7 Lbw
+17.1 Ravindra Jadeja to Kagiso Rabada W Score: 128/8 Caught
+17.2 Ravindra Jadeja to Yuzvendra Chahal 1 Score: 129/8
+17.3 Ravindra Jadeja to Mohammed Siraj 1 Score: 130/8
+17.4 Ravindra Jadeja to Yuzvendra Chahal 0 Score: 130/8
+17.5 Ravindra Jadeja to Yuzvendra Chahal 4 Score: 134/8
+17.6 Ravindra Jadeja to Yuzvendra Chahal 6 Score: 140/8
+18.1 Sunil Narine to Mohammed Siraj 1 Score: 141/8
+18.2 Sunil Narine to Yuzvendra Chahal 1 Score: 142/8
+18.3 Sunil Narine to Mohammed Siraj 4 Score: 146/8
+18.4 Sunil Narine to Mohammed Siraj 6 Score: 152/8
+18.5 Sunil Narine to Mohammed Siraj W Score: 152/9 Caught
+18.6 Sunil Narine to Kartik Tyagi 0 Score: 152/9
+19.1 Krunal Pandya to Yuzvendra Chahal Wide Score: 153/9
+19.1 Krunal Pandya to Yuzvendra Chahal 1 Score: 154/9
+19.2 Krunal Pandya to Kartik Tyagi 1 Score: 155/9
+19.3 Krunal Pandya to Yuzvendra Chahal 0 Score: 155/9
+19.4 Krunal Pandya to Yuzvendra Chahal 2 Score: 157/9
+19.5 Krunal Pandya to Yuzvendra Chahal 0 Score: 157/9
+19.6 Krunal Pandya to Yuzvendra Chahal 0 Score: 157/9
+srh won by 7 runs
++----------------+--------+---------+--------+----------------------------+
+| Player         |   Runs |   Balls |     SR | Out                        |
++================+========+=========+========+============================+
+| Mohammed Siraj |     12 |       5 | 240    | Caught b SP Narine         |
++----------------+--------+---------+--------+----------------------------+
+| MA Agarwal     |      3 |       3 | 100    | Bowled b HV Patel          |
++----------------+--------+---------+--------+----------------------------+
+| KA Pollard     |      2 |       3 |  66.67 | Lbw b KH Pandya            |
++----------------+--------+---------+--------+----------------------------+
+| Kartik Tyagi   |      1 |       2 |  50    | Not out                    |
++----------------+--------+---------+--------+----------------------------+
+| YS Chahal      |     15 |      10 | 150    | Not out                    |
++----------------+--------+---------+--------+----------------------------+
+| AB de Villiers |     68 |      45 | 151.11 | Caught b Shivam Mavi       |
++----------------+--------+---------+--------+----------------------------+
+| K Rabada       |      7 |       7 | 100    | Caught b RA Jadeja         |
++----------------+--------+---------+--------+----------------------------+
+| WP Saha        |      1 |       3 |  33.33 | Lbw b SP Narine            |
++----------------+--------+---------+--------+----------------------------+
+| AD Russell     |     10 |       8 | 125    | Run Out (0r) b Shivam Mavi |
++----------------+--------+---------+--------+----------------------------+
+| Lalit Yadav    |     16 |      17 |  94.12 | Lbw b R Tewatia            |
++----------------+--------+---------+--------+----------------------------+
+| Q de Kock      |     19 |      17 | 111.76 | Caught b R Tewatia         |
++----------------+--------+---------+--------+----------------------------+
++-------------+--------+---------+-----------+-------+
+| Player      |   Runs |   Overs |   Wickets | Eco   |
++=============+========+=========+===========+=======+
+| HV Patel    |     21 |       3 |         1 | 7.0   |
++-------------+--------+---------+-----------+-------+
+| KH Pandya   |     17 |       3 |         1 | 5.67  |
++-------------+--------+---------+-----------+-------+
+| Abdul Samad |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| YBK Jaiswal |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Tripathi |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| EJG Morgan  |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Jadeja   |     34 |       3 |         1 | 11.33 |
++-------------+--------+---------+-----------+-------+
+| SP Narine   |     29 |       4 |         2 | 7.25  |
++-------------+--------+---------+-----------+-------+
+| Shivam Mavi |     37 |       4 |         1 | 9.25  |
++-------------+--------+---------+-----------+-------+
+| RP Meredith |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| R Tewatia   |     17 |       3 |         2 | 5.67  |
++-------------+--------+---------+-----------+-------+

@@ -1,0 +1,350 @@
+['Shahbaz Ahmed', 'Shahrukh Khan', 'KL Rahul', 'Mahipal Lomror', 'Moeen Ali', 'Ravi Bishnoi', 'Deepak Hooda', 'TILAK VERMA', 'RINKU SINGH', 'Riyan Parag', 'Chetan Sakariya']
+pbks won the toss and chose to field
+0.1 Chetan Sakariya to Yashasvi Jaiswal 2 Score: 2/0
+0.2 Chetan Sakariya to Yashasvi Jaiswal 0 Score: 2/0
+0.3 Chetan Sakariya to Yashasvi Jaiswal 4 Score: 6/0
+0.4 Chetan Sakariya to Yashasvi Jaiswal 0 Score: 6/0
+0.5 Chetan Sakariya to Yashasvi Jaiswal 0 Score: 6/0
+0.6 Chetan Sakariya to Yashasvi Jaiswal 2 Score: 8/0
+1.1 Moeen Ali to Rahul Tripathi 1 Score: 9/0
+1.2 Moeen Ali to Yashasvi Jaiswal 4 Score: 13/0
+1.3 Moeen Ali to Yashasvi Jaiswal 0 Score: 13/0
+1.4 Moeen Ali to Yashasvi Jaiswal 1 Score: 14/0
+1.5 Moeen Ali to Rahul Tripathi 2 Score: 16/0
+1.6 Moeen Ali to Rahul Tripathi 1 Score: 17/0
+2.1 Shahbaz Ahmed to Rahul Tripathi 1 Score: 18/0
+2.2 Shahbaz Ahmed to Yashasvi Jaiswal 1 Score: 19/0
+2.3 Shahbaz Ahmed to Rahul Tripathi 0 Score: 19/0
+2.4 Shahbaz Ahmed to Rahul Tripathi 1 Score: 20/0
+2.5 Shahbaz Ahmed to Yashasvi Jaiswal W Score: 20/1 Caught
+2.6 Shahbaz Ahmed to Sunil Narine 0 Score: 20/1
+3.1 Moeen Ali to Rahul Tripathi 0 Score: 20/1
+3.2 Moeen Ali to Rahul Tripathi 0 Score: 20/1
+3.3 Moeen Ali to Rahul Tripathi 1 Score: 21/1
+3.4 Moeen Ali to Sunil Narine 1 Score: 22/1
+3.5 Moeen Ali to Rahul Tripathi 4 Score: 26/1
+3.6 Moeen Ali to Rahul Tripathi 4 Score: 30/1
+4.1 Ravi Bishnoi to Sunil Narine 0 Score: 30/1
+4.2 Ravi Bishnoi to Sunil Narine 6 Score: 36/1
+4.3 Ravi Bishnoi to Sunil Narine 0 Score: 36/1
+4.4 Ravi Bishnoi to Sunil Narine 0 Score: 36/1
+4.5 Ravi Bishnoi to Sunil Narine 4 Score: 40/1
+4.6 Ravi Bishnoi to Sunil Narine 0 Score: 40/1
+5.1 Chetan Sakariya to Rahul Tripathi 0 Score: 40/1
+5.2 Chetan Sakariya to Rahul Tripathi 4 Score: 44/1
+5.3 Chetan Sakariya to Rahul Tripathi 0 Score: 44/1
+5.4 Chetan Sakariya to Rahul Tripathi 1 Score: 45/1
+5.5 Chetan Sakariya to Sunil Narine 6 Score: 51/1
+5.6 Chetan Sakariya to Sunil Narine NO BALL! Score: 52/1
+5.6 Chetan Sakariya to Sunil Narine 6 Score: 58/1 (Free Hit) (Off No-Ball)
+5.6 Chetan Sakariya to Sunil Narine 1 Score: 59/1 (Free Hit)
+6.1 Deepak Hooda to Sunil Narine 0 Score: 59/1
+6.2 Deepak Hooda to Sunil Narine 4 Score: 63/1
+6.3 Deepak Hooda to Sunil Narine 4 Score: 67/1
+6.4 Deepak Hooda to Sunil Narine 0 Score: 67/1
+6.5 Deepak Hooda to Sunil Narine 6 Score: 73/1
+6.6 Deepak Hooda to Sunil Narine 1 Score: 74/1
+7.1 RINKU SINGH to Sunil Narine 0 Score: 74/1
+7.2 RINKU SINGH to Sunil Narine 6 Score: 80/1
+7.3 RINKU SINGH to Sunil Narine 0 Score: 80/1
+7.4 RINKU SINGH to Sunil Narine 0 Score: 80/1
+7.5 RINKU SINGH to Sunil Narine NO BALL! Score: 81/1
+7.5 RINKU SINGH to Sunil Narine 1 Score: 82/1 (Free Hit) (Off No-Ball)
+7.5 RINKU SINGH to Rahul Tripathi 0 Score: 82/1 (Free Hit)
+7.6 RINKU SINGH to Rahul Tripathi 1 Score: 83/1
+8.1 Shahbaz Ahmed to Rahul Tripathi 4 Score: 87/1
+8.2 Shahbaz Ahmed to Rahul Tripathi 2 Score: 89/1
+8.3 Shahbaz Ahmed to Rahul Tripathi 4 Score: 93/1
+8.4 Shahbaz Ahmed to Rahul Tripathi 1 Score: 94/1
+8.5 Shahbaz Ahmed to Sunil Narine 1 Score: 95/1
+8.6 Shahbaz Ahmed to Rahul Tripathi 2 Score: 97/1
+9.1 Moeen Ali to Sunil Narine 1 Score: 98/1
+9.2 Moeen Ali to Rahul Tripathi 2 Score: 100/1
+9.3 Moeen Ali to Rahul Tripathi 1 Score: 101/1
+9.4 Moeen Ali to Sunil Narine 0 Score: 101/1
+9.5 Moeen Ali to Sunil Narine 4 Score: 105/1
+9.6 Moeen Ali to Sunil Narine 0 Score: 105/1
+10.1 Ravi Bishnoi to Rahul Tripathi 4 Score: 109/1
+10.2 Ravi Bishnoi to Rahul Tripathi W Score: 109/2 Bowled
+10.3 Ravi Bishnoi to Eoin Morgan 0 Score: 109/2
+10.4 Ravi Bishnoi to Eoin Morgan 1 Score: 110/2
+10.5 Ravi Bishnoi to Sunil Narine 0 Score: 110/2
+10.6 Ravi Bishnoi to Sunil Narine 0 Score: 110/2
+11.1 Chetan Sakariya to Eoin Morgan 1 Score: 111/2
+11.2 Chetan Sakariya to Sunil Narine 1 Score: 112/2
+11.3 Chetan Sakariya to Eoin Morgan 2 Score: 114/2
+11.4 Chetan Sakariya to Eoin Morgan 4 Score: 118/2
+11.5 Chetan Sakariya to Eoin Morgan Wide Score: 119/2
+11.5 Chetan Sakariya to Eoin Morgan 2 Score: 121/2
+11.6 Chetan Sakariya to Eoin Morgan Wide Score: 122/2
+11.6 Chetan Sakariya to Eoin Morgan 0 Score: 122/2
+12.1 Deepak Hooda to Sunil Narine 2 Score: 124/2
+12.2 Deepak Hooda to Sunil Narine 1 Score: 125/2
+12.3 Deepak Hooda to Eoin Morgan 1 Score: 126/2
+12.4 Deepak Hooda to Sunil Narine 1 Score: 127/2
+12.5 Deepak Hooda to Eoin Morgan 1 Score: 128/2
+12.6 Deepak Hooda to Sunil Narine 0 Score: 128/2
+13.1 RINKU SINGH to Eoin Morgan 1 Score: 129/2
+13.2 RINKU SINGH to Sunil Narine 6 Score: 135/2
+13.3 RINKU SINGH to Sunil Narine 6 Score: 141/2
+13.4 RINKU SINGH to Sunil Narine 0 Score: 141/2
+13.5 RINKU SINGH to Sunil Narine 6 Score: 147/2
+13.6 RINKU SINGH to Sunil Narine 4 Score: 151/2
+14.1 Shahbaz Ahmed to Eoin Morgan 1 Score: 152/2
+14.2 Shahbaz Ahmed to Sunil Narine 1 Score: 153/2
+14.3 Shahbaz Ahmed to Eoin Morgan 0 Score: 153/2
+14.4 Shahbaz Ahmed to Eoin Morgan 1 Score: 154/2
+14.5 Shahbaz Ahmed to Sunil Narine 6 Score: 160/2
+14.6 Shahbaz Ahmed to Sunil Narine 2 Score: 162/2
+15.1 Moeen Ali to Eoin Morgan 0 Score: 162/2
+15.2 Moeen Ali to Eoin Morgan 0 Score: 162/2
+15.3 Moeen Ali to Eoin Morgan 1 B! Score: 163/2
+15.4 Moeen Ali to Sunil Narine 0 Score: 163/2
+15.5 Moeen Ali to Sunil Narine 0 Score: 163/2
+15.6 Moeen Ali to Sunil Narine 1 Score: 164/2
+16.1 Ravi Bishnoi to Sunil Narine 6 Score: 170/2
+16.2 Ravi Bishnoi to Sunil Narine 0 Score: 170/2
+16.3 Ravi Bishnoi to Sunil Narine 4 Score: 174/2
+16.4 Ravi Bishnoi to Sunil Narine 0 Score: 174/2
+16.5 Ravi Bishnoi to Sunil Narine 0 Score: 174/2
+16.6 Ravi Bishnoi to Sunil Narine W Score: 174/3 Caught
+17.1 Chetan Sakariya to Eoin Morgan 0 Score: 174/3
+17.2 Chetan Sakariya to Eoin Morgan 1 Score: 175/3
+17.3 Chetan Sakariya to Abdul Samad NO BALL! Score: 176/3
+17.3 Chetan Sakariya to Abdul Samad 4 Score: 180/3 (Free Hit) (Off No-Ball)
+17.3 Chetan Sakariya to Abdul Samad 2 Score: 182/3 (Free Hit)
+17.4 Chetan Sakariya to Abdul Samad 6 Score: 188/3
+17.5 Chetan Sakariya to Abdul Samad 0 Score: 188/3
+17.6 Chetan Sakariya to Abdul Samad 1 Score: 189/3
+18.1 Deepak Hooda to Abdul Samad 2 Score: 191/3
+18.2 Deepak Hooda to Abdul Samad 1 Score: 192/3
+18.3 Deepak Hooda to Eoin Morgan 0 Score: 192/3
+18.4 Deepak Hooda to Eoin Morgan 1 Score: 193/3
+18.5 Deepak Hooda to Abdul Samad 2 Score: 195/3
+18.6 Deepak Hooda to Abdul Samad 2 Score: 197/3
+19.1 RINKU SINGH to Eoin Morgan 6 Score: 203/3
+19.2 RINKU SINGH to Eoin Morgan 4 Score: 207/3
+19.3 RINKU SINGH to Eoin Morgan 0 Score: 207/3
+19.4 RINKU SINGH to Eoin Morgan 4 Score: 211/3
+19.5 RINKU SINGH to Eoin Morgan 0 Score: 211/3
+19.6 RINKU SINGH to Eoin Morgan 4 Score: 215/3
++-------------+--------+---------+--------+------------------------+
+| Player      |   Runs |   Balls | SR     | Out                    |
++=============+========+=========+========+========================+
+| HV Patel    |      0 |       0 | NA     | DNB                    |
++-------------+--------+---------+--------+------------------------+
+| KH Pandya   |      0 |       0 | NA     | DNB                    |
++-------------+--------+---------+--------+------------------------+
+| Abdul Samad |     20 |       9 | 222.22 | Not out                |
++-------------+--------+---------+--------+------------------------+
+| YBK Jaiswal |     14 |      11 | 127.27 | Caught b Shahbaz Ahmed |
++-------------+--------+---------+--------+------------------------+
+| RA Tripathi |     41 |      26 | 157.69 | Bowled b Ravi Bishnoi  |
++-------------+--------+---------+--------+------------------------+
+| EJG Morgan  |     35 |      26 | 134.62 | Not out                |
++-------------+--------+---------+--------+------------------------+
+| RA Jadeja   |      0 |       0 | NA     | DNB                    |
++-------------+--------+---------+--------+------------------------+
+| SP Narine   |     99 |      51 | 194.12 | Caught b Ravi Bishnoi  |
++-------------+--------+---------+--------+------------------------+
+| Shivam Mavi |      0 |       0 | NA     | DNB                    |
++-------------+--------+---------+--------+------------------------+
+| RP Meredith |      0 |       0 | NA     | DNB                    |
++-------------+--------+---------+--------+------------------------+
+| R Tewatia   |      0 |       0 | NA     | DNB                    |
++-------------+--------+---------+--------+------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| Shahbaz Ahmed   |     28 |       3 |         1 | 9.33  |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KL Rahul        |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Lomror       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MM Ali          |     28 |       4 |         0 | 7.0   |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     25 |       3 |         2 | 8.33  |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |     29 |       3 |         0 | 9.67  |
++-----------------+--------+---------+-----------+-------+
+| T VERMA         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| R SINGH         |     50 |       3 |         0 | 16.67 |
++-----------------+--------+---------+-----------+-------+
+| R Parag         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| C Sakariya      |     54 |       4 |         0 | 13.5  |
++-----------------+--------+---------+-----------+-------+
+0.1 Shivam Mavi to TILAK VERMA 1 Score: 1/0
+0.2 Shivam Mavi to KL Rahul 4 Score: 5/0
+0.3 Shivam Mavi to KL Rahul 0 Score: 5/0
+0.4 Shivam Mavi to KL Rahul 4 Score: 9/0
+0.5 Shivam Mavi to KL Rahul 1 Score: 10/0
+0.6 Shivam Mavi to TILAK VERMA 6 Score: 16/0
+1.1 Sunil Narine to KL Rahul 1 B! Score: 17/0
+1.2 Sunil Narine to TILAK VERMA 1 Score: 18/0
+1.3 Sunil Narine to KL Rahul 1 Score: 19/0
+1.4 Sunil Narine to TILAK VERMA 1 B! Score: 20/0
+1.5 Sunil Narine to KL Rahul 6 Score: 26/0
+1.6 Sunil Narine to KL Rahul 2 Score: 28/0
+2.1 Harshal Patel to TILAK VERMA 0 Score: 28/0
+2.2 Harshal Patel to TILAK VERMA 4 Score: 32/0
+2.3 Harshal Patel to TILAK VERMA 1 Score: 33/0
+2.4 Harshal Patel to KL Rahul 0 Score: 33/0
+2.5 Harshal Patel to KL Rahul Wide Score: 34/0
+2.5 Harshal Patel to KL Rahul 1 Score: 35/0
+2.6 Harshal Patel to TILAK VERMA 1 Score: 36/0
+3.1 Shivam Mavi to TILAK VERMA 1 Score: 37/0
+3.2 Shivam Mavi to KL Rahul 0 Score: 37/0
+3.3 Shivam Mavi to KL Rahul 0 Score: 37/0
+3.4 Shivam Mavi to KL Rahul 0 Score: 37/0
+3.5 Shivam Mavi to KL Rahul 1 Score: 38/0
+3.6 Shivam Mavi to TILAK VERMA 0 Score: 38/0
+4.1 Rahul Tewatia to KL Rahul 4 Score: 42/0
+4.2 Rahul Tewatia to KL Rahul 1 Score: 43/0
+4.3 Rahul Tewatia to TILAK VERMA 4 Score: 47/0
+4.4 Rahul Tewatia to TILAK VERMA 0 Score: 47/0
+4.5 Rahul Tewatia to TILAK VERMA 0 Score: 47/0
+4.6 Rahul Tewatia to TILAK VERMA 1 Score: 48/0
+5.1 Ravindra Jadeja to TILAK VERMA 4 Score: 52/0
+5.2 Ravindra Jadeja to TILAK VERMA 0 Score: 52/0
+5.3 Ravindra Jadeja to TILAK VERMA 1 Score: 53/0
+5.4 Ravindra Jadeja to KL Rahul 0 Score: 53/0
+5.5 Ravindra Jadeja to KL Rahul 4 Score: 57/0
+5.6 Ravindra Jadeja to KL Rahul 1 Score: 58/0
+6.1 Sunil Narine to KL Rahul 1 Score: 59/0
+6.2 Sunil Narine to TILAK VERMA 2 Score: 61/0
+6.3 Sunil Narine to TILAK VERMA 4 Score: 65/0
+6.4 Sunil Narine to TILAK VERMA 1 Score: 66/0
+6.5 Sunil Narine to KL Rahul 2 Score: 68/0
+6.6 Sunil Narine to KL Rahul 0 Score: 68/0
+7.1 Krunal Pandya to TILAK VERMA 0 Score: 68/0
+7.2 Krunal Pandya to TILAK VERMA 4 Score: 72/0
+7.3 Krunal Pandya to TILAK VERMA 6 Score: 78/0
+7.4 Krunal Pandya to TILAK VERMA 2 Score: 80/0
+7.5 Krunal Pandya to TILAK VERMA 0 Score: 80/0
+7.6 Krunal Pandya to TILAK VERMA 1 Score: 81/0
+8.1 Harshal Patel to TILAK VERMA 4 Score: 85/0
+8.2 Harshal Patel to TILAK VERMA 0 Score: 85/0
+8.3 Harshal Patel to TILAK VERMA 1 Score: 86/0
+8.4 Harshal Patel to KL Rahul 0 Score: 86/0
+8.5 Harshal Patel to KL Rahul Wide Score: 87/0
+8.5 Harshal Patel to KL Rahul 1 Score: 88/0
+8.6 Harshal Patel to TILAK VERMA NO BALL! Score: 89/0
+8.6 Harshal Patel to TILAK VERMA 0 Score: 89/0 (Free Hit) (Off No-Ball)
+8.6 Harshal Patel to TILAK VERMA 6 Score: 95/0 (Free Hit)
+9.1 Shivam Mavi to KL Rahul 6 Score: 101/0
+9.2 Shivam Mavi to KL Rahul 0 Score: 101/0
+9.3 Shivam Mavi to KL Rahul W Score: 101/1 Bowled
+9.4 Shivam Mavi to Moeen Ali 2 LB! Score: 103/1
+9.5 Shivam Mavi to Moeen Ali 1 Score: 104/1
+9.6 Shivam Mavi to TILAK VERMA 1 Score: 105/1
+10.1 Rahul Tewatia to TILAK VERMA 1 Score: 106/1
+10.2 Rahul Tewatia to Moeen Ali W Score: 107/2 Run Out (1r)
+10.3 Rahul Tewatia to Deepak Hooda 0 Score: 107/2
+10.4 Rahul Tewatia to Deepak Hooda W Score: 107/3 Caught
+10.5 Rahul Tewatia to Mahipal Lomror 4 Score: 111/3
+10.6 Rahul Tewatia to Mahipal Lomror Wide Score: 112/3
+10.6 Rahul Tewatia to Mahipal Lomror 1 Score: 113/3
+11.1 Ravindra Jadeja to Mahipal Lomror Wide Score: 114/3
+11.1 Ravindra Jadeja to Mahipal Lomror 0 Score: 114/3
+11.2 Ravindra Jadeja to Mahipal Lomror 1 Score: 115/3
+11.3 Ravindra Jadeja to TILAK VERMA 1 Score: 116/3
+11.4 Ravindra Jadeja to Mahipal Lomror 1 Score: 117/3
+11.5 Ravindra Jadeja to TILAK VERMA 2 Score: 119/3
+11.6 Ravindra Jadeja to TILAK VERMA 2 Score: 121/3
+12.1 Sunil Narine to Mahipal Lomror 1 Score: 122/3
+12.2 Sunil Narine to TILAK VERMA 0 Score: 122/3
+12.3 Sunil Narine to TILAK VERMA 2 Score: 124/3
+12.4 Sunil Narine to TILAK VERMA 0 Score: 124/3
+12.5 Sunil Narine to TILAK VERMA 1 Score: 125/3
+12.6 Sunil Narine to Mahipal Lomror 4 Score: 129/3
+13.1 Krunal Pandya to TILAK VERMA 1 Score: 130/3
+13.2 Krunal Pandya to Mahipal Lomror W Score: 130/4 Lbw
+13.3 Krunal Pandya to Shahbaz Ahmed 6 Score: 136/4
+13.4 Krunal Pandya to Shahbaz Ahmed 1 Score: 137/4
+13.5 Krunal Pandya to TILAK VERMA 1 Score: 138/4
+13.6 Krunal Pandya to Shahbaz Ahmed 1 Score: 139/4
+14.1 Harshal Patel to Shahbaz Ahmed 1 Score: 140/4
+14.2 Harshal Patel to TILAK VERMA 0 Score: 140/4
+14.3 Harshal Patel to TILAK VERMA 4 Score: 144/4
+14.4 Harshal Patel to TILAK VERMA 2 Score: 146/4
+14.5 Harshal Patel to TILAK VERMA 0 Score: 146/4
+14.6 Harshal Patel to TILAK VERMA 2 Score: 148/4
+15.1 Shivam Mavi to Shahbaz Ahmed W Score: 148/5 Caught
+15.2 Shivam Mavi to Riyan Parag 0 Score: 148/5
+15.3 Shivam Mavi to Riyan Parag 2 Score: 150/5
+15.4 Shivam Mavi to Riyan Parag 1 Score: 151/5
+15.5 Shivam Mavi to TILAK VERMA 1 Score: 152/5
+15.6 Shivam Mavi to Riyan Parag 0 Score: 152/5
+16.1 Rahul Tewatia to TILAK VERMA 4 Score: 156/5
+16.2 Rahul Tewatia to TILAK VERMA 1 Score: 157/5
+16.3 Rahul Tewatia to Riyan Parag W Score: 157/6 Caught
+16.4 Rahul Tewatia to Shahrukh Khan 1 Score: 158/6
+16.5 Rahul Tewatia to TILAK VERMA Wide Score: 159/6
+16.5 Rahul Tewatia to TILAK VERMA 1 Score: 160/6
+16.6 Rahul Tewatia to Shahrukh Khan 0 Score: 160/6
+17.1 Ravindra Jadeja to TILAK VERMA W Score: 160/7 Bowled
+17.2 Ravindra Jadeja to Ravi Bishnoi 4 Score: 164/7
+17.3 Ravindra Jadeja to Ravi Bishnoi 0 Score: 164/7
+17.4 Ravindra Jadeja to Ravi Bishnoi 0 Score: 164/7
+17.5 Ravindra Jadeja to Ravi Bishnoi W Score: 164/8 Caught
+17.6 Ravindra Jadeja to Chetan Sakariya 1 Score: 165/8
+18.1 Sunil Narine to Chetan Sakariya 1 Score: 166/8
+18.2 Sunil Narine to Shahrukh Khan 1 B! Score: 167/8
+18.3 Sunil Narine to Chetan Sakariya W Score: 167/9 Caught
+18.4 Sunil Narine to RINKU SINGH W Score: 167/10 Caught
+srh won by 48 runs
++-----------------+--------+---------+--------+--------------------------+
+| Player          |   Runs |   Balls |     SR | Out                      |
++=================+========+=========+========+==========================+
+| Shahbaz Ahmed   |      9 |       5 | 180    | Caught b Shivam Mavi     |
++-----------------+--------+---------+--------+--------------------------+
+| M Shahrukh Khan |      1 |       3 |  33.33 | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| KL Rahul        |     40 |      27 | 148.15 | Bowled b Shivam Mavi     |
++-----------------+--------+---------+--------+--------------------------+
+| MK Lomror       |     12 |       8 | 150    | Lbw b KH Pandya          |
++-----------------+--------+---------+--------+--------------------------+
+| MM Ali          |      2 |       3 |  66.67 | Run Out (1r) b R Tewatia |
++-----------------+--------+---------+--------+--------------------------+
+| Ravi Bishnoi    |      4 |       4 | 100    | Caught b RA Jadeja       |
++-----------------+--------+---------+--------+--------------------------+
+| DJ Hooda        |      0 |       2 |   0    | Caught b R Tewatia       |
++-----------------+--------+---------+--------+--------------------------+
+| T VERMA         |     83 |      52 | 159.62 | Bowled b RA Jadeja       |
++-----------------+--------+---------+--------+--------------------------+
+| R SINGH         |      0 |       1 |   0    | Caught b SP Narine       |
++-----------------+--------+---------+--------+--------------------------+
+| R Parag         |      3 |       5 |  60    | Caught b R Tewatia       |
++-----------------+--------+---------+--------+--------------------------+
+| C Sakariya      |      2 |       3 |  66.67 | Caught b SP Narine       |
++-----------------+--------+---------+--------+--------------------------+
++-------------+--------+---------+-----------+-------+
+| Player      |   Runs |   Overs |   Wickets | Eco   |
++=============+========+=========+===========+=======+
+| HV Patel    |     31 |     3   |         0 | 10.33 |
++-------------+--------+---------+-----------+-------+
+| KH Pandya   |     23 |     2   |         1 | 11.5  |
++-------------+--------+---------+-----------+-------+
+| Abdul Samad |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| YBK Jaiswal |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Tripathi |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| EJG Morgan  |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Jadeja   |     23 |     3   |         2 | 7.67  |
++-------------+--------+---------+-----------+-------+
+| SP Narine   |     29 |     3.4 |         2 | 7.91  |
++-------------+--------+---------+-----------+-------+
+| Shivam Mavi |     30 |     4   |         2 | 7.5   |
++-------------+--------+---------+-----------+-------+
+| RP Meredith |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| R Tewatia   |     26 |     3   |         2 | 8.67  |
++-------------+--------+---------+-----------+-------+

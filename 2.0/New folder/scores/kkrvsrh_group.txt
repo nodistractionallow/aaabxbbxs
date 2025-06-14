@@ -1,0 +1,357 @@
+['Hardik Pandya', 'Chris Gayle', 'Trent Boult', 'Shreyas Iyer', 'Liam Livingstone', 'Ambati Rayudu', 'Kedar Jadhav', 'Jasprit Bumrah', 'Dan Christian', 'Manish Pandey', 'Prasidh Krishna']
+kkr won the toss and chose to bat
+0.1 Shivam Mavi to Liam Livingstone 4 Score: 4/0
+0.2 Shivam Mavi to Liam Livingstone 4 Score: 8/0
+0.3 Shivam Mavi to Liam Livingstone 0 Score: 8/0
+0.4 Shivam Mavi to Liam Livingstone 1 Score: 9/0
+0.5 Shivam Mavi to Chris Gayle 0 Score: 9/0
+0.6 Shivam Mavi to Chris Gayle 1 Score: 10/0
+1.1 Sunil Narine to Chris Gayle 1 Score: 11/0
+1.2 Sunil Narine to Liam Livingstone 1 Score: 12/0
+1.3 Sunil Narine to Chris Gayle 1 Score: 13/0
+1.4 Sunil Narine to Liam Livingstone 0 Score: 13/0
+1.5 Sunil Narine to Liam Livingstone 0 Score: 13/0
+1.6 Sunil Narine to Liam Livingstone 1 Score: 14/0
+2.1 Harshal Patel to Liam Livingstone Wide Score: 15/0
+2.1 Harshal Patel to Liam Livingstone 1 Score: 16/0
+2.2 Harshal Patel to Chris Gayle 0 Score: 16/0
+2.3 Harshal Patel to Chris Gayle 4 Score: 20/0
+2.4 Harshal Patel to Chris Gayle 0 Score: 20/0
+2.5 Harshal Patel to Chris Gayle 2 Score: 22/0
+2.6 Harshal Patel to Chris Gayle 6 Score: 28/0
+3.1 Shivam Mavi to Liam Livingstone 0 Score: 28/0
+3.2 Shivam Mavi to Liam Livingstone 0 Score: 28/0
+3.3 Shivam Mavi to Liam Livingstone 1 Score: 29/0
+3.4 Shivam Mavi to Chris Gayle 0 Score: 29/0
+3.5 Shivam Mavi to Chris Gayle 0 Score: 29/0
+3.6 Shivam Mavi to Chris Gayle 1 Score: 30/0
+4.1 Rahul Tewatia to Chris Gayle 6 Score: 36/0
+4.2 Rahul Tewatia to Chris Gayle 1 Score: 37/0
+4.3 Rahul Tewatia to Liam Livingstone 1 Score: 38/0
+4.4 Rahul Tewatia to Chris Gayle 6 Score: 44/0
+4.5 Rahul Tewatia to Chris Gayle 0 Score: 44/0
+4.6 Rahul Tewatia to Chris Gayle 1 Score: 45/0
+5.1 Ravindra Jadeja to Chris Gayle 1 Score: 46/0
+5.2 Ravindra Jadeja to Liam Livingstone 6 Score: 52/0
+5.3 Ravindra Jadeja to Liam Livingstone 6 Score: 58/0
+5.4 Ravindra Jadeja to Liam Livingstone 1 Score: 59/0
+5.5 Ravindra Jadeja to Chris Gayle 4 Score: 63/0
+5.6 Ravindra Jadeja to Chris Gayle 0 Score: 63/0
+6.1 Sunil Narine to Liam Livingstone W Score: 63/1 Caught
+6.2 Sunil Narine to Shreyas Iyer 0 Score: 63/1
+6.3 Sunil Narine to Shreyas Iyer 0 Score: 63/1
+6.4 Sunil Narine to Shreyas Iyer 4 Score: 67/1
+6.5 Sunil Narine to Shreyas Iyer 0 Score: 67/1
+6.6 Sunil Narine to Shreyas Iyer 0 Score: 67/1
+7.1 Krunal Pandya to Chris Gayle 0 Score: 67/1
+7.2 Krunal Pandya to Chris Gayle 1 Score: 68/1
+7.3 Krunal Pandya to Shreyas Iyer 4 Score: 72/1
+7.4 Krunal Pandya to Shreyas Iyer 1 Score: 73/1
+7.5 Krunal Pandya to Chris Gayle 0 Score: 73/1
+7.6 Krunal Pandya to Chris Gayle 1 Score: 74/1
+8.1 Harshal Patel to Chris Gayle 4 Score: 78/1
+8.2 Harshal Patel to Chris Gayle 0 Score: 78/1
+8.3 Harshal Patel to Chris Gayle 4 Score: 82/1
+8.4 Harshal Patel to Chris Gayle 1 Score: 83/1
+8.5 Harshal Patel to Shreyas Iyer 1 Score: 84/1
+8.6 Harshal Patel to Chris Gayle Wide Score: 85/1
+8.6 Harshal Patel to Chris Gayle 1 Score: 86/1
+9.1 Shivam Mavi to Chris Gayle 1 Score: 87/1
+9.2 Shivam Mavi to Shreyas Iyer 1 Score: 88/1
+9.3 Shivam Mavi to Chris Gayle 1 Score: 89/1
+9.4 Shivam Mavi to Shreyas Iyer 1 Score: 90/1
+9.5 Shivam Mavi to Chris Gayle 0 Score: 90/1
+9.6 Shivam Mavi to Chris Gayle Wide Score: 91/1
+9.6 Shivam Mavi to Chris Gayle Wide Score: 92/1
+9.6 Shivam Mavi to Chris Gayle 1 Score: 93/1
+10.1 Rahul Tewatia to Chris Gayle 1 Score: 94/1
+10.2 Rahul Tewatia to Shreyas Iyer 6 Score: 100/1
+10.3 Rahul Tewatia to Shreyas Iyer 0 Score: 100/1
+10.4 Rahul Tewatia to Shreyas Iyer Wide Score: 101/1
+10.4 Rahul Tewatia to Shreyas Iyer 1 Score: 102/1
+10.5 Rahul Tewatia to Chris Gayle 0 Score: 102/1
+10.6 Rahul Tewatia to Chris Gayle 0 Score: 102/1
+11.1 Ravindra Jadeja to Shreyas Iyer 0 Score: 102/1
+11.2 Ravindra Jadeja to Shreyas Iyer 4 Score: 106/1
+11.3 Ravindra Jadeja to Shreyas Iyer 0 Score: 106/1
+11.4 Ravindra Jadeja to Shreyas Iyer 1 Score: 107/1
+11.5 Ravindra Jadeja to Chris Gayle 1 Score: 108/1
+11.6 Ravindra Jadeja to Shreyas Iyer 1 Score: 109/1
+12.1 Sunil Narine to Shreyas Iyer 1 Score: 110/1
+12.2 Sunil Narine to Chris Gayle 4 Score: 114/1
+12.3 Sunil Narine to Chris Gayle 0 Score: 114/1
+12.4 Sunil Narine to Chris Gayle 0 Score: 114/1
+12.5 Sunil Narine to Chris Gayle 0 Score: 114/1
+12.6 Sunil Narine to Chris Gayle 0 Score: 114/1
+13.1 Krunal Pandya to Shreyas Iyer 0 Score: 114/1
+13.2 Krunal Pandya to Shreyas Iyer 1 B! Score: 115/1
+13.3 Krunal Pandya to Chris Gayle 1 Score: 116/1
+13.4 Krunal Pandya to Shreyas Iyer 4 Score: 120/1
+13.5 Krunal Pandya to Shreyas Iyer 0 Score: 120/1
+13.6 Krunal Pandya to Shreyas Iyer 4 Score: 124/1
+14.1 Harshal Patel to Chris Gayle 1 Score: 125/1
+14.2 Harshal Patel to Shreyas Iyer 4 Score: 129/1
+14.3 Harshal Patel to Shreyas Iyer 0 Score: 129/1
+14.4 Harshal Patel to Shreyas Iyer 4 LB! Score: 133/1
+14.5 Harshal Patel to Shreyas Iyer NO BALL! Score: 134/1
+14.5 Harshal Patel to Shreyas Iyer 2 Score: 136/1 (Free Hit) (Off No-Ball)
+14.5 Harshal Patel to Shreyas Iyer 4 Score: 140/1 (Free Hit)
+14.6 Harshal Patel to Shreyas Iyer 1 Score: 141/1
+15.1 Shivam Mavi to Shreyas Iyer 0 Score: 141/1
+15.2 Shivam Mavi to Shreyas Iyer 1 Score: 142/1
+15.3 Shivam Mavi to Chris Gayle 0 Score: 142/1
+15.4 Shivam Mavi to Chris Gayle 2 Score: 144/1
+15.5 Shivam Mavi to Chris Gayle 6 Score: 150/1
+15.6 Shivam Mavi to Chris Gayle 1 Score: 151/1
+16.1 Rahul Tewatia to Chris Gayle 0 Score: 151/1
+16.2 Rahul Tewatia to Chris Gayle 1 Score: 152/1
+16.3 Rahul Tewatia to Shreyas Iyer 1 Score: 153/1
+16.4 Rahul Tewatia to Chris Gayle 0 Score: 153/1
+16.5 Rahul Tewatia to Chris Gayle 1 Score: 154/1
+16.6 Rahul Tewatia to Shreyas Iyer 1 Score: 155/1
+17.1 Ravindra Jadeja to Shreyas Iyer 0 Score: 155/1
+17.2 Ravindra Jadeja to Shreyas Iyer 6 Score: 161/1
+17.3 Ravindra Jadeja to Shreyas Iyer 2 Score: 163/1
+17.4 Ravindra Jadeja to Shreyas Iyer Wide Score: 164/1
+17.4 Ravindra Jadeja to Shreyas Iyer 0 Score: 164/1
+17.5 Ravindra Jadeja to Shreyas Iyer 0 Score: 164/1
+17.6 Ravindra Jadeja to Shreyas Iyer 1 Score: 165/1
+18.1 Sunil Narine to Shreyas Iyer 1 Score: 166/1
+18.2 Sunil Narine to Chris Gayle 1 Score: 167/1
+18.3 Sunil Narine to Shreyas Iyer 1 Score: 168/1
+18.4 Sunil Narine to Chris Gayle 1 Score: 169/1
+18.5 Sunil Narine to Shreyas Iyer 4 Score: 173/1
+18.6 Sunil Narine to Shreyas Iyer 2 B! Score: 175/1
+19.1 Krunal Pandya to Chris Gayle 1 Score: 176/1
+19.2 Krunal Pandya to Shreyas Iyer 4 Score: 180/1
+19.3 Krunal Pandya to Shreyas Iyer 1 Score: 181/1
+19.4 Krunal Pandya to Chris Gayle 1 Score: 182/1
+19.5 Krunal Pandya to Shreyas Iyer 1 Score: 183/1
+19.6 Krunal Pandya to Chris Gayle 1 Score: 184/1
++-------------------+--------+---------+--------+--------------------+
+| Player            |   Runs |   Balls | SR     | Out                |
++===================+========+=========+========+====================+
+| HH Pandya         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| CH Gayle          |     74 |      57 | 129.82 | Not out            |
++-------------------+--------+---------+--------+--------------------+
+| TA Boult          |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| SS Iyer           |     69 |      47 | 146.81 | Not out            |
++-------------------+--------+---------+--------+--------------------+
+| LS Livingstone    |     27 |      17 | 158.82 | Caught b SP Narine |
++-------------------+--------+---------+--------+--------------------+
+| AT Rayudu         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| KM Jadhav         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| JJ Bumrah         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| DT Christian      |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| MK Pandey         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| M Prasidh Krishna |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
++-------------+--------+---------+-----------+-------+
+| Player      |   Runs |   Overs |   Wickets | Eco   |
++=============+========+=========+===========+=======+
+| HV Patel    |     39 |       3 |         0 | 13.0  |
++-------------+--------+---------+-----------+-------+
+| KH Pandya   |     25 |       3 |         0 | 8.33  |
++-------------+--------+---------+-----------+-------+
+| Abdul Samad |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| YBK Jaiswal |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Tripathi |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| EJG Morgan  |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Jadeja   |     35 |       3 |         0 | 11.67 |
++-------------+--------+---------+-----------+-------+
+| SP Narine   |     21 |       4 |         1 | 5.25  |
++-------------+--------+---------+-----------+-------+
+| Shivam Mavi |     29 |       4 |         0 | 7.25  |
++-------------+--------+---------+-----------+-------+
+| RP Meredith |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| R Tewatia   |     28 |       3 |         0 | 9.33  |
++-------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Yashasvi Jaiswal W Score: 0/1 Bowled
+0.2 Trent Boult to Sunil Narine 1 Score: 1/1
+0.3 Trent Boult to Rahul Tripathi 1 Score: 2/1
+0.4 Trent Boult to Sunil Narine 1 Score: 3/1
+0.5 Trent Boult to Rahul Tripathi 1 Score: 4/1
+0.6 Trent Boult to Sunil Narine 0 Score: 4/1
+1.1 Prasidh Krishna to Rahul Tripathi 0 Score: 4/1
+1.2 Prasidh Krishna to Rahul Tripathi 1 Score: 5/1
+1.3 Prasidh Krishna to Sunil Narine 4 Score: 9/1
+1.4 Prasidh Krishna to Sunil Narine 1 Score: 10/1
+1.5 Prasidh Krishna to Rahul Tripathi 1 Score: 11/1
+1.6 Prasidh Krishna to Sunil Narine 4 Score: 15/1
+2.1 Trent Boult to Rahul Tripathi 1 Score: 16/1
+2.2 Trent Boult to Sunil Narine W Score: 17/2 Run Out (1r)
+2.3 Trent Boult to Eoin Morgan 1 Score: 18/2
+2.4 Trent Boult to Rahul Tripathi 0 Score: 18/2
+2.5 Trent Boult to Rahul Tripathi 1 Score: 19/2
+2.6 Trent Boult to Eoin Morgan 4 Score: 23/2
+3.1 Jasprit Bumrah to Rahul Tripathi 1 Score: 24/2
+3.2 Jasprit Bumrah to Eoin Morgan 0 Score: 24/2
+3.3 Jasprit Bumrah to Eoin Morgan 1 Score: 25/2
+3.4 Jasprit Bumrah to Rahul Tripathi 1 Score: 26/2
+3.5 Jasprit Bumrah to Eoin Morgan 1 Score: 27/2
+3.6 Jasprit Bumrah to Rahul Tripathi 4 Score: 31/2
+4.1 Hardik Pandya to Eoin Morgan 0 Score: 31/2
+4.2 Hardik Pandya to Eoin Morgan 0 Score: 31/2
+4.3 Hardik Pandya to Eoin Morgan W Score: 31/3 Caught
+4.4 Hardik Pandya to Abdul Samad 1 Score: 32/3
+4.5 Hardik Pandya to Rahul Tripathi 1 Score: 33/3
+4.6 Hardik Pandya to Abdul Samad 0 Score: 33/3
+5.1 Dan Christian to Rahul Tripathi 0 Score: 33/3
+5.2 Dan Christian to Rahul Tripathi W Score: 33/4 Caught
+5.3 Dan Christian to Krunal Pandya 4 Score: 37/4
+5.4 Dan Christian to Krunal Pandya 4 Score: 41/4
+5.5 Dan Christian to Krunal Pandya 0 Score: 41/4
+5.6 Dan Christian to Krunal Pandya 1 Score: 42/4
+6.1 Prasidh Krishna to Krunal Pandya 0 Score: 42/4
+6.2 Prasidh Krishna to Krunal Pandya 0 Score: 42/4
+6.3 Prasidh Krishna to Krunal Pandya Wide Score: 43/4
+6.3 Prasidh Krishna to Krunal Pandya 1 Score: 44/4
+6.4 Prasidh Krishna to Abdul Samad 1 Score: 45/4
+6.5 Prasidh Krishna to Krunal Pandya 1 Score: 46/4
+6.6 Prasidh Krishna to Abdul Samad 1 Score: 47/4
+7.1 Chris Gayle to Abdul Samad 0 Score: 47/4
+7.2 Chris Gayle to Abdul Samad Wide Score: 48/4
+7.2 Chris Gayle to Abdul Samad 1 Score: 49/4
+7.3 Chris Gayle to Krunal Pandya 1 Score: 50/4
+7.4 Chris Gayle to Abdul Samad 1 Score: 51/4
+7.5 Chris Gayle to Krunal Pandya 4 Score: 55/4
+7.6 Chris Gayle to Krunal Pandya 0 Score: 55/4
+8.1 Trent Boult to Abdul Samad 1 Score: 56/4
+8.2 Trent Boult to Krunal Pandya 2 Score: 58/4
+8.3 Trent Boult to Krunal Pandya 6 Score: 64/4
+8.4 Trent Boult to Krunal Pandya 2 Score: 66/4
+8.5 Trent Boult to Krunal Pandya 1 Score: 67/4
+8.6 Trent Boult to Abdul Samad 4 Score: 71/4
+9.1 Jasprit Bumrah to Krunal Pandya 4 Score: 75/4
+9.2 Jasprit Bumrah to Krunal Pandya 1 Score: 76/4
+9.3 Jasprit Bumrah to Abdul Samad W Score: 76/5 Caught
+9.4 Jasprit Bumrah to Ravindra Jadeja W Score: 76/6 Caught
+9.5 Jasprit Bumrah to Harshal Patel 1 Score: 77/6
+9.6 Jasprit Bumrah to Krunal Pandya 4 Score: 81/6
+10.1 Hardik Pandya to Harshal Patel 0 Score: 81/6
+10.2 Hardik Pandya to Harshal Patel 1 Score: 82/6
+10.3 Hardik Pandya to Krunal Pandya 1 Score: 83/6
+10.4 Hardik Pandya to Harshal Patel 1 Score: 84/6
+10.5 Hardik Pandya to Krunal Pandya 1 Score: 85/6
+10.6 Hardik Pandya to Harshal Patel 1 Score: 86/6
+11.1 Dan Christian to Harshal Patel 1 Score: 87/6
+11.2 Dan Christian to Krunal Pandya 1 Score: 88/6
+11.3 Dan Christian to Harshal Patel 6 Score: 94/6
+11.4 Dan Christian to Harshal Patel 2 Score: 96/6
+11.5 Dan Christian to Harshal Patel 1 Score: 97/6
+11.6 Dan Christian to Krunal Pandya 1 Score: 98/6
+12.1 Prasidh Krishna to Krunal Pandya 4 LB! Score: 102/6
+12.2 Prasidh Krishna to Krunal Pandya 1 Score: 103/6
+12.3 Prasidh Krishna to Harshal Patel 1 Score: 104/6
+12.4 Prasidh Krishna to Krunal Pandya 2 Score: 106/6
+12.5 Prasidh Krishna to Krunal Pandya 2 Score: 108/6
+12.6 Prasidh Krishna to Krunal Pandya 0 Score: 108/6
+13.1 Chris Gayle to Harshal Patel 1 B! Score: 109/6
+13.2 Chris Gayle to Krunal Pandya 0 Score: 109/6
+13.3 Chris Gayle to Krunal Pandya 1 Score: 110/6
+13.4 Chris Gayle to Harshal Patel 1 Score: 111/6
+13.5 Chris Gayle to Krunal Pandya 0 Score: 111/6
+13.6 Chris Gayle to Krunal Pandya 4 Score: 115/6
+14.1 Trent Boult to Harshal Patel 1 Score: 116/6
+14.2 Trent Boult to Krunal Pandya 1 Score: 117/6
+14.3 Trent Boult to Harshal Patel 1 Score: 118/6
+14.4 Trent Boult to Krunal Pandya 0 Score: 118/6
+14.5 Trent Boult to Krunal Pandya 1 Score: 119/6
+14.6 Trent Boult to Harshal Patel 1 Score: 120/6
+15.1 Jasprit Bumrah to Harshal Patel 0 Score: 120/6
+15.2 Jasprit Bumrah to Harshal Patel 1 Score: 121/6
+15.3 Jasprit Bumrah to Krunal Pandya 4 Score: 125/6
+15.4 Jasprit Bumrah to Krunal Pandya 1 LB! Score: 126/6
+15.5 Jasprit Bumrah to Harshal Patel 1 Score: 127/6
+15.6 Jasprit Bumrah to Krunal Pandya 1 Score: 128/6
+16.1 Hardik Pandya to Krunal Pandya 6 Score: 134/6
+16.2 Hardik Pandya to Krunal Pandya Wide Score: 135/6
+16.2 Hardik Pandya to Krunal Pandya 6 Score: 141/6
+16.3 Hardik Pandya to Krunal Pandya 2 Score: 143/6
+16.4 Hardik Pandya to Krunal Pandya 0 Score: 143/6
+16.5 Hardik Pandya to Krunal Pandya 2 Score: 145/6
+16.6 Hardik Pandya to Krunal Pandya 1 Score: 146/6
+17.1 Dan Christian to Krunal Pandya 0 Score: 146/6
+17.2 Dan Christian to Krunal Pandya 1 Score: 147/6
+17.3 Dan Christian to Harshal Patel 2 Score: 149/6
+17.4 Dan Christian to Harshal Patel 0 Score: 149/6
+17.5 Dan Christian to Harshal Patel 1 Score: 150/6
+17.6 Dan Christian to Krunal Pandya 0 Score: 150/6
+18.1 Prasidh Krishna to Harshal Patel 0 Score: 150/6
+18.2 Prasidh Krishna to Harshal Patel 4 Score: 154/6
+18.3 Prasidh Krishna to Harshal Patel 6 Score: 160/6
+18.4 Prasidh Krishna to Harshal Patel 1 Score: 161/6
+18.5 Prasidh Krishna to Krunal Pandya 2 Score: 163/6
+18.6 Prasidh Krishna to Krunal Pandya 1 Score: 164/6
+19.1 Chris Gayle to Krunal Pandya W Score: 165/7 Run Out (1r)
+19.2 Chris Gayle to Rahul Tewatia NO BALL! Score: 166/7
+19.2 Chris Gayle to Rahul Tewatia 1 Score: 167/7 (Free Hit) (Off No-Ball)
+19.2 Chris Gayle to Harshal Patel NOT OUT (caught on Free Hit!) Score: 167/7
+19.3 Chris Gayle to Harshal Patel 2 Score: 169/7
+19.4 Chris Gayle to Harshal Patel 1 Score: 170/7
+19.5 Chris Gayle to Rahul Tewatia Wide Score: 171/7
+19.5 Chris Gayle to Rahul Tewatia 1 Score: 172/7
+19.6 Chris Gayle to Harshal Patel 0 Score: 172/7
+kkr won by 12 runs
++-------------+--------+---------+--------+-------------------------+
+| Player      |   Runs |   Balls | SR     | Out                     |
++=============+========+=========+========+=========================+
+| HV Patel    |     38 |      29 | 131.03 | Not out                 |
++-------------+--------+---------+--------+-------------------------+
+| KH Pandya   |     79 |      49 | 161.22 | Run Out (1r) b CH Gayle |
++-------------+--------+---------+--------+-------------------------+
+| Abdul Samad |     10 |      10 | 100.0  | Caught b JJ Bumrah      |
++-------------+--------+---------+--------+-------------------------+
+| YBK Jaiswal |      0 |       1 | 0.0    | Bowled b TA Boult       |
++-------------+--------+---------+--------+-------------------------+
+| RA Tripathi |     13 |      14 | 92.86  | Caught b DT Christian   |
++-------------+--------+---------+--------+-------------------------+
+| EJG Morgan  |      7 |       8 | 87.5   | Caught b HH Pandya      |
++-------------+--------+---------+--------+-------------------------+
+| RA Jadeja   |      0 |       1 | 0.0    | Caught b JJ Bumrah      |
++-------------+--------+---------+--------+-------------------------+
+| SP Narine   |     12 |       7 | 171.43 | Run Out (1r) b TA Boult |
++-------------+--------+---------+--------+-------------------------+
+| Shivam Mavi |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| RP Meredith |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| R Tewatia   |      2 |       2 | 100.0  | Not out                 |
++-------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| HH Pandya         |     25 |       3 |         1 | 8.33  |
++-------------------+--------+---------+-----------+-------+
+| CH Gayle          |     22 |       3 |         0 | 7.33  |
++-------------------+--------+---------+-----------+-------+
+| TA Boult          |     33 |       4 |         1 | 8.25  |
++-------------------+--------+---------+-----------+-------+
+| SS Iyer           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| LS Livingstone    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AT Rayudu         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KM Jadhav         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| JJ Bumrah         |     25 |       3 |         2 | 8.33  |
++-------------------+--------+---------+-----------+-------+
+| DT Christian      |     25 |       3 |         1 | 8.33  |
++-------------------+--------+---------+-----------+-------+
+| MK Pandey         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     36 |       4 |         0 | 9.0   |
++-------------------+--------+---------+-----------+-------+

@@ -1,0 +1,350 @@
+['Arshdeep Singh', 'Varun Chakravarthy', 'Shimron Hetmyer', 'Harpreet Brar', 'Jason Holder', 'Rashid Khan', 'Nitish Rana', 'Adam Milne', 'Rishabh Pant', 'Devdutt Padikkal', 'Nicholas Pooran']
+mi won the toss and chose to bat
+0.1 Chetan Sakariya to Devdutt Padikkal 4 Score: 4/0
+0.2 Chetan Sakariya to Devdutt Padikkal 1 Score: 5/0
+0.3 Chetan Sakariya to Nitish Rana 0 Score: 5/0
+0.4 Chetan Sakariya to Nitish Rana 4 Score: 9/0
+0.5 Chetan Sakariya to Nitish Rana 0 Score: 9/0
+0.6 Chetan Sakariya to Nitish Rana 0 Score: 9/0
+1.1 Moeen Ali to Devdutt Padikkal 1 Score: 10/0
+1.2 Moeen Ali to Nitish Rana 0 Score: 10/0
+1.3 Moeen Ali to Nitish Rana 1 Score: 11/0
+1.4 Moeen Ali to Devdutt Padikkal 1 Score: 12/0
+1.5 Moeen Ali to Nitish Rana 0 Score: 12/0
+1.6 Moeen Ali to Nitish Rana 1 Score: 13/0
+2.1 Shahbaz Ahmed to Nitish Rana 1 Score: 14/0
+2.2 Shahbaz Ahmed to Devdutt Padikkal 4 Score: 18/0
+2.3 Shahbaz Ahmed to Devdutt Padikkal 1 Score: 19/0
+2.4 Shahbaz Ahmed to Nitish Rana 1 Score: 20/0
+2.5 Shahbaz Ahmed to Devdutt Padikkal W Score: 20/1 Caught
+2.6 Shahbaz Ahmed to Rishabh Pant 1 Score: 21/1
+3.1 Moeen Ali to Rishabh Pant 1 Score: 22/1
+3.2 Moeen Ali to Nitish Rana 1 Score: 23/1
+3.3 Moeen Ali to Rishabh Pant 0 Score: 23/1
+3.4 Moeen Ali to Rishabh Pant 1 Score: 24/1
+3.5 Moeen Ali to Nitish Rana 0 Score: 24/1
+3.6 Moeen Ali to Nitish Rana 1 Score: 25/1
+4.1 Ravi Bishnoi to Nitish Rana 4 Score: 29/1
+4.2 Ravi Bishnoi to Nitish Rana 4 Score: 33/1
+4.3 Ravi Bishnoi to Nitish Rana 1 Score: 34/1
+4.4 Ravi Bishnoi to Rishabh Pant 1 Score: 35/1
+4.5 Ravi Bishnoi to Nitish Rana 1 Score: 36/1
+4.6 Ravi Bishnoi to Rishabh Pant W Score: 36/2 Caught
+5.1 Chetan Sakariya to Nitish Rana 4 Score: 40/2
+5.2 Chetan Sakariya to Nitish Rana 2 Score: 42/2
+5.3 Chetan Sakariya to Nitish Rana Wide Score: 43/2
+5.3 Chetan Sakariya to Nitish Rana 4 Score: 47/2
+5.4 Chetan Sakariya to Nitish Rana 1 Score: 48/2
+5.5 Chetan Sakariya to Nicholas Pooran 1 Score: 49/2
+5.6 Chetan Sakariya to Nitish Rana 1 Score: 50/2
+6.1 Deepak Hooda to Nitish Rana 2 Score: 52/2
+6.2 Deepak Hooda to Nitish Rana 4 Score: 56/2
+6.3 Deepak Hooda to Nitish Rana 0 Score: 56/2
+6.4 Deepak Hooda to Nitish Rana 1 Score: 57/2
+6.5 Deepak Hooda to Nicholas Pooran 1 Score: 58/2
+6.6 Deepak Hooda to Nitish Rana 1 Score: 59/2
+7.1 RINKU SINGH to Nitish Rana 6 Score: 65/2
+7.2 RINKU SINGH to Nitish Rana Wide Score: 66/2
+7.2 RINKU SINGH to Nitish Rana 2 Score: 68/2
+7.3 RINKU SINGH to Nitish Rana 4 Score: 72/2
+7.4 RINKU SINGH to Nitish Rana NO BALL! Score: 73/2
+7.4 RINKU SINGH to Nitish Rana 0 Score: 73/2 (Free Hit) (Off No-Ball)
+7.4 RINKU SINGH to Nitish Rana Wide Score: 74/2
+7.4 RINKU SINGH to Nitish Rana 6 Score: 80/2 (Free Hit)
+7.5 RINKU SINGH to Nitish Rana 1 Score: 81/2
+7.6 RINKU SINGH to Nicholas Pooran 2 Score: 83/2
+8.1 Shahbaz Ahmed to Nitish Rana 6 Score: 89/2
+8.2 Shahbaz Ahmed to Nitish Rana 6 Score: 95/2
+8.3 Shahbaz Ahmed to Nitish Rana Wide Score: 96/2
+8.3 Shahbaz Ahmed to Nitish Rana W Score: 96/3 Caught
+8.4 Shahbaz Ahmed to Shimron Hetmyer 2 Score: 98/3
+8.5 Shahbaz Ahmed to Shimron Hetmyer 1 Score: 99/3
+8.6 Shahbaz Ahmed to Nicholas Pooran 1 Score: 100/3
+9.1 Moeen Ali to Nicholas Pooran 0 Score: 100/3
+9.2 Moeen Ali to Nicholas Pooran 1 LB! Score: 101/3
+9.3 Moeen Ali to Shimron Hetmyer 1 Score: 102/3
+9.4 Moeen Ali to Nicholas Pooran 1 Score: 103/3
+9.5 Moeen Ali to Shimron Hetmyer 1 Score: 104/3
+9.6 Moeen Ali to Nicholas Pooran 1 Score: 105/3
+10.1 Ravi Bishnoi to Nicholas Pooran 1 B! Score: 106/3
+10.2 Ravi Bishnoi to Shimron Hetmyer 1 Score: 107/3
+10.3 Ravi Bishnoi to Nicholas Pooran 0 Score: 107/3
+10.4 Ravi Bishnoi to Nicholas Pooran 1 Score: 108/3
+10.5 Ravi Bishnoi to Shimron Hetmyer 0 Score: 108/3
+10.6 Ravi Bishnoi to Shimron Hetmyer 1 LB! Score: 109/3
+11.1 Chetan Sakariya to Shimron Hetmyer 1 Score: 110/3
+11.2 Chetan Sakariya to Nicholas Pooran 1 B! Score: 111/3
+11.3 Chetan Sakariya to Shimron Hetmyer 0 Score: 111/3
+11.4 Chetan Sakariya to Shimron Hetmyer 1 Score: 112/3
+11.5 Chetan Sakariya to Nicholas Pooran 2 Score: 114/3
+11.6 Chetan Sakariya to Nicholas Pooran 0 Score: 114/3
+12.1 Deepak Hooda to Shimron Hetmyer 1 Score: 115/3
+12.2 Deepak Hooda to Nicholas Pooran 0 Score: 115/3
+12.3 Deepak Hooda to Nicholas Pooran 1 Score: 116/3
+12.4 Deepak Hooda to Shimron Hetmyer 1 Score: 117/3
+12.5 Deepak Hooda to Nicholas Pooran 1 Score: 118/3
+12.6 Deepak Hooda to Shimron Hetmyer 1 Score: 119/3
+13.1 RINKU SINGH to Shimron Hetmyer 1 Score: 120/3
+13.2 RINKU SINGH to Nicholas Pooran 0 Score: 120/3
+13.3 RINKU SINGH to Nicholas Pooran 0 Score: 120/3
+13.4 RINKU SINGH to Nicholas Pooran 1 Score: 121/3
+13.5 RINKU SINGH to Shimron Hetmyer 2 Score: 123/3
+13.6 RINKU SINGH to Shimron Hetmyer 2 Score: 125/3
+14.1 Shahbaz Ahmed to Nicholas Pooran 1 Score: 126/3
+14.2 Shahbaz Ahmed to Shimron Hetmyer 0 Score: 126/3
+14.3 Shahbaz Ahmed to Shimron Hetmyer 1 Score: 127/3
+14.4 Shahbaz Ahmed to Nicholas Pooran 0 Score: 127/3
+14.5 Shahbaz Ahmed to Nicholas Pooran 1 Score: 128/3
+14.6 Shahbaz Ahmed to Shimron Hetmyer 1 Score: 129/3
+15.1 Moeen Ali to Shimron Hetmyer 0 Score: 129/3
+15.2 Moeen Ali to Shimron Hetmyer 1 Score: 130/3
+15.3 Moeen Ali to Nicholas Pooran 1 Score: 131/3
+15.4 Moeen Ali to Shimron Hetmyer 2 Score: 133/3
+15.5 Moeen Ali to Shimron Hetmyer 0 Score: 133/3
+15.6 Moeen Ali to Shimron Hetmyer 0 Score: 133/3
+16.1 Ravi Bishnoi to Nicholas Pooran 0 Score: 133/3
+16.2 Ravi Bishnoi to Nicholas Pooran 0 Score: 133/3
+16.3 Ravi Bishnoi to Nicholas Pooran 0 Score: 133/3
+16.4 Ravi Bishnoi to Nicholas Pooran 0 Score: 133/3
+16.5 Ravi Bishnoi to Nicholas Pooran 1 Score: 134/3
+16.6 Ravi Bishnoi to Shimron Hetmyer 1 Score: 135/3
+17.1 Chetan Sakariya to Shimron Hetmyer 0 Score: 135/3
+17.2 Chetan Sakariya to Shimron Hetmyer 1 Score: 136/3
+17.3 Chetan Sakariya to Nicholas Pooran 1 Score: 137/3
+17.4 Chetan Sakariya to Shimron Hetmyer 0 Score: 137/3
+17.5 Chetan Sakariya to Shimron Hetmyer 1 Score: 138/3
+17.6 Chetan Sakariya to Nicholas Pooran Wide Score: 139/3
+17.6 Chetan Sakariya to Nicholas Pooran 6 Score: 145/3
+18.1 Deepak Hooda to Shimron Hetmyer 0 Score: 145/3
+18.2 Deepak Hooda to Shimron Hetmyer W Score: 145/4 Caught
+18.3 Deepak Hooda to Jason Holder 1 Score: 146/4
+18.4 Deepak Hooda to Nicholas Pooran 1 Score: 147/4
+18.5 Deepak Hooda to Jason Holder 1 Score: 148/4
+18.6 Deepak Hooda to Nicholas Pooran 0 Score: 148/4
+19.1 RINKU SINGH to Jason Holder 4 Score: 152/4
+19.2 RINKU SINGH to Jason Holder 2 Score: 154/4
+19.3 RINKU SINGH to Jason Holder 1 Score: 155/4
+19.4 RINKU SINGH to Nicholas Pooran 2 Score: 157/4
+19.5 RINKU SINGH to Nicholas Pooran 4 Score: 161/4
+19.6 RINKU SINGH to Nicholas Pooran 6 Score: 167/4
++----------------+--------+---------+--------+------------------------+
+| Player         |   Runs |   Balls | SR     | Out                    |
++================+========+=========+========+========================+
+| Arshdeep Singh |      0 |       0 | NA     | DNB                    |
++----------------+--------+---------+--------+------------------------+
+| CV Varun       |      0 |       0 | NA     | DNB                    |
++----------------+--------+---------+--------+------------------------+
+| SO Hetmyer     |     24 |      31 | 77.42  | Caught b DJ Hooda      |
++----------------+--------+---------+--------+------------------------+
+| Harpreet Brar  |      0 |       0 | NA     | DNB                    |
++----------------+--------+---------+--------+------------------------+
+| JO Holder      |      9 |       5 | 180.0  | Not out                |
++----------------+--------+---------+--------+------------------------+
+| Rashid Khan    |      0 |       0 | NA     | DNB                    |
++----------------+--------+---------+--------+------------------------+
+| N Rana         |     71 |      36 | 197.22 | Caught b Shahbaz Ahmed |
++----------------+--------+---------+--------+------------------------+
+| AF Milne       |      0 |       0 | NA     | DNB                    |
++----------------+--------+---------+--------+------------------------+
+| RR Pant        |      4 |       6 | 66.67  | Caught b Ravi Bishnoi  |
++----------------+--------+---------+--------+------------------------+
+| D Padikkal     |     12 |       7 | 171.43 | Caught b Shahbaz Ahmed |
++----------------+--------+---------+--------+------------------------+
+| N Pooran       |     37 |      36 | 102.78 | Not out                |
++----------------+--------+---------+--------+------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| Shahbaz Ahmed   |     29 |       3 |         2 | 9.67  |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KL Rahul        |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Lomror       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MM Ali          |     16 |       4 |         0 | 4.0   |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     15 |       3 |         1 | 5.0   |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |     17 |       3 |         1 | 5.67  |
++-----------------+--------+---------+-----------+-------+
+| T VERMA         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| R SINGH         |     49 |       3 |         0 | 16.33 |
++-----------------+--------+---------+-----------+-------+
+| R Parag         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| C Sakariya      |     37 |       4 |         0 | 9.25  |
++-----------------+--------+---------+-----------+-------+
+0.1 Arshdeep Singh to TILAK VERMA 1 Score: 1/0
+0.2 Arshdeep Singh to KL Rahul 2 Score: 3/0
+0.3 Arshdeep Singh to KL Rahul W Score: 3/1 Caught
+0.4 Arshdeep Singh to Moeen Ali 1 Score: 4/1
+0.5 Arshdeep Singh to TILAK VERMA 6 Score: 10/1
+0.6 Arshdeep Singh to TILAK VERMA 1 Score: 11/1
+1.1 Harpreet Brar to TILAK VERMA 0 Score: 11/1
+1.2 Harpreet Brar to TILAK VERMA 1 Score: 12/1
+1.3 Harpreet Brar to Moeen Ali 0 Score: 12/1
+1.4 Harpreet Brar to Moeen Ali 0 Score: 12/1
+1.5 Harpreet Brar to Moeen Ali 1 Score: 13/1
+1.6 Harpreet Brar to TILAK VERMA 1 Score: 14/1
+2.1 Jason Holder to TILAK VERMA 1 Score: 15/1
+2.2 Jason Holder to Moeen Ali 1 Score: 16/1
+2.3 Jason Holder to TILAK VERMA 0 Score: 16/1
+2.4 Jason Holder to TILAK VERMA Wide Score: 17/1
+2.4 Jason Holder to TILAK VERMA 4 Score: 21/1
+2.5 Jason Holder to TILAK VERMA 4 Score: 25/1
+2.6 Jason Holder to TILAK VERMA 2 Score: 27/1
+3.1 Nitish Rana to Moeen Ali 1 Score: 28/1
+3.2 Nitish Rana to TILAK VERMA 1 Score: 29/1
+3.3 Nitish Rana to Moeen Ali 4 Score: 33/1
+3.4 Nitish Rana to Moeen Ali 1 Score: 34/1
+3.5 Nitish Rana to TILAK VERMA 1 Score: 35/1
+3.6 Nitish Rana to Moeen Ali 6 Score: 41/1
+4.1 Arshdeep Singh to TILAK VERMA 0 Score: 41/1
+4.2 Arshdeep Singh to TILAK VERMA 0 Score: 41/1
+4.3 Arshdeep Singh to TILAK VERMA 1 Score: 42/1
+4.4 Arshdeep Singh to Moeen Ali 0 Score: 42/1
+4.5 Arshdeep Singh to Moeen Ali 1 Score: 43/1
+4.6 Arshdeep Singh to TILAK VERMA 1 Score: 44/1
+5.1 Rashid Khan to TILAK VERMA 4 Score: 48/1
+5.2 Rashid Khan to TILAK VERMA 2 B! Score: 50/1
+5.3 Rashid Khan to TILAK VERMA 1 Score: 51/1
+5.4 Rashid Khan to Moeen Ali 0 Score: 51/1
+5.5 Rashid Khan to Moeen Ali 1 Score: 52/1
+5.6 Rashid Khan to TILAK VERMA W Score: 52/2 Lbw
+6.1 Varun Chakravarthy to Moeen Ali 0 Score: 52/2
+6.2 Varun Chakravarthy to Moeen Ali 1 Score: 53/2
+6.3 Varun Chakravarthy to Deepak Hooda 1 Score: 54/2
+6.4 Varun Chakravarthy to Moeen Ali 0 Score: 54/2
+6.5 Varun Chakravarthy to Moeen Ali 1 Score: 55/2
+6.6 Varun Chakravarthy to Deepak Hooda 1 Score: 56/2
+7.1 Harpreet Brar to Deepak Hooda 0 Score: 56/2
+7.2 Harpreet Brar to Deepak Hooda 1 Score: 57/2
+7.3 Harpreet Brar to Moeen Ali Wide Score: 58/2
+7.3 Harpreet Brar to Moeen Ali 0 Score: 58/2
+7.4 Harpreet Brar to Moeen Ali 0 Score: 58/2
+7.5 Harpreet Brar to Moeen Ali 0 Score: 58/2
+7.6 Harpreet Brar to Moeen Ali 4 Score: 62/2
+8.1 Jason Holder to Deepak Hooda 4 Score: 66/2
+8.2 Jason Holder to Deepak Hooda 0 Score: 66/2
+8.3 Jason Holder to Deepak Hooda 0 Score: 66/2
+8.4 Jason Holder to Deepak Hooda 1 Score: 67/2
+8.5 Jason Holder to Moeen Ali 4 Score: 71/2
+8.6 Jason Holder to Moeen Ali 1 Score: 72/2
+9.1 Nitish Rana to Moeen Ali 2 Score: 74/2
+9.2 Nitish Rana to Moeen Ali 1 Score: 75/2
+9.3 Nitish Rana to Deepak Hooda 0 Score: 75/2
+9.4 Nitish Rana to Deepak Hooda 0 Score: 75/2
+9.5 Nitish Rana to Deepak Hooda 4 Score: 79/2
+9.6 Nitish Rana to Deepak Hooda 6 Score: 85/2
+10.1 Arshdeep Singh to Moeen Ali 1 Score: 86/2
+10.2 Arshdeep Singh to Deepak Hooda 1 Score: 87/2
+10.3 Arshdeep Singh to Moeen Ali 3 Score: 90/2
+10.4 Arshdeep Singh to Deepak Hooda 4 Score: 94/2
+10.5 Arshdeep Singh to Deepak Hooda 0 Score: 94/2
+10.6 Arshdeep Singh to Deepak Hooda 2 Score: 96/2
+11.1 Rashid Khan to Moeen Ali 1 B! Score: 97/2
+11.2 Rashid Khan to Deepak Hooda 0 Score: 97/2
+11.3 Rashid Khan to Deepak Hooda 2 Score: 99/2
+11.4 Rashid Khan to Deepak Hooda 0 Score: 99/2
+11.5 Rashid Khan to Deepak Hooda 4 Score: 103/2
+11.6 Rashid Khan to Deepak Hooda 1 Score: 104/2
+12.1 Varun Chakravarthy to Deepak Hooda 1 Score: 105/2
+12.2 Varun Chakravarthy to Moeen Ali 1 Score: 106/2
+12.3 Varun Chakravarthy to Deepak Hooda 0 Score: 106/2
+12.4 Varun Chakravarthy to Deepak Hooda 6 Score: 112/2
+12.5 Varun Chakravarthy to Deepak Hooda 1 Score: 113/2
+12.6 Varun Chakravarthy to Moeen Ali 0 Score: 113/2
+13.1 Harpreet Brar to Deepak Hooda 6 Score: 119/2
+13.2 Harpreet Brar to Deepak Hooda 1 Score: 120/2
+13.3 Harpreet Brar to Moeen Ali 1 B! Score: 121/2
+13.4 Harpreet Brar to Deepak Hooda 0 Score: 121/2
+13.5 Harpreet Brar to Deepak Hooda 2 Score: 123/2
+13.6 Harpreet Brar to Deepak Hooda 1 Score: 124/2
+14.1 Jason Holder to Deepak Hooda 1 Score: 125/2
+14.2 Jason Holder to Moeen Ali 1 Score: 126/2
+14.3 Jason Holder to Deepak Hooda 1 Score: 127/2
+14.4 Jason Holder to Moeen Ali 4 Score: 131/2
+14.5 Jason Holder to Moeen Ali 4 Score: 135/2
+14.6 Jason Holder to Moeen Ali 2 Score: 137/2
+15.1 Nitish Rana to Deepak Hooda W Score: 137/3 Bowled
+15.2 Nitish Rana to Mahipal Lomror 1 Score: 138/3
+15.3 Nitish Rana to Moeen Ali 1 Score: 139/3
+15.4 Nitish Rana to Mahipal Lomror 0 Score: 139/3
+15.5 Nitish Rana to Mahipal Lomror 0 Score: 139/3
+15.6 Nitish Rana to Mahipal Lomror 1 Score: 140/3
+16.1 Arshdeep Singh to Mahipal Lomror 1 Score: 141/3
+16.2 Arshdeep Singh to Moeen Ali Wide Score: 142/3
+16.2 Arshdeep Singh to Moeen Ali 4 Score: 146/3
+16.3 Arshdeep Singh to Moeen Ali 2 Score: 148/3
+16.4 Arshdeep Singh to Moeen Ali W Score: 148/4 Run Out (0r)
+16.5 Arshdeep Singh to Shahbaz Ahmed 4 Score: 152/4
+16.6 Arshdeep Singh to Shahbaz Ahmed 5 Score: 157/4
+17.1 Rashid Khan to Shahbaz Ahmed 1 Score: 158/4
+17.2 Rashid Khan to Mahipal Lomror 1 Score: 159/4
+17.3 Rashid Khan to Shahbaz Ahmed 3 Score: 162/4
+17.4 Rashid Khan to Mahipal Lomror 0 Score: 162/4
+17.5 Rashid Khan to Mahipal Lomror 1 Score: 163/4
+17.6 Rashid Khan to Shahbaz Ahmed 0 Score: 163/4
+18.1 Varun Chakravarthy to Mahipal Lomror 0 Score: 163/4
+18.2 Varun Chakravarthy to Mahipal Lomror 1 Score: 164/4
+18.3 Varun Chakravarthy to Shahbaz Ahmed 0 Score: 164/4
+18.4 Varun Chakravarthy to Shahbaz Ahmed 1 Score: 165/4
+18.5 Varun Chakravarthy to Mahipal Lomror 0 Score: 165/4
+18.6 Varun Chakravarthy to Mahipal Lomror 0 Score: 165/4
+19.1 Harpreet Brar to Shahbaz Ahmed 0 Score: 165/4
+19.2 Harpreet Brar to Shahbaz Ahmed 2 B! Score: 167/4
+19.3 Harpreet Brar to Shahbaz Ahmed 1 Score: 168/4
+pbks won by 6 wickets
++-----------------+--------+---------+--------+-------------------------------+
+| Player          |   Runs |   Balls | SR     | Out                           |
++=================+========+=========+========+===============================+
+| Shahbaz Ahmed   |     15 |      10 | 150.0  | Not out                       |
++-----------------+--------+---------+--------+-------------------------------+
+| M Shahrukh Khan |      0 |       0 | NA     | DNB                           |
++-----------------+--------+---------+--------+-------------------------------+
+| KL Rahul        |      2 |       2 | 100.0  | Caught b Arshdeep Singh       |
++-----------------+--------+---------+--------+-------------------------------+
+| MK Lomror       |      6 |      12 | 50.0   | Not out                       |
++-----------------+--------+---------+--------+-------------------------------+
+| MM Ali          |     54 |      39 | 138.46 | Run Out (0r) b Arshdeep Singh |
++-----------------+--------+---------+--------+-------------------------------+
+| Ravi Bishnoi    |      0 |       0 | NA     | DNB                           |
++-----------------+--------+---------+--------+-------------------------------+
+| DJ Hooda        |     52 |      33 | 157.58 | Bowled b N Rana               |
++-----------------+--------+---------+--------+-------------------------------+
+| T VERMA         |     30 |      21 | 142.86 | Lbw b Rashid Khan             |
++-----------------+--------+---------+--------+-------------------------------+
+| R SINGH         |      0 |       0 | NA     | DNB                           |
++-----------------+--------+---------+--------+-------------------------------+
+| R Parag         |      0 |       0 | NA     | DNB                           |
++-----------------+--------+---------+--------+-------------------------------+
+| C Sakariya      |      0 |       0 | NA     | DNB                           |
++-----------------+--------+---------+--------+-------------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Arshdeep Singh |     42 |     4   |         1 | 10.5  |
++----------------+--------+---------+-----------+-------+
+| CV Varun       |     15 |     3   |         0 | 5.0   |
++----------------+--------+---------+-----------+-------+
+| SO Hetmyer     |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Harpreet Brar  |     20 |     3.3 |         0 | 5.71  |
++----------------+--------+---------+-----------+-------+
+| JO Holder      |     36 |     3   |         0 | 12.0  |
++----------------+--------+---------+-----------+-------+
+| Rashid Khan    |     19 |     3   |         1 | 6.33  |
++----------------+--------+---------+-----------+-------+
+| N Rana         |     30 |     3   |         1 | 10.0  |
++----------------+--------+---------+-----------+-------+
+| AF Milne       |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| RR Pant        |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| D Padikkal     |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| N Pooran       |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+

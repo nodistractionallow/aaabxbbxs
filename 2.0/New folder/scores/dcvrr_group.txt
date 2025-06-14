@@ -1,0 +1,353 @@
+['Rahul Chahar', 'Shardul Thakur', 'David Warner', 'Ishan Kishan', 'Ravichandran Ashwin', 'Avesh Khan', 'Rohit Sharma', 'Faf du Plessis', 'Washington Sundar', 'Suresh Raina', 'Navdeep Saini']
+rr won the toss and chose to field
+0.1 Kagiso Rabada to David Warner 2 Score: 2/0
+0.2 Kagiso Rabada to David Warner 1 Score: 3/0
+0.3 Kagiso Rabada to Faf du Plessis 0 Score: 3/0
+0.4 Kagiso Rabada to Faf du Plessis 0 Score: 3/0
+0.5 Kagiso Rabada to Faf du Plessis 1 Score: 4/0
+0.6 Kagiso Rabada to David Warner 4 Score: 8/0
+1.1 Andre Russell to Faf du Plessis 1 Score: 9/0
+1.2 Andre Russell to David Warner 2 Score: 11/0
+1.3 Andre Russell to David Warner 0 Score: 11/0
+1.4 Andre Russell to David Warner 1 Score: 12/0
+1.5 Andre Russell to Faf du Plessis 1 Score: 13/0
+1.6 Andre Russell to David Warner 4 Score: 17/0
+2.1 Kagiso Rabada to Faf du Plessis 1 Score: 18/0
+2.2 Kagiso Rabada to David Warner 2 Score: 20/0
+2.3 Kagiso Rabada to David Warner 0 Score: 20/0
+2.4 Kagiso Rabada to David Warner 1 Score: 21/0
+2.5 Kagiso Rabada to Faf du Plessis 0 Score: 21/0
+2.6 Kagiso Rabada to Faf du Plessis 1 Score: 22/0
+3.1 Andre Russell to Faf du Plessis 4 Score: 26/0
+3.2 Andre Russell to Faf du Plessis 1 Score: 27/0
+3.3 Andre Russell to David Warner 0 Score: 27/0
+3.4 Andre Russell to David Warner 1 Score: 28/0
+3.5 Andre Russell to Faf du Plessis Wide Score: 29/0
+3.5 Andre Russell to Faf du Plessis 4 Score: 33/0
+3.6 Andre Russell to Faf du Plessis Wide Score: 34/0
+3.6 Andre Russell to Faf du Plessis Wide Score: 35/0
+3.6 Andre Russell to Faf du Plessis 1 Score: 36/0
+4.1 Yuzvendra Chahal to Faf du Plessis 1 Score: 37/0
+4.2 Yuzvendra Chahal to David Warner 0 Score: 37/0
+4.3 Yuzvendra Chahal to David Warner 1 Score: 38/0
+4.4 Yuzvendra Chahal to Faf du Plessis 1 Score: 39/0
+4.5 Yuzvendra Chahal to David Warner 4 Score: 43/0
+4.6 Yuzvendra Chahal to David Warner 2 Score: 45/0
+5.1 Mohammed Siraj to Faf du Plessis 4 Score: 49/0
+5.2 Mohammed Siraj to Faf du Plessis 4 Score: 53/0
+5.3 Mohammed Siraj to Faf du Plessis 1 Score: 54/0
+5.4 Mohammed Siraj to David Warner 1 Score: 55/0
+5.5 Mohammed Siraj to Faf du Plessis 0 Score: 55/0
+5.6 Mohammed Siraj to Faf du Plessis 1 Score: 56/0
+6.1 Lalit Yadav to Faf du Plessis 1 Score: 57/0
+6.2 Lalit Yadav to David Warner 6 Score: 63/0
+6.3 Lalit Yadav to David Warner 1 Score: 64/0
+6.4 Lalit Yadav to Faf du Plessis 1 Score: 65/0
+6.5 Lalit Yadav to David Warner 1 Score: 66/0
+6.6 Lalit Yadav to Faf du Plessis 1 Score: 67/0
+7.1 Kartik Tyagi to Faf du Plessis 0 Score: 67/0
+7.2 Kartik Tyagi to Faf du Plessis 0 Score: 67/0
+7.3 Kartik Tyagi to Faf du Plessis 4 Score: 71/0
+7.4 Kartik Tyagi to Faf du Plessis 4 Score: 75/0
+7.5 Kartik Tyagi to Faf du Plessis 6 Score: 81/0
+7.6 Kartik Tyagi to Faf du Plessis 1 Score: 82/0
+8.1 Kagiso Rabada to Faf du Plessis 1 Score: 83/0
+8.2 Kagiso Rabada to David Warner 0 Score: 83/0
+8.3 Kagiso Rabada to David Warner 1 Score: 84/0
+8.4 Kagiso Rabada to Faf du Plessis 1 Score: 85/0
+8.5 Kagiso Rabada to David Warner 0 Score: 85/0
+8.6 Kagiso Rabada to David Warner 1 Score: 86/0
+9.1 Andre Russell to David Warner 4 Score: 90/0
+9.2 Andre Russell to David Warner 4 Score: 94/0
+9.3 Andre Russell to David Warner 1 Score: 95/0
+9.4 Andre Russell to Faf du Plessis 6 Score: 101/0
+9.5 Andre Russell to Faf du Plessis 3 Score: 104/0
+9.6 Andre Russell to David Warner 0 Score: 104/0
+10.1 Yuzvendra Chahal to Faf du Plessis 0 Score: 104/0
+10.2 Yuzvendra Chahal to Faf du Plessis 0 Score: 104/0
+10.3 Yuzvendra Chahal to Faf du Plessis 0 Score: 104/0
+10.4 Yuzvendra Chahal to Faf du Plessis 1 Score: 105/0
+10.5 Yuzvendra Chahal to David Warner 0 Score: 105/0
+10.6 Yuzvendra Chahal to David Warner 1 Score: 106/0
+11.1 Mohammed Siraj to David Warner 4 Score: 110/0
+11.2 Mohammed Siraj to David Warner 1 Score: 111/0
+11.3 Mohammed Siraj to Faf du Plessis 0 Score: 111/0
+11.4 Mohammed Siraj to Faf du Plessis 0 Score: 111/0
+11.5 Mohammed Siraj to Faf du Plessis 0 Score: 111/0
+11.6 Mohammed Siraj to Faf du Plessis 2 Score: 113/0
+12.1 Lalit Yadav to David Warner 1 Score: 114/0
+12.2 Lalit Yadav to Faf du Plessis 0 Score: 114/0
+12.3 Lalit Yadav to Faf du Plessis 6 Score: 120/0
+12.4 Lalit Yadav to Faf du Plessis 4 B! Score: 124/0
+12.5 Lalit Yadav to Faf du Plessis 0 Score: 124/0
+12.6 Lalit Yadav to Faf du Plessis 1 Score: 125/0
+13.1 Kartik Tyagi to Faf du Plessis 0 Score: 125/0
+13.2 Kartik Tyagi to Faf du Plessis 1 Score: 126/0
+13.3 Kartik Tyagi to David Warner 1 Score: 127/0
+13.4 Kartik Tyagi to Faf du Plessis 6 Score: 133/0
+13.5 Kartik Tyagi to Faf du Plessis 1 Score: 134/0
+13.6 Kartik Tyagi to David Warner 1 Score: 135/0
+14.1 Kagiso Rabada to David Warner 1 Score: 136/0
+14.2 Kagiso Rabada to Faf du Plessis 0 Score: 136/0
+14.3 Kagiso Rabada to Faf du Plessis 1 Score: 137/0
+14.4 Kagiso Rabada to David Warner 4 Score: 141/0
+14.5 Kagiso Rabada to David Warner 1 Score: 142/0
+14.6 Kagiso Rabada to Faf du Plessis W Score: 142/1 Caught
+15.1 Andre Russell to David Warner 0 Score: 142/1
+15.2 Andre Russell to David Warner 4 Score: 146/1
+15.3 Andre Russell to David Warner Wide Score: 147/1
+15.3 Andre Russell to David Warner 6 Score: 153/1
+15.4 Andre Russell to David Warner 1 Score: 154/1
+15.5 Andre Russell to Rohit Sharma 0 Score: 154/1
+15.6 Andre Russell to Rohit Sharma 0 Score: 154/1
+16.1 Yuzvendra Chahal to David Warner 1 Score: 155/1
+16.2 Yuzvendra Chahal to Rohit Sharma 1 Score: 156/1
+16.3 Yuzvendra Chahal to David Warner 0 Score: 156/1
+16.4 Yuzvendra Chahal to David Warner Wide Score: 157/1
+16.4 Yuzvendra Chahal to David Warner 1 Score: 158/1
+16.5 Yuzvendra Chahal to Rohit Sharma 1 Score: 159/1
+16.6 Yuzvendra Chahal to David Warner 1 Score: 160/1
+17.1 Mohammed Siraj to David Warner 0 Score: 160/1
+17.2 Mohammed Siraj to David Warner 0 Score: 160/1
+17.3 Mohammed Siraj to David Warner Wide Score: 161/1
+17.3 Mohammed Siraj to David Warner 4 Score: 165/1
+17.4 Mohammed Siraj to David Warner 1 Score: 166/1
+17.5 Mohammed Siraj to Rohit Sharma 1 Score: 167/1
+17.6 Mohammed Siraj to David Warner 1 Score: 168/1
+18.1 Lalit Yadav to David Warner 1 Score: 169/1
+18.2 Lalit Yadav to Rohit Sharma 1 Score: 170/1
+18.3 Lalit Yadav to David Warner 1 Score: 171/1
+18.4 Lalit Yadav to Rohit Sharma 0 Score: 171/1
+18.5 Lalit Yadav to Rohit Sharma 1 Score: 172/1
+18.6 Lalit Yadav to David Warner 1 Score: 173/1
+19.1 Kartik Tyagi to David Warner 4 Score: 177/1
+19.2 Kartik Tyagi to David Warner 0 Score: 177/1
+19.3 Kartik Tyagi to David Warner 1 Score: 178/1
+19.4 Kartik Tyagi to Rohit Sharma 1 Score: 179/1
+19.5 Kartik Tyagi to David Warner 6 Score: 185/1
+19.6 Kartik Tyagi to David Warner 1 Score: 186/1
++-------------------+--------+---------+--------+-------------------+
+| Player            |   Runs |   Balls | SR     | Out               |
++===================+========+=========+========+===================+
+| RD Chahar         |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| SN Thakur         |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| DA Warner         |     95 |      59 | 161.02 | Not out           |
++-------------------+--------+---------+--------+-------------------+
+| Ishan Kishan      |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| R Ashwin          |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| Avesh Khan        |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| RG Sharma         |      6 |       9 | 66.67  | Not out           |
++-------------------+--------+---------+--------+-------------------+
+| F du Plessis      |     75 |      52 | 144.23 | Caught b K Rabada |
++-------------------+--------+---------+--------+-------------------+
+| Washington Sundar |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| SK Raina          |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
+| NA Saini          |      0 |       0 | NA     | DNB               |
++-------------------+--------+---------+--------+-------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Mohammed Siraj |     26 |       3 |         0 | 8.67  |
++----------------+--------+---------+-----------+-------+
+| MA Agarwal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KA Pollard     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Kartik Tyagi   |     38 |       3 |         0 | 12.67 |
++----------------+--------+---------+-----------+-------+
+| YS Chahal      |     17 |       3 |         0 | 5.67  |
++----------------+--------+---------+-----------+-------+
+| AB de Villiers |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| K Rabada       |     24 |       4 |         1 | 6.0   |
++----------------+--------+---------+-----------+-------+
+| WP Saha        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| AD Russell     |     53 |       4 |         0 | 13.25 |
++----------------+--------+---------+-----------+-------+
+| Lalit Yadav    |     24 |       3 |         0 | 8.0   |
++----------------+--------+---------+-----------+-------+
+| Q de Kock      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+0.1 Ravichandran Ashwin to Quinton de Kock 0 Score: 0/0
+0.2 Ravichandran Ashwin to Quinton de Kock 1 Score: 1/0
+0.3 Ravichandran Ashwin to Mayank Agarwal 1 Score: 2/0
+0.4 Ravichandran Ashwin to Quinton de Kock 1 Score: 3/0
+0.5 Ravichandran Ashwin to Mayank Agarwal 0 Score: 3/0
+0.6 Ravichandran Ashwin to Mayank Agarwal 0 Score: 3/0
+1.1 Washington Sundar to Quinton de Kock W Score: 3/1 Bowled
+1.2 Washington Sundar to AB de Villiers 1 Score: 4/1
+1.3 Washington Sundar to Mayank Agarwal 4 Score: 8/1
+1.4 Washington Sundar to Mayank Agarwal 1 Score: 9/1
+1.5 Washington Sundar to AB de Villiers 1 Score: 10/1
+1.6 Washington Sundar to Mayank Agarwal 1 Score: 11/1
+2.1 Rahul Chahar to Mayank Agarwal 1 Score: 12/1
+2.2 Rahul Chahar to AB de Villiers 1 Score: 13/1
+2.3 Rahul Chahar to Mayank Agarwal 1 Score: 14/1
+2.4 Rahul Chahar to AB de Villiers 1 Score: 15/1
+2.5 Rahul Chahar to Mayank Agarwal 1 Score: 16/1
+2.6 Rahul Chahar to AB de Villiers 1 Score: 17/1
+3.1 Shardul Thakur to AB de Villiers 0 Score: 17/1
+3.2 Shardul Thakur to AB de Villiers 4 Score: 21/1
+3.3 Shardul Thakur to AB de Villiers 0 Score: 21/1
+3.4 Shardul Thakur to AB de Villiers 2 Score: 23/1
+3.5 Shardul Thakur to AB de Villiers 0 Score: 23/1
+3.6 Shardul Thakur to AB de Villiers Wide Score: 24/1
+3.6 Shardul Thakur to AB de Villiers 1 Score: 25/1
+4.1 Avesh Khan to AB de Villiers 1 Score: 26/1
+4.2 Avesh Khan to Mayank Agarwal 1 LB! Score: 27/1
+4.3 Avesh Khan to AB de Villiers 1 Score: 28/1
+4.4 Avesh Khan to Mayank Agarwal 1 Score: 29/1
+4.5 Avesh Khan to AB de Villiers 1 Score: 30/1
+4.6 Avesh Khan to Mayank Agarwal 6 Score: 36/1
+5.1 Ravichandran Ashwin to AB de Villiers 4 Score: 40/1
+5.2 Ravichandran Ashwin to AB de Villiers 0 Score: 40/1
+5.3 Ravichandran Ashwin to AB de Villiers 1 Score: 41/1
+5.4 Ravichandran Ashwin to Mayank Agarwal 4 B! Score: 45/1
+5.5 Ravichandran Ashwin to Mayank Agarwal W Score: 45/2 Caught
+5.6 Ravichandran Ashwin to Wriddhiman Saha 2 Score: 47/2
+6.1 Washington Sundar to AB de Villiers 1 Score: 48/2
+6.2 Washington Sundar to Wriddhiman Saha 0 Score: 48/2
+6.3 Washington Sundar to Wriddhiman Saha 4 Score: 52/2
+6.4 Washington Sundar to Wriddhiman Saha 0 Score: 52/2
+6.5 Washington Sundar to Wriddhiman Saha 1 Score: 53/2
+6.6 Washington Sundar to AB de Villiers 1 Score: 54/2
+7.1 Navdeep Saini to AB de Villiers Wide Score: 55/2
+7.1 Navdeep Saini to AB de Villiers 0 Score: 55/2
+7.2 Navdeep Saini to AB de Villiers 0 Score: 55/2
+7.3 Navdeep Saini to AB de Villiers 0 Score: 55/2
+7.4 Navdeep Saini to AB de Villiers 0 Score: 55/2
+7.5 Navdeep Saini to AB de Villiers 0 Score: 55/2
+7.6 Navdeep Saini to AB de Villiers 0 Score: 55/2
+8.1 Rahul Chahar to Wriddhiman Saha 1 Score: 56/2
+8.2 Rahul Chahar to AB de Villiers 0 Score: 56/2
+8.3 Rahul Chahar to AB de Villiers 0 Score: 56/2
+8.4 Rahul Chahar to AB de Villiers Wide Score: 57/2
+8.4 Rahul Chahar to AB de Villiers 0 Score: 57/2
+8.5 Rahul Chahar to AB de Villiers 0 Score: 57/2
+8.6 Rahul Chahar to AB de Villiers 6 Score: 63/2
+9.1 Shardul Thakur to Wriddhiman Saha 4 B! Score: 67/2
+9.2 Shardul Thakur to Wriddhiman Saha 3 Score: 70/2
+9.3 Shardul Thakur to AB de Villiers 4 Score: 74/2
+9.4 Shardul Thakur to AB de Villiers 0 Score: 74/2
+9.5 Shardul Thakur to AB de Villiers W Score: 74/3 Caught
+9.6 Shardul Thakur to Kieron Pollard 2 Score: 76/3
+10.1 Avesh Khan to Wriddhiman Saha 2 Score: 78/3
+10.2 Avesh Khan to Wriddhiman Saha 2 Score: 80/3
+10.3 Avesh Khan to Wriddhiman Saha 1 Score: 81/3
+10.4 Avesh Khan to Kieron Pollard 6 Score: 87/3
+10.5 Avesh Khan to Kieron Pollard 2 Score: 89/3
+10.6 Avesh Khan to Kieron Pollard 0 Score: 89/3
+11.1 Ravichandran Ashwin to Wriddhiman Saha W Score: 89/4 Caught
+11.2 Ravichandran Ashwin to Andre Russell 0 Score: 89/4
+11.3 Ravichandran Ashwin to Andre Russell 0 Score: 89/4
+11.4 Ravichandran Ashwin to Andre Russell 0 Score: 89/4
+11.5 Ravichandran Ashwin to Andre Russell 1 Score: 90/4
+11.6 Ravichandran Ashwin to Kieron Pollard 1 Score: 91/4
+12.1 Washington Sundar to Kieron Pollard 1 Score: 92/4
+12.2 Washington Sundar to Andre Russell 6 Score: 98/4
+12.3 Washington Sundar to Andre Russell 6 Score: 104/4
+12.4 Washington Sundar to Andre Russell 2 Score: 106/4
+12.5 Washington Sundar to Andre Russell 1 Score: 107/4
+12.6 Washington Sundar to Kieron Pollard 1 Score: 108/4
+13.1 Navdeep Saini to Kieron Pollard 2 Score: 110/4
+13.2 Navdeep Saini to Kieron Pollard 1 Score: 111/4
+13.3 Navdeep Saini to Andre Russell 0 Score: 111/4
+13.4 Navdeep Saini to Andre Russell 1 Score: 112/4
+13.5 Navdeep Saini to Kieron Pollard 0 Score: 112/4
+13.6 Navdeep Saini to Kieron Pollard 1 Score: 113/4
+14.1 Rahul Chahar to Kieron Pollard 1 Score: 114/4
+14.2 Rahul Chahar to Andre Russell 6 Score: 120/4
+14.3 Rahul Chahar to Andre Russell 1 Score: 121/4
+14.4 Rahul Chahar to Kieron Pollard 1 Score: 122/4
+14.5 Rahul Chahar to Andre Russell 2 Score: 124/4
+14.6 Rahul Chahar to Andre Russell 0 Score: 124/4
+15.1 Shardul Thakur to Kieron Pollard 0 Score: 124/4
+15.2 Shardul Thakur to Kieron Pollard 2 Score: 126/4
+15.3 Shardul Thakur to Kieron Pollard 0 Score: 126/4
+15.4 Shardul Thakur to Kieron Pollard 1 Score: 127/4
+15.5 Shardul Thakur to Andre Russell 0 Score: 127/4
+15.6 Shardul Thakur to Andre Russell 1 Score: 128/4
+16.1 Avesh Khan to Andre Russell 4 Score: 132/4
+16.2 Avesh Khan to Andre Russell 0 Score: 132/4
+16.3 Avesh Khan to Andre Russell 1 Score: 133/4
+16.4 Avesh Khan to Kieron Pollard 4 Score: 137/4
+16.5 Avesh Khan to Kieron Pollard 1 Score: 138/4
+16.6 Avesh Khan to Andre Russell 3 Score: 141/4
+17.1 Ravichandran Ashwin to Andre Russell 6 Score: 147/4
+17.2 Ravichandran Ashwin to Andre Russell 2 Score: 149/4
+17.3 Ravichandran Ashwin to Andre Russell 0 Score: 149/4
+17.4 Ravichandran Ashwin to Andre Russell 0 Score: 149/4
+17.5 Ravichandran Ashwin to Andre Russell Wide Score: 150/4
+17.5 Ravichandran Ashwin to Andre Russell 4 Score: 154/4
+17.6 Ravichandran Ashwin to Andre Russell 6 Score: 160/4
+18.1 Washington Sundar to Kieron Pollard 0 Score: 160/4
+18.2 Washington Sundar to Kieron Pollard 0 Score: 160/4
+18.3 Washington Sundar to Kieron Pollard 1 LB! Score: 161/4
+18.4 Washington Sundar to Andre Russell 4 Score: 165/4
+18.5 Washington Sundar to Andre Russell 1 Score: 166/4
+18.6 Washington Sundar to Kieron Pollard 0 Score: 166/4
+19.1 Navdeep Saini to Andre Russell 1 Score: 167/4
+19.2 Navdeep Saini to Kieron Pollard 4 Score: 171/4
+19.3 Navdeep Saini to Kieron Pollard 1 Score: 172/4
+19.4 Navdeep Saini to Andre Russell 1 Score: 173/4
+19.5 Navdeep Saini to Kieron Pollard 4 Score: 177/4
+19.6 Navdeep Saini to Kieron Pollard 4 Score: 181/4
+dc won by 5 runs
++----------------+--------+---------+--------+----------------------------+
+| Player         |   Runs |   Balls | SR     | Out                        |
++================+========+=========+========+============================+
+| Mohammed Siraj |      0 |       0 | NA     | DNB                        |
++----------------+--------+---------+--------+----------------------------+
+| MA Agarwal     |     17 |      14 | 121.43 | Caught b R Ashwin          |
++----------------+--------+---------+--------+----------------------------+
+| KA Pollard     |     40 |      27 | 148.15 | Not out                    |
++----------------+--------+---------+--------+----------------------------+
+| Kartik Tyagi   |      0 |       0 | NA     | DNB                        |
++----------------+--------+---------+--------+----------------------------+
+| YS Chahal      |      0 |       0 | NA     | DNB                        |
++----------------+--------+---------+--------+----------------------------+
+| AB de Villiers |     32 |      33 | 96.97  | Caught b SN Thakur         |
++----------------+--------+---------+--------+----------------------------+
+| K Rabada       |      0 |       0 | NA     | DNB                        |
++----------------+--------+---------+--------+----------------------------+
+| WP Saha        |     16 |      12 | 133.33 | Caught b R Ashwin          |
++----------------+--------+---------+--------+----------------------------+
+| AD Russell     |     60 |      30 | 200.0  | Not out                    |
++----------------+--------+---------+--------+----------------------------+
+| Lalit Yadav    |      0 |       0 | NA     | DNB                        |
++----------------+--------+---------+--------+----------------------------+
+| Q de Kock      |      2 |       4 | 50.0   | Bowled b Washington Sundar |
++----------------+--------+---------+--------+----------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| RD Chahar         |     25 |       3 |         0 | 8.33  |
++-------------------+--------+---------+-----------+-------+
+| SN Thakur         |     21 |       3 |         1 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| DA Warner         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Ishan Kishan      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Ashwin          |     31 |       4 |         2 | 7.75  |
++-------------------+--------+---------+-----------+-------+
+| Avesh Khan        |     36 |       3 |         0 | 12.0  |
++-------------------+--------+---------+-----------+-------+
+| RG Sharma         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| F du Plessis      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     37 |       4 |         1 | 9.25  |
++-------------------+--------+---------+-----------+-------+
+| SK Raina          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     21 |       3 |         0 | 7.0   |
++-------------------+--------+---------+-----------+-------+

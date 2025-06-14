@@ -1,0 +1,350 @@
+['Rahul Chahar', 'Shardul Thakur', 'David Warner', 'Ishan Kishan', 'Ravichandran Ashwin', 'Avesh Khan', 'Rohit Sharma', 'Faf du Plessis', 'Washington Sundar', 'Suresh Raina', 'Navdeep Saini']
+mi won the toss and chose to bat
+0.1 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 1/0
+0.2 Ravichandran Ashwin to Nitish Rana 0 Score: 1/0
+0.3 Ravichandran Ashwin to Nitish Rana 2 Score: 3/0
+0.4 Ravichandran Ashwin to Nitish Rana 0 Score: 3/0
+0.5 Ravichandran Ashwin to Nitish Rana 1 Score: 4/0
+0.6 Ravichandran Ashwin to Devdutt Padikkal 0 Score: 4/0
+1.1 Washington Sundar to Nitish Rana 0 Score: 4/0
+1.2 Washington Sundar to Nitish Rana 1 Score: 5/0
+1.3 Washington Sundar to Devdutt Padikkal 1 Score: 6/0
+1.4 Washington Sundar to Nitish Rana 4 Score: 10/0
+1.5 Washington Sundar to Nitish Rana 4 Score: 14/0
+1.6 Washington Sundar to Nitish Rana 1 Score: 15/0
+2.1 Rahul Chahar to Nitish Rana 0 Score: 15/0
+2.2 Rahul Chahar to Nitish Rana 0 Score: 15/0
+2.3 Rahul Chahar to Nitish Rana 0 Score: 15/0
+2.4 Rahul Chahar to Nitish Rana 1 Score: 16/0
+2.5 Rahul Chahar to Devdutt Padikkal 1 Score: 17/0
+2.6 Rahul Chahar to Nitish Rana 0 Score: 17/0
+3.1 Shardul Thakur to Devdutt Padikkal 2 Score: 19/0
+3.2 Shardul Thakur to Devdutt Padikkal 4 Score: 23/0
+3.3 Shardul Thakur to Devdutt Padikkal 1 Score: 24/0
+3.4 Shardul Thakur to Nitish Rana 1 Score: 25/0
+3.5 Shardul Thakur to Devdutt Padikkal 0 Score: 25/0
+3.6 Shardul Thakur to Devdutt Padikkal 0 Score: 25/0
+4.1 Avesh Khan to Nitish Rana 4 Score: 29/0
+4.2 Avesh Khan to Nitish Rana 0 Score: 29/0
+4.3 Avesh Khan to Nitish Rana 1 Score: 30/0
+4.4 Avesh Khan to Devdutt Padikkal 1 Score: 31/0
+4.5 Avesh Khan to Nitish Rana 1 Score: 32/0
+4.6 Avesh Khan to Devdutt Padikkal 4 Score: 36/0
+5.1 Ravichandran Ashwin to Nitish Rana 4 Score: 40/0
+5.2 Ravichandran Ashwin to Nitish Rana 4 Score: 44/0
+5.3 Ravichandran Ashwin to Nitish Rana 4 Score: 48/0
+5.4 Ravichandran Ashwin to Nitish Rana 1 Score: 49/0
+5.5 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 50/0
+5.6 Ravichandran Ashwin to Nitish Rana 1 Score: 51/0
+6.1 Washington Sundar to Nitish Rana 4 Score: 55/0
+6.2 Washington Sundar to Nitish Rana 0 Score: 55/0
+6.3 Washington Sundar to Nitish Rana 4 Score: 59/0
+6.4 Washington Sundar to Nitish Rana 1 Score: 60/0
+6.5 Washington Sundar to Devdutt Padikkal 1 Score: 61/0
+6.6 Washington Sundar to Nitish Rana 2 Score: 63/0
+7.1 Navdeep Saini to Devdutt Padikkal 4 Score: 67/0
+7.2 Navdeep Saini to Devdutt Padikkal 6 Score: 73/0
+7.3 Navdeep Saini to Devdutt Padikkal 1 Score: 74/0
+7.4 Navdeep Saini to Nitish Rana 1 Score: 75/0
+7.5 Navdeep Saini to Devdutt Padikkal 1 LB! Score: 76/0
+7.6 Navdeep Saini to Nitish Rana 0 Score: 76/0
+8.1 Rahul Chahar to Devdutt Padikkal 0 Score: 76/0
+8.2 Rahul Chahar to Devdutt Padikkal 0 Score: 76/0
+8.3 Rahul Chahar to Devdutt Padikkal 2 Score: 78/0
+8.4 Rahul Chahar to Devdutt Padikkal W Score: 79/1 Run Out (1r)
+8.5 Rahul Chahar to Rishabh Pant 6 Score: 85/1
+8.6 Rahul Chahar to Rishabh Pant 4 Score: 89/1
+9.1 Shardul Thakur to Nitish Rana 4 Score: 93/1
+9.2 Shardul Thakur to Nitish Rana 2 Score: 95/1
+9.3 Shardul Thakur to Nitish Rana 0 Score: 95/1
+9.4 Shardul Thakur to Nitish Rana 6 Score: 101/1
+9.5 Shardul Thakur to Nitish Rana 0 Score: 101/1
+9.6 Shardul Thakur to Nitish Rana Wide Score: 102/1
+9.6 Shardul Thakur to Nitish Rana 4 Score: 106/1
+10.1 Avesh Khan to Rishabh Pant 0 Score: 106/1
+10.2 Avesh Khan to Rishabh Pant 2 Score: 108/1
+10.3 Avesh Khan to Rishabh Pant 0 Score: 108/1
+10.4 Avesh Khan to Rishabh Pant 1 Score: 109/1
+10.5 Avesh Khan to Nitish Rana 1 Score: 110/1
+10.6 Avesh Khan to Rishabh Pant 1 Score: 111/1
+11.1 Ravichandran Ashwin to Rishabh Pant 6 Score: 117/1
+11.2 Ravichandran Ashwin to Rishabh Pant Wide Score: 118/1
+11.2 Ravichandran Ashwin to Rishabh Pant 1 Score: 119/1
+11.3 Ravichandran Ashwin to Nitish Rana 1 Score: 120/1
+11.4 Ravichandran Ashwin to Rishabh Pant 2 Score: 122/1
+11.5 Ravichandran Ashwin to Rishabh Pant 0 Score: 122/1
+11.6 Ravichandran Ashwin to Rishabh Pant 1 Score: 123/1
+12.1 Washington Sundar to Rishabh Pant 0 Score: 123/1
+12.2 Washington Sundar to Rishabh Pant 1 Score: 124/1
+12.3 Washington Sundar to Nitish Rana 6 Score: 130/1
+12.4 Washington Sundar to Nitish Rana 6 Score: 136/1
+12.5 Washington Sundar to Nitish Rana 1 Score: 137/1
+12.6 Washington Sundar to Rishabh Pant 0 Score: 137/1
+13.1 Navdeep Saini to Nitish Rana 0 Score: 137/1
+13.2 Navdeep Saini to Nitish Rana 0 Score: 137/1
+13.3 Navdeep Saini to Nitish Rana 0 Score: 137/1
+13.4 Navdeep Saini to Nitish Rana 1 Score: 138/1
+13.5 Navdeep Saini to Rishabh Pant W Score: 138/2 Caught
+13.6 Navdeep Saini to Nicholas Pooran 0 Score: 138/2
+14.1 Rahul Chahar to Nitish Rana 4 Score: 142/2
+14.2 Rahul Chahar to Nitish Rana 6 Score: 148/2
+14.3 Rahul Chahar to Nitish Rana 1 Score: 149/2
+14.4 Rahul Chahar to Nicholas Pooran 1 Score: 150/2
+14.5 Rahul Chahar to Nitish Rana 4 Score: 154/2
+14.6 Rahul Chahar to Nitish Rana 0 Score: 154/2
+15.1 Shardul Thakur to Nicholas Pooran W Score: 154/3 Caught
+15.2 Shardul Thakur to Shimron Hetmyer 1 Score: 155/3
+15.3 Shardul Thakur to Nitish Rana 1 Score: 156/3
+15.4 Shardul Thakur to Shimron Hetmyer 0 Score: 156/3
+15.5 Shardul Thakur to Shimron Hetmyer 1 Score: 157/3
+15.6 Shardul Thakur to Nitish Rana 0 Score: 157/3
+16.1 Avesh Khan to Shimron Hetmyer 1 Score: 158/3
+16.2 Avesh Khan to Nitish Rana Wide Score: 159/3
+16.2 Avesh Khan to Nitish Rana 1 Score: 160/3
+16.3 Avesh Khan to Shimron Hetmyer 0 Score: 160/3
+16.4 Avesh Khan to Shimron Hetmyer 0 Score: 160/3
+16.5 Avesh Khan to Shimron Hetmyer 1 LB! Score: 161/3
+16.6 Avesh Khan to Nitish Rana 0 Score: 161/3
+17.1 Ravichandran Ashwin to Shimron Hetmyer 1 Score: 162/3
+17.2 Ravichandran Ashwin to Nitish Rana 1 Score: 163/3
+17.3 Ravichandran Ashwin to Shimron Hetmyer 0 Score: 163/3
+17.4 Ravichandran Ashwin to Shimron Hetmyer 0 Score: 163/3
+17.5 Ravichandran Ashwin to Shimron Hetmyer 0 Score: 163/3
+17.6 Ravichandran Ashwin to Shimron Hetmyer 0 Score: 163/3
+18.1 Washington Sundar to Nitish Rana 2 Score: 165/3
+18.2 Washington Sundar to Nitish Rana 1 Score: 166/3
+18.3 Washington Sundar to Shimron Hetmyer 1 Score: 167/3
+18.4 Washington Sundar to Nitish Rana 6 Score: 173/3
+18.5 Washington Sundar to Nitish Rana 1 Score: 174/3
+18.6 Washington Sundar to Shimron Hetmyer 6 Score: 180/3
+19.1 Navdeep Saini to Nitish Rana 1 Score: 181/3
+19.2 Navdeep Saini to Shimron Hetmyer 0 Score: 181/3
+19.3 Navdeep Saini to Shimron Hetmyer Wide Score: 182/3
+19.3 Navdeep Saini to Shimron Hetmyer 1 Score: 183/3
+19.4 Navdeep Saini to Nitish Rana 1 Score: 184/3
+19.5 Navdeep Saini to Shimron Hetmyer 1 Score: 185/3
+19.6 Navdeep Saini to Nitish Rana 0 Score: 185/3
++----------------+--------+---------+--------+--------------------------+
+| Player         |   Runs |   Balls | SR     | Out                      |
++================+========+=========+========+==========================+
+| Arshdeep Singh |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| CV Varun       |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| SO Hetmyer     |     13 |      17 | 76.47  | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| Harpreet Brar  |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| JO Holder      |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| Rashid Khan    |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| N Rana         |    109 |      63 | 173.02 | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| AF Milne       |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| RR Pant        |     25 |      16 | 156.25 | Caught b NA Saini        |
++----------------+--------+---------+--------+--------------------------+
+| D Padikkal     |     31 |      21 | 147.62 | Run Out (1r) b RD Chahar |
++----------------+--------+---------+--------+--------------------------+
+| N Pooran       |      1 |       3 | 33.33  | Caught b SN Thakur       |
++----------------+--------+---------+--------+--------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| RD Chahar         |     31 |       3 |         0 | 10.33 |
++-------------------+--------+---------+-----------+-------+
+| SN Thakur         |     28 |       3 |         1 | 9.33  |
++-------------------+--------+---------+-----------+-------+
+| DA Warner         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Ishan Kishan      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Ashwin          |     33 |       4 |         0 | 8.25  |
++-------------------+--------+---------+-----------+-------+
+| Avesh Khan        |     19 |       3 |         0 | 6.33  |
++-------------------+--------+---------+-----------+-------+
+| RG Sharma         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| F du Plessis      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     54 |       4 |         0 | 13.5  |
++-------------------+--------+---------+-----------+-------+
+| SK Raina          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     18 |       3 |         1 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+0.1 Arshdeep Singh to David Warner 1 Score: 1/0
+0.2 Arshdeep Singh to Faf du Plessis W Score: 1/1 Bowled
+0.3 Arshdeep Singh to Rohit Sharma 4 Score: 5/1
+0.4 Arshdeep Singh to Rohit Sharma 1 Score: 6/1
+0.5 Arshdeep Singh to David Warner 1 Score: 7/1
+0.6 Arshdeep Singh to Rohit Sharma 4 Score: 11/1
+1.1 Harpreet Brar to David Warner 1 Score: 12/1
+1.2 Harpreet Brar to Rohit Sharma 1 Score: 13/1
+1.3 Harpreet Brar to David Warner 0 Score: 13/1
+1.4 Harpreet Brar to David Warner 0 Score: 13/1
+1.5 Harpreet Brar to David Warner 6 Score: 19/1
+1.6 Harpreet Brar to David Warner 2 Score: 21/1
+2.1 Jason Holder to Rohit Sharma 4 Score: 25/1
+2.2 Jason Holder to Rohit Sharma W Score: 25/2 Caught
+2.3 Jason Holder to Suresh Raina 1 Score: 26/2
+2.4 Jason Holder to David Warner 1 LB! Score: 27/2
+2.5 Jason Holder to Suresh Raina W Score: 27/3 Bowled
+2.6 Jason Holder to Ishan Kishan 4 Score: 31/3
+3.1 Nitish Rana to David Warner 1 Score: 32/3
+3.2 Nitish Rana to Ishan Kishan 0 Score: 32/3
+3.3 Nitish Rana to Ishan Kishan 4 Score: 36/3
+3.4 Nitish Rana to Ishan Kishan 0 Score: 36/3
+3.5 Nitish Rana to Ishan Kishan 0 Score: 36/3
+3.6 Nitish Rana to Ishan Kishan W Score: 36/4 Caught
+4.1 Arshdeep Singh to David Warner 2 Score: 38/4
+4.2 Arshdeep Singh to David Warner 4 Score: 42/4
+4.3 Arshdeep Singh to David Warner 1 Score: 43/4
+4.4 Arshdeep Singh to Washington Sundar 1 Score: 44/4
+4.5 Arshdeep Singh to David Warner 4 Score: 48/4
+4.6 Arshdeep Singh to David Warner 1 Score: 49/4
+5.1 Rashid Khan to David Warner 0 Score: 49/4
+5.2 Rashid Khan to David Warner 0 Score: 49/4
+5.3 Rashid Khan to David Warner 0 Score: 49/4
+5.4 Rashid Khan to David Warner 0 Score: 49/4
+5.5 Rashid Khan to David Warner 0 Score: 49/4
+5.6 Rashid Khan to David Warner 0 Score: 49/4
+6.1 Varun Chakravarthy to Washington Sundar 1 Score: 50/4
+6.2 Varun Chakravarthy to David Warner 1 Score: 51/4
+6.3 Varun Chakravarthy to Washington Sundar 1 Score: 52/4
+6.4 Varun Chakravarthy to David Warner 1 Score: 53/4
+6.5 Varun Chakravarthy to Washington Sundar 0 Score: 53/4
+6.6 Varun Chakravarthy to Washington Sundar 1 Score: 54/4
+7.1 Harpreet Brar to Washington Sundar 2 Score: 56/4
+7.2 Harpreet Brar to Washington Sundar 4 Score: 60/4
+7.3 Harpreet Brar to Washington Sundar 1 Score: 61/4
+7.4 Harpreet Brar to David Warner 2 B! Score: 63/4
+7.5 Harpreet Brar to David Warner 4 Score: 67/4
+7.6 Harpreet Brar to David Warner 6 Score: 73/4
+8.1 Jason Holder to Washington Sundar 1 Score: 74/4
+8.2 Jason Holder to David Warner 1 Score: 75/4
+8.3 Jason Holder to Washington Sundar 1 Score: 76/4
+8.4 Jason Holder to David Warner 0 Score: 76/4
+8.5 Jason Holder to David Warner 1 Score: 77/4
+8.6 Jason Holder to Washington Sundar 0 Score: 77/4
+9.1 Nitish Rana to David Warner 0 Score: 77/4
+9.2 Nitish Rana to David Warner 1 Score: 78/4
+9.3 Nitish Rana to Washington Sundar 0 Score: 78/4
+9.4 Nitish Rana to Washington Sundar W Score: 78/5 Caught
+9.5 Nitish Rana to Ravichandran Ashwin 0 Score: 78/5
+9.6 Nitish Rana to Ravichandran Ashwin W Score: 78/6 Caught
+10.1 Arshdeep Singh to David Warner 1 Score: 79/6
+10.2 Arshdeep Singh to Navdeep Saini 0 Score: 79/6
+10.3 Arshdeep Singh to Navdeep Saini 0 Score: 79/6
+10.4 Arshdeep Singh to Navdeep Saini 0 Score: 79/6
+10.5 Arshdeep Singh to Navdeep Saini 4 Score: 83/6
+10.6 Arshdeep Singh to Navdeep Saini 1 Score: 84/6
+11.1 Rashid Khan to Navdeep Saini 1 Score: 85/6
+11.2 Rashid Khan to David Warner 2 Score: 87/6
+11.3 Rashid Khan to David Warner 4 Score: 91/6
+11.4 Rashid Khan to David Warner 1 Score: 92/6
+11.5 Rashid Khan to Navdeep Saini 0 Score: 92/6
+11.6 Rashid Khan to Navdeep Saini 0 Score: 92/6
+12.1 Varun Chakravarthy to David Warner 1 Score: 93/6
+12.2 Varun Chakravarthy to Navdeep Saini 1 Score: 94/6
+12.3 Varun Chakravarthy to David Warner 1 Score: 95/6
+12.4 Varun Chakravarthy to Navdeep Saini 1 Score: 96/6
+12.5 Varun Chakravarthy to David Warner 0 Score: 96/6
+12.6 Varun Chakravarthy to David Warner 0 Score: 96/6
+13.1 Harpreet Brar to Navdeep Saini 1 Score: 97/6
+13.2 Harpreet Brar to David Warner 0 Score: 97/6
+13.3 Harpreet Brar to David Warner 1 Score: 98/6
+13.4 Harpreet Brar to Navdeep Saini 1 Score: 99/6
+13.5 Harpreet Brar to David Warner 1 Score: 100/6
+13.6 Harpreet Brar to Navdeep Saini 0 Score: 100/6
+14.1 Jason Holder to David Warner 1 Score: 101/6
+14.2 Jason Holder to Navdeep Saini 4 Score: 105/6
+14.3 Jason Holder to Navdeep Saini 0 Score: 105/6
+14.4 Jason Holder to Navdeep Saini Wide Score: 106/6
+14.4 Jason Holder to Navdeep Saini 1 Score: 107/6
+14.5 Jason Holder to David Warner 0 Score: 107/6
+14.6 Jason Holder to David Warner 0 Score: 107/6
+15.1 Nitish Rana to Navdeep Saini Wide Score: 108/6
+15.1 Nitish Rana to Navdeep Saini 1 Score: 109/6
+15.2 Nitish Rana to David Warner 1 Score: 110/6
+15.3 Nitish Rana to Navdeep Saini 4 Score: 114/6
+15.4 Nitish Rana to Navdeep Saini 4 Score: 118/6
+15.5 Nitish Rana to Navdeep Saini 2 Score: 120/6
+15.6 Nitish Rana to Navdeep Saini 4 Score: 124/6
+16.1 Arshdeep Singh to David Warner 4 Score: 128/6
+16.2 Arshdeep Singh to David Warner 4 Score: 132/6
+16.3 Arshdeep Singh to David Warner 0 Score: 132/6
+16.4 Arshdeep Singh to David Warner 4 Score: 136/6
+16.5 Arshdeep Singh to David Warner 4 Score: 140/6
+16.6 Arshdeep Singh to David Warner 4 Score: 144/6
+17.1 Rashid Khan to Navdeep Saini 1 Score: 145/6
+17.2 Rashid Khan to David Warner 1 Score: 146/6
+17.3 Rashid Khan to Navdeep Saini Wide Score: 147/6
+17.3 Rashid Khan to Navdeep Saini 1 Score: 148/6
+17.4 Rashid Khan to David Warner 4 Score: 152/6
+17.5 Rashid Khan to David Warner 0 Score: 152/6
+17.6 Rashid Khan to David Warner 1 Score: 153/6
+18.1 Varun Chakravarthy to David Warner 0 Score: 153/6
+18.2 Varun Chakravarthy to David Warner 0 Score: 153/6
+18.3 Varun Chakravarthy to David Warner 4 Score: 157/6
+18.4 Varun Chakravarthy to David Warner 1 Score: 158/6
+18.5 Varun Chakravarthy to Navdeep Saini 1 Score: 159/6
+18.6 Varun Chakravarthy to David Warner 0 Score: 159/6
+19.1 Harpreet Brar to Navdeep Saini 1 Score: 160/6
+19.2 Harpreet Brar to David Warner 6 Score: 166/6
+19.3 Harpreet Brar to David Warner 0 Score: 166/6
+19.4 Harpreet Brar to David Warner 4 Score: 170/6
+19.5 Harpreet Brar to David Warner 6 Score: 176/6
+19.6 Harpreet Brar to David Warner 1 Score: 177/6
+mi won by 8 runs
++-------------------+--------+---------+--------+-------------------------+
+| Player            |   Runs |   Balls | SR     | Out                     |
++===================+========+=========+========+=========================+
+| RD Chahar         |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| SN Thakur         |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| DA Warner         |    101 |      65 | 155.38 | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| Ishan Kishan      |      8 |       6 | 133.33 | Caught b N Rana         |
++-------------------+--------+---------+--------+-------------------------+
+| R Ashwin          |      0 |       2 | 0.0    | Caught b N Rana         |
++-------------------+--------+---------+--------+-------------------------+
+| Avesh Khan        |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| RG Sharma         |     14 |       6 | 233.33 | Caught b JO Holder      |
++-------------------+--------+---------+--------+-------------------------+
+| F du Plessis      |      0 |       1 | 0.0    | Bowled b Arshdeep Singh |
++-------------------+--------+---------+--------+-------------------------+
+| Washington Sundar |     13 |      13 | 100.0  | Caught b N Rana         |
++-------------------+--------+---------+--------+-------------------------+
+| SK Raina          |      1 |       2 | 50.0   | Bowled b JO Holder      |
++-------------------+--------+---------+--------+-------------------------+
+| NA Saini          |     34 |      25 | 136.0  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Arshdeep Singh |     50 |       4 |         1 | 12.5  |
++----------------+--------+---------+-----------+-------+
+| CV Varun       |     15 |       3 |         0 | 5.0   |
++----------------+--------+---------+-----------+-------+
+| SO Hetmyer     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Harpreet Brar  |     49 |       4 |         0 | 12.25 |
++----------------+--------+---------+-----------+-------+
+| JO Holder      |     20 |       3 |         2 | 6.67  |
++----------------+--------+---------+-----------+-------+
+| Rashid Khan    |     17 |       3 |         0 | 5.67  |
++----------------+--------+---------+-----------+-------+
+| N Rana         |     23 |       3 |         3 | 7.67  |
++----------------+--------+---------+-----------+-------+
+| AF Milne       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| RR Pant        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| D Padikkal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| N Pooran       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+

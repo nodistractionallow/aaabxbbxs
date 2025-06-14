@@ -1,0 +1,307 @@
+['Sam Curran', 'Virat Kohli', 'Deepak Chahar', 'MS Dhoni', 'Mohammed Shami', 'Lockie Ferguson', 'David Miller', 'Dinesh Karthik', 'Anrich Nortje', 'Sandeep Sharma', 'Bhuvneshwar Kumar']
+rr won the toss and chose to bat
+0.1 Deepak Chahar to Quinton de Kock 1 Score: 1/0
+0.2 Deepak Chahar to Mayank Agarwal 0 Score: 1/0
+0.3 Deepak Chahar to Mayank Agarwal 1 Score: 2/0
+0.4 Deepak Chahar to Quinton de Kock 0 Score: 2/0
+0.5 Deepak Chahar to Quinton de Kock 1 Score: 3/0
+0.6 Deepak Chahar to Mayank Agarwal 1 Score: 4/0
+1.1 Bhuvneshwar Kumar to Mayank Agarwal 4 Score: 8/0
+1.2 Bhuvneshwar Kumar to Mayank Agarwal 0 Score: 8/0
+1.3 Bhuvneshwar Kumar to Mayank Agarwal 6 Score: 14/0
+1.4 Bhuvneshwar Kumar to Mayank Agarwal 0 Score: 14/0
+1.5 Bhuvneshwar Kumar to Mayank Agarwal 1 Score: 15/0
+1.6 Bhuvneshwar Kumar to Quinton de Kock 4 Score: 19/0
+2.1 Anrich Nortje to Mayank Agarwal 1 Score: 20/0
+2.2 Anrich Nortje to Quinton de Kock 0 Score: 20/0
+2.3 Anrich Nortje to Quinton de Kock 1 Score: 21/0
+2.4 Anrich Nortje to Mayank Agarwal 1 Score: 22/0
+2.5 Anrich Nortje to Quinton de Kock 0 Score: 22/0
+2.6 Anrich Nortje to Quinton de Kock 1 Score: 23/0
+3.1 Sam Curran to Quinton de Kock 0 Score: 23/0
+3.2 Sam Curran to Quinton de Kock 0 Score: 23/0
+3.3 Sam Curran to Quinton de Kock 2 Score: 25/0
+3.4 Sam Curran to Quinton de Kock 1 Score: 26/0
+3.5 Sam Curran to Mayank Agarwal 1 Score: 27/0
+3.6 Sam Curran to Quinton de Kock 2 Score: 29/0
+4.1 Mohammed Shami to Mayank Agarwal 4 Score: 33/0
+4.2 Mohammed Shami to Mayank Agarwal 0 Score: 33/0
+4.3 Mohammed Shami to Mayank Agarwal 6 Score: 39/0
+4.4 Mohammed Shami to Mayank Agarwal 0 Score: 39/0
+4.5 Mohammed Shami to Mayank Agarwal 4 Score: 43/0
+4.6 Mohammed Shami to Mayank Agarwal 1 Score: 44/0
+5.1 Bhuvneshwar Kumar to Mayank Agarwal 0 Score: 44/0
+5.2 Bhuvneshwar Kumar to Mayank Agarwal 4 Score: 48/0
+5.3 Bhuvneshwar Kumar to Mayank Agarwal Wide Score: 49/0
+5.3 Bhuvneshwar Kumar to Mayank Agarwal 0 Score: 49/0
+5.4 Bhuvneshwar Kumar to Mayank Agarwal 0 Score: 49/0
+5.5 Bhuvneshwar Kumar to Mayank Agarwal 2 Score: 51/0
+5.6 Bhuvneshwar Kumar to Mayank Agarwal 0 Score: 51/0
+6.1 Sandeep Sharma to Quinton de Kock 1 Score: 52/0
+6.2 Sandeep Sharma to Mayank Agarwal 6 Score: 58/0
+6.3 Sandeep Sharma to Mayank Agarwal 6 Score: 64/0
+6.4 Sandeep Sharma to Mayank Agarwal 1 Score: 65/0
+6.5 Sandeep Sharma to Quinton de Kock 1 Score: 66/0
+6.6 Sandeep Sharma to Mayank Agarwal 4 Score: 70/0
+7.1 Deepak Chahar to Quinton de Kock 1 Score: 71/0
+7.2 Deepak Chahar to Mayank Agarwal 0 Score: 71/0
+7.3 Deepak Chahar to Mayank Agarwal 1 Score: 72/0
+7.4 Deepak Chahar to Quinton de Kock Wide Score: 73/0
+7.4 Deepak Chahar to Quinton de Kock 0 Score: 73/0
+7.5 Deepak Chahar to Quinton de Kock 1 Score: 74/0
+7.6 Deepak Chahar to Mayank Agarwal 4 Score: 78/0
+8.1 Anrich Nortje to Quinton de Kock 1 Score: 79/0
+8.2 Anrich Nortje to Mayank Agarwal W Score: 79/1 Caught
+8.3 Anrich Nortje to AB de Villiers 0 Score: 79/1
+8.4 Anrich Nortje to AB de Villiers 0 Score: 79/1
+8.5 Anrich Nortje to AB de Villiers 0 Score: 79/1
+8.6 Anrich Nortje to AB de Villiers 1 Score: 80/1
+9.1 Sam Curran to AB de Villiers 6 Score: 86/1
+9.2 Sam Curran to AB de Villiers 0 Score: 86/1
+9.3 Sam Curran to AB de Villiers 1 Score: 87/1
+9.4 Sam Curran to Quinton de Kock 1 Score: 88/1
+9.5 Sam Curran to AB de Villiers 1 Score: 89/1
+9.6 Sam Curran to Quinton de Kock 1 Score: 90/1
+10.1 Mohammed Shami to Quinton de Kock 0 Score: 90/1
+10.2 Mohammed Shami to Quinton de Kock 4 Score: 94/1
+10.3 Mohammed Shami to Quinton de Kock 0 Score: 94/1
+10.4 Mohammed Shami to Quinton de Kock 1 Score: 95/1
+10.5 Mohammed Shami to AB de Villiers 1 Score: 96/1
+10.6 Mohammed Shami to Quinton de Kock 0 Score: 96/1
+11.1 Bhuvneshwar Kumar to AB de Villiers 1 Score: 97/1
+11.2 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 97/1
+11.3 Bhuvneshwar Kumar to Quinton de Kock 2 LB! Score: 99/1
+11.4 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 99/1
+11.5 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 99/1
+11.6 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 99/1
+12.1 Sandeep Sharma to AB de Villiers 1 Score: 100/1
+12.2 Sandeep Sharma to Quinton de Kock 1 Score: 101/1
+12.3 Sandeep Sharma to AB de Villiers 4 Score: 105/1
+12.4 Sandeep Sharma to AB de Villiers 1 Score: 106/1
+12.5 Sandeep Sharma to Quinton de Kock 0 Score: 106/1
+12.6 Sandeep Sharma to Quinton de Kock 0 Score: 106/1
+13.1 Deepak Chahar to AB de Villiers 4 Score: 110/1
+13.2 Deepak Chahar to AB de Villiers 0 Score: 110/1
+13.3 Deepak Chahar to AB de Villiers 1 Score: 111/1
+13.4 Deepak Chahar to Quinton de Kock 0 Score: 111/1
+13.5 Deepak Chahar to Quinton de Kock 4 Score: 115/1
+13.6 Deepak Chahar to Quinton de Kock 1 Score: 116/1
+14.1 Anrich Nortje to Quinton de Kock 2 Score: 118/1
+14.2 Anrich Nortje to Quinton de Kock 0 Score: 118/1
+14.3 Anrich Nortje to Quinton de Kock 2 Score: 120/1
+14.4 Anrich Nortje to Quinton de Kock 1 Score: 121/1
+14.5 Anrich Nortje to AB de Villiers 0 Score: 121/1
+14.6 Anrich Nortje to AB de Villiers 4 Score: 125/1
+15.1 Sam Curran to Quinton de Kock W Score: 125/2 Caught
+15.2 Sam Curran to Wriddhiman Saha 0 Score: 125/2
+15.3 Sam Curran to Wriddhiman Saha 4 Score: 129/2
+15.4 Sam Curran to Wriddhiman Saha 4 Score: 133/2
+15.5 Sam Curran to Wriddhiman Saha 1 Score: 134/2
+15.6 Sam Curran to AB de Villiers 6 Score: 140/2
+16.1 Mohammed Shami to Wriddhiman Saha 2 Score: 142/2
+16.2 Mohammed Shami to Wriddhiman Saha 1 Score: 143/2
+16.3 Mohammed Shami to AB de Villiers 1 Score: 144/2
+16.4 Mohammed Shami to Wriddhiman Saha 0 Score: 144/2
+16.5 Mohammed Shami to Wriddhiman Saha 1 Score: 145/2
+16.6 Mohammed Shami to AB de Villiers 4 Score: 149/2
+17.1 Bhuvneshwar Kumar to Wriddhiman Saha 1 Score: 150/2
+17.2 Bhuvneshwar Kumar to AB de Villiers 4 Score: 154/2
+17.3 Bhuvneshwar Kumar to AB de Villiers 1 Score: 155/2
+17.4 Bhuvneshwar Kumar to Wriddhiman Saha 0 Score: 155/2
+17.5 Bhuvneshwar Kumar to Wriddhiman Saha 0 Score: 155/2
+17.6 Bhuvneshwar Kumar to Wriddhiman Saha 0 Score: 155/2
+18.1 Sandeep Sharma to AB de Villiers 0 Score: 155/2
+18.2 Sandeep Sharma to AB de Villiers 1 Score: 156/2
+18.3 Sandeep Sharma to Wriddhiman Saha 4 Score: 160/2
+18.4 Sandeep Sharma to Wriddhiman Saha 1 Score: 161/2
+18.5 Sandeep Sharma to AB de Villiers 6 Score: 167/2
+18.6 Sandeep Sharma to AB de Villiers 0 Score: 167/2
+19.1 Deepak Chahar to Wriddhiman Saha 0 Score: 167/2
+19.2 Deepak Chahar to Wriddhiman Saha 6 Score: 173/2
+19.3 Deepak Chahar to Wriddhiman Saha W Score: 173/3 Stumped
+19.4 Deepak Chahar to Kieron Pollard 1 Score: 174/3
+19.5 Deepak Chahar to AB de Villiers 0 Score: 174/3
+19.6 Deepak Chahar to AB de Villiers 4 Score: 178/3
++----------------+--------+---------+--------+---------------------+
+| Player         |   Runs |   Balls | SR     | Out                 |
++================+========+=========+========+=====================+
+| Mohammed Siraj |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| MA Agarwal     |     59 |      31 | 190.32 | Caught b A Nortje   |
++----------------+--------+---------+--------+---------------------+
+| KA Pollard     |      1 |       1 | 100.0  | Not out             |
++----------------+--------+---------+--------+---------------------+
+| Kartik Tyagi   |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| YS Chahal      |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| AB de Villiers |     53 |      29 | 182.76 | Not out             |
++----------------+--------+---------+--------+---------------------+
+| K Rabada       |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| WP Saha        |     25 |      17 | 147.06 | Stumped b DL Chahar |
++----------------+--------+---------+--------+---------------------+
+| AD Russell     |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| Lalit Yadav    |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| Q de Kock      |     36 |      42 | 85.71  | Caught b SM Curran  |
++----------------+--------+---------+--------+---------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| SM Curran      |     31 |       3 |         1 | 10.33 |
++----------------+--------+---------+-----------+-------+
+| V Kohli        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| DL Chahar      |     33 |       4 |         1 | 8.25  |
++----------------+--------+---------+-----------+-------+
+| MS Dhoni       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Mohammed Shami |     30 |       3 |         0 | 10.0  |
++----------------+--------+---------+-----------+-------+
+| LH Ferguson    |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| DA Miller      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KD Karthik     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| A Nortje       |     15 |       3 |         1 | 5.0   |
++----------------+--------+---------+-----------+-------+
+| Sandeep Sharma |     38 |       3 |         0 | 12.67 |
++----------------+--------+---------+-----------+-------+
+| B Kumar        |     29 |       4 |         0 | 7.25  |
++----------------+--------+---------+-----------+-------+
+0.1 Kagiso Rabada to Virat Kohli 4 Score: 4/0
+0.2 Kagiso Rabada to Virat Kohli 0 Score: 4/0
+0.3 Kagiso Rabada to Virat Kohli 4 Score: 8/0
+0.4 Kagiso Rabada to Virat Kohli W Score: 8/1 Bowled
+0.5 Kagiso Rabada to Sam Curran Wide Score: 9/1
+0.5 Kagiso Rabada to Sam Curran 1 Score: 10/1
+0.6 Kagiso Rabada to David Miller 2 Score: 12/1
+1.1 Andre Russell to Sam Curran 4 Score: 16/1
+1.2 Andre Russell to Sam Curran 0 Score: 16/1
+1.3 Andre Russell to Sam Curran Wide Score: 17/1
+1.3 Andre Russell to Sam Curran 1 Score: 18/1
+1.4 Andre Russell to David Miller W Score: 18/2 Lbw
+1.5 Andre Russell to MS Dhoni 6 Score: 24/2
+1.6 Andre Russell to MS Dhoni 0 Score: 24/2
+2.1 Kagiso Rabada to Sam Curran 0 Score: 24/2
+2.2 Kagiso Rabada to Sam Curran 4 Score: 28/2
+2.3 Kagiso Rabada to Sam Curran 0 Score: 28/2
+2.4 Kagiso Rabada to Sam Curran 0 Score: 28/2
+2.5 Kagiso Rabada to Sam Curran 4 Score: 32/2
+2.6 Kagiso Rabada to Sam Curran 2 Score: 34/2
+3.1 Andre Russell to MS Dhoni 4 B! Score: 38/2
+3.2 Andre Russell to MS Dhoni 1 Score: 39/2
+3.3 Andre Russell to Sam Curran 1 B! Score: 40/2
+3.4 Andre Russell to MS Dhoni 1 LB! Score: 41/2
+3.5 Andre Russell to Sam Curran 4 Score: 45/2
+3.6 Andre Russell to Sam Curran 1 Score: 46/2
+4.1 Yuzvendra Chahal to Sam Curran 2 Score: 48/2
+4.2 Yuzvendra Chahal to Sam Curran 1 Score: 49/2
+4.3 Yuzvendra Chahal to MS Dhoni 4 Score: 53/2
+4.4 Yuzvendra Chahal to MS Dhoni 0 Score: 53/2
+4.5 Yuzvendra Chahal to MS Dhoni W Score: 53/3 Caught
+4.6 Yuzvendra Chahal to Dinesh Karthik 0 Score: 53/3
+5.1 Mohammed Siraj to Sam Curran W Score: 53/4 Bowled
+5.2 Mohammed Siraj to Deepak Chahar 0 Score: 53/4
+5.3 Mohammed Siraj to Deepak Chahar W Score: 53/5 Caught
+5.4 Mohammed Siraj to Bhuvneshwar Kumar 0 Score: 53/5
+5.5 Mohammed Siraj to Bhuvneshwar Kumar 1 Score: 54/5
+5.6 Mohammed Siraj to Dinesh Karthik 6 Score: 60/5
+6.1 Lalit Yadav to Bhuvneshwar Kumar 1 Score: 61/5
+6.2 Lalit Yadav to Dinesh Karthik W Score: 61/6 Bowled
+6.3 Lalit Yadav to Lockie Ferguson W Score: 61/7 Bowled
+6.4 Lalit Yadav to Mohammed Shami 1 Score: 62/7
+6.5 Lalit Yadav to Bhuvneshwar Kumar 1 Score: 63/7
+6.6 Lalit Yadav to Mohammed Shami 1 Score: 64/7
+7.1 Kartik Tyagi to Mohammed Shami 0 Score: 64/7
+7.2 Kartik Tyagi to Mohammed Shami W Score: 64/8 Lbw
+7.3 Kartik Tyagi to Anrich Nortje 0 Score: 64/8
+7.4 Kartik Tyagi to Anrich Nortje 3 Score: 67/8
+7.5 Kartik Tyagi to Bhuvneshwar Kumar 0 Score: 67/8
+7.6 Kartik Tyagi to Bhuvneshwar Kumar W Score: 67/9 Bowled
+8.1 Kagiso Rabada to Anrich Nortje 1 Score: 68/9
+8.2 Kagiso Rabada to Sandeep Sharma 1 Score: 69/9
+8.3 Kagiso Rabada to Anrich Nortje 1 Score: 70/9
+8.4 Kagiso Rabada to Sandeep Sharma 4 Score: 74/9
+8.5 Kagiso Rabada to Sandeep Sharma 1 Score: 75/9
+8.6 Kagiso Rabada to Anrich Nortje 0 Score: 75/9
+9.1 Andre Russell to Sandeep Sharma 1 Score: 76/9
+9.2 Andre Russell to Anrich Nortje 1 Score: 77/9
+9.3 Andre Russell to Sandeep Sharma 6 Score: 83/9
+9.4 Andre Russell to Sandeep Sharma 1 Score: 84/9
+9.5 Andre Russell to Anrich Nortje 6 Score: 90/9
+9.6 Andre Russell to Anrich Nortje 1 Score: 91/9
+10.1 Yuzvendra Chahal to Anrich Nortje 1 Score: 92/9
+10.2 Yuzvendra Chahal to Sandeep Sharma 0 Score: 92/9
+10.3 Yuzvendra Chahal to Sandeep Sharma 1 Score: 93/9
+10.4 Yuzvendra Chahal to Anrich Nortje 3 Score: 96/9
+10.5 Yuzvendra Chahal to Sandeep Sharma 4 Score: 100/9
+10.6 Yuzvendra Chahal to Sandeep Sharma 1 Score: 101/9
+11.1 Mohammed Siraj to Sandeep Sharma 4 Score: 105/9
+11.2 Mohammed Siraj to Sandeep Sharma 0 Score: 105/9
+11.3 Mohammed Siraj to Sandeep Sharma 4 Score: 109/9
+11.4 Mohammed Siraj to Sandeep Sharma 6 Score: 115/9
+11.5 Mohammed Siraj to Sandeep Sharma 2 Score: 117/9
+11.6 Mohammed Siraj to Sandeep Sharma 1 Score: 118/9
+12.1 Lalit Yadav to Sandeep Sharma 1 Score: 119/9
+12.2 Lalit Yadav to Anrich Nortje 1 Score: 120/9
+12.3 Lalit Yadav to Sandeep Sharma 1 Score: 121/9
+12.4 Lalit Yadav to Anrich Nortje 1 Score: 122/9
+12.5 Lalit Yadav to Sandeep Sharma 0 Score: 122/9
+12.6 Lalit Yadav to Sandeep Sharma 0 Score: 122/9
+13.1 Kartik Tyagi to Anrich Nortje 6 Score: 128/9
+13.2 Kartik Tyagi to Anrich Nortje W Score: 128/10 Caught
+rr won by 50 runs
++----------------+--------+---------+--------+-------------------------+
+| Player         |   Runs |   Balls |     SR | Out                     |
++================+========+=========+========+=========================+
+| SM Curran      |     24 |      16 | 150    | Bowled b Mohammed Siraj |
++----------------+--------+---------+--------+-------------------------+
+| V Kohli        |      8 |       4 | 200    | Bowled b K Rabada       |
++----------------+--------+---------+--------+-------------------------+
+| DL Chahar      |      0 |       2 |   0    | Caught b Mohammed Siraj |
++----------------+--------+---------+--------+-------------------------+
+| MS Dhoni       |     11 |       8 | 137.5  | Caught b YS Chahal      |
++----------------+--------+---------+--------+-------------------------+
+| Mohammed Shami |      2 |       4 |  50    | Lbw b Kartik Tyagi      |
++----------------+--------+---------+--------+-------------------------+
+| LH Ferguson    |      0 |       1 |   0    | Bowled b Lalit Yadav    |
++----------------+--------+---------+--------+-------------------------+
+| DA Miller      |      2 |       2 | 100    | Lbw b AD Russell        |
++----------------+--------+---------+--------+-------------------------+
+| KD Karthik     |      6 |       3 | 200    | Bowled b Lalit Yadav    |
++----------------+--------+---------+--------+-------------------------+
+| A Nortje       |     25 |      14 | 178.57 | Caught b Kartik Tyagi   |
++----------------+--------+---------+--------+-------------------------+
+| Sandeep Sharma |     39 |      20 | 195    | Not out                 |
++----------------+--------+---------+--------+-------------------------+
+| B Kumar        |      3 |       6 |  50    | Bowled b Kartik Tyagi   |
++----------------+--------+---------+--------+-------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Mohammed Siraj |     24 |     2   |         2 | 12.0  |
++----------------+--------+---------+-----------+-------+
+| MA Agarwal     |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KA Pollard     |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Kartik Tyagi   |      9 |     1.2 |         3 | 6.75  |
++----------------+--------+---------+-----------+-------+
+| YS Chahal      |     17 |     2   |         1 | 8.5   |
++----------------+--------+---------+-----------+-------+
+| AB de Villiers |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| K Rabada       |     30 |     3   |         1 | 10.0  |
++----------------+--------+---------+-----------+-------+
+| WP Saha        |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| AD Russell     |     34 |     3   |         1 | 11.33 |
++----------------+--------+---------+-----------+-------+
+| Lalit Yadav    |      8 |     2   |         2 | 4.0   |
++----------------+--------+---------+-----------+-------+
+| Q de Kock      |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+

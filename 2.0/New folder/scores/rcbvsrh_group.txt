@@ -1,0 +1,336 @@
+['Sam Curran', 'Virat Kohli', 'Deepak Chahar', 'MS Dhoni', 'Mohammed Shami', 'Lockie Ferguson', 'David Miller', 'Dinesh Karthik', 'Anrich Nortje', 'Sandeep Sharma', 'Bhuvneshwar Kumar']
+rcb won the toss and chose to field
+0.1 Deepak Chahar to Yashasvi Jaiswal 0 Score: 0/0
+0.2 Deepak Chahar to Yashasvi Jaiswal Wide Score: 1/0
+0.2 Deepak Chahar to Yashasvi Jaiswal 0 Score: 1/0
+0.3 Deepak Chahar to Yashasvi Jaiswal 0 Score: 1/0
+0.4 Deepak Chahar to Yashasvi Jaiswal 0 Score: 1/0
+0.5 Deepak Chahar to Yashasvi Jaiswal 1 Score: 2/0
+0.6 Deepak Chahar to Rahul Tripathi 4 Score: 6/0
+1.1 Bhuvneshwar Kumar to Yashasvi Jaiswal 1 Score: 7/0
+1.2 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 7/0
+1.3 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 7/0
+1.4 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 7/0
+1.5 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 7/0
+1.6 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 7/0
+2.1 Anrich Nortje to Yashasvi Jaiswal 2 Score: 9/0
+2.2 Anrich Nortje to Yashasvi Jaiswal 0 Score: 9/0
+2.3 Anrich Nortje to Yashasvi Jaiswal 1 Score: 10/0
+2.4 Anrich Nortje to Rahul Tripathi 0 Score: 10/0
+2.5 Anrich Nortje to Rahul Tripathi 1 Score: 11/0
+2.6 Anrich Nortje to Yashasvi Jaiswal 0 Score: 11/0
+3.1 Sam Curran to Rahul Tripathi 0 Score: 11/0
+3.2 Sam Curran to Rahul Tripathi 1 Score: 12/0
+3.3 Sam Curran to Yashasvi Jaiswal W Score: 12/1 Caught
+3.4 Sam Curran to Sunil Narine 1 LB! Score: 13/1
+3.5 Sam Curran to Rahul Tripathi 0 Score: 13/1
+3.6 Sam Curran to Rahul Tripathi 0 Score: 13/1
+4.1 Mohammed Shami to Sunil Narine 0 Score: 13/1
+4.2 Mohammed Shami to Sunil Narine 4 Score: 17/1
+4.3 Mohammed Shami to Sunil Narine 0 Score: 17/1
+4.4 Mohammed Shami to Sunil Narine 1 Score: 18/1
+4.5 Mohammed Shami to Rahul Tripathi 0 Score: 18/1
+4.6 Mohammed Shami to Rahul Tripathi 0 Score: 18/1
+5.1 Bhuvneshwar Kumar to Sunil Narine 1 Score: 19/1
+5.2 Bhuvneshwar Kumar to Rahul Tripathi 4 Score: 23/1
+5.3 Bhuvneshwar Kumar to Rahul Tripathi 1 Score: 24/1
+5.4 Bhuvneshwar Kumar to Sunil Narine 2 Score: 26/1
+5.5 Bhuvneshwar Kumar to Sunil Narine 1 Score: 27/1
+5.6 Bhuvneshwar Kumar to Rahul Tripathi 1 Score: 28/1
+6.1 Sandeep Sharma to Rahul Tripathi 0 Score: 28/1
+6.2 Sandeep Sharma to Rahul Tripathi 1 Score: 29/1
+6.3 Sandeep Sharma to Sunil Narine 0 Score: 29/1
+6.4 Sandeep Sharma to Sunil Narine W Score: 29/2 Caught
+6.5 Sandeep Sharma to Eoin Morgan 0 Score: 29/2
+6.6 Sandeep Sharma to Eoin Morgan 4 Score: 33/2
+7.1 Deepak Chahar to Rahul Tripathi 1 Score: 34/2
+7.2 Deepak Chahar to Eoin Morgan 1 Score: 35/2
+7.3 Deepak Chahar to Rahul Tripathi 1 Score: 36/2
+7.4 Deepak Chahar to Eoin Morgan 0 Score: 36/2
+7.5 Deepak Chahar to Eoin Morgan 1 Score: 37/2
+7.6 Deepak Chahar to Rahul Tripathi 4 Score: 41/2
+8.1 Anrich Nortje to Eoin Morgan 4 Score: 45/2
+8.2 Anrich Nortje to Eoin Morgan 0 Score: 45/2
+8.3 Anrich Nortje to Eoin Morgan 0 Score: 45/2
+8.4 Anrich Nortje to Eoin Morgan 0 Score: 45/2
+8.5 Anrich Nortje to Eoin Morgan 1 Score: 46/2
+8.6 Anrich Nortje to Rahul Tripathi 4 Score: 50/2
+9.1 Sam Curran to Eoin Morgan 0 Score: 50/2
+9.2 Sam Curran to Eoin Morgan 0 Score: 50/2
+9.3 Sam Curran to Eoin Morgan 0 Score: 50/2
+9.4 Sam Curran to Eoin Morgan 0 Score: 50/2
+9.5 Sam Curran to Eoin Morgan 0 Score: 50/2
+9.6 Sam Curran to Eoin Morgan W Score: 50/3 Bowled
+10.1 Mohammed Shami to Rahul Tripathi 0 Score: 50/3
+10.2 Mohammed Shami to Rahul Tripathi 1 Score: 51/3
+10.3 Mohammed Shami to Abdul Samad 0 Score: 51/3
+10.4 Mohammed Shami to Abdul Samad 0 Score: 51/3
+10.5 Mohammed Shami to Abdul Samad 1 Score: 52/3
+10.6 Mohammed Shami to Rahul Tripathi 1 Score: 53/3
+11.1 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 53/3
+11.2 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 53/3
+11.3 Bhuvneshwar Kumar to Rahul Tripathi 4 Score: 57/3
+11.4 Bhuvneshwar Kumar to Rahul Tripathi 1 B! Score: 58/3
+11.5 Bhuvneshwar Kumar to Abdul Samad 0 Score: 58/3
+11.6 Bhuvneshwar Kumar to Abdul Samad 1 B! Score: 59/3
+12.1 Sandeep Sharma to Abdul Samad 1 Score: 60/3
+12.2 Sandeep Sharma to Rahul Tripathi 0 Score: 60/3
+12.3 Sandeep Sharma to Rahul Tripathi 0 Score: 60/3
+12.4 Sandeep Sharma to Rahul Tripathi 4 Score: 64/3
+12.5 Sandeep Sharma to Rahul Tripathi 0 Score: 64/3
+12.6 Sandeep Sharma to Rahul Tripathi 0 Score: 64/3
+13.1 Deepak Chahar to Abdul Samad 0 Score: 64/3
+13.2 Deepak Chahar to Abdul Samad 0 Score: 64/3
+13.3 Deepak Chahar to Abdul Samad 0 Score: 64/3
+13.4 Deepak Chahar to Abdul Samad 4 Score: 68/3
+13.5 Deepak Chahar to Abdul Samad 2 Score: 70/3
+13.6 Deepak Chahar to Abdul Samad W Score: 70/4 Caught
+14.1 Anrich Nortje to Rahul Tripathi 0 Score: 70/4
+14.2 Anrich Nortje to Rahul Tripathi 1 Score: 71/4
+14.3 Anrich Nortje to Krunal Pandya 1 Score: 72/4
+14.4 Anrich Nortje to Rahul Tripathi 0 Score: 72/4
+14.5 Anrich Nortje to Rahul Tripathi 0 Score: 72/4
+14.6 Anrich Nortje to Rahul Tripathi 0 Score: 72/4
+15.1 Sam Curran to Krunal Pandya 0 Score: 72/4
+15.2 Sam Curran to Krunal Pandya 2 Score: 74/4
+15.3 Sam Curran to Krunal Pandya 0 Score: 74/4
+15.4 Sam Curran to Krunal Pandya 2 Score: 76/4
+15.5 Sam Curran to Krunal Pandya 1 Score: 77/4
+15.6 Sam Curran to Rahul Tripathi 0 Score: 77/4
+16.1 Mohammed Shami to Krunal Pandya 0 Score: 77/4
+16.2 Mohammed Shami to Krunal Pandya 4 Score: 81/4
+16.3 Mohammed Shami to Krunal Pandya 1 Score: 82/4
+16.4 Mohammed Shami to Rahul Tripathi 2 Score: 84/4
+16.5 Mohammed Shami to Rahul Tripathi 3 Score: 87/4
+16.6 Mohammed Shami to Krunal Pandya 4 Score: 91/4
+17.1 Bhuvneshwar Kumar to Rahul Tripathi 2 Score: 93/4
+17.2 Bhuvneshwar Kumar to Rahul Tripathi 0 Score: 93/4
+17.3 Bhuvneshwar Kumar to Rahul Tripathi 2 Score: 95/4
+17.4 Bhuvneshwar Kumar to Rahul Tripathi 6 Score: 101/4
+17.5 Bhuvneshwar Kumar to Rahul Tripathi 4 Score: 105/4
+17.6 Bhuvneshwar Kumar to Rahul Tripathi 4 Score: 109/4
+18.1 Sandeep Sharma to Krunal Pandya 6 Score: 115/4
+18.2 Sandeep Sharma to Krunal Pandya 6 Score: 121/4
+18.3 Sandeep Sharma to Krunal Pandya 0 Score: 121/4
+18.4 Sandeep Sharma to Krunal Pandya 1 B! Score: 122/4
+18.5 Sandeep Sharma to Rahul Tripathi 1 Score: 123/4
+18.6 Sandeep Sharma to Krunal Pandya 1 LB! Score: 124/4
+19.1 Deepak Chahar to Krunal Pandya 2 Score: 126/4
+19.2 Deepak Chahar to Krunal Pandya W Score: 126/5 Caught
+19.3 Deepak Chahar to Ravindra Jadeja 0 Score: 126/5
+19.4 Deepak Chahar to Ravindra Jadeja 1 Score: 127/5
+19.5 Deepak Chahar to Rahul Tripathi W Score: 127/6 Caught
+19.6 Deepak Chahar to Harshal Patel 0 Score: 127/6
++-------------+--------+---------+--------+-------------------------+
+| Player      |   Runs |   Balls | SR     | Out                     |
++=============+========+=========+========+=========================+
+| HV Patel    |      0 |       1 | 0.0    | Not out                 |
++-------------+--------+---------+--------+-------------------------+
+| KH Pandya   |     29 |      17 | 170.59 | Caught b DL Chahar      |
++-------------+--------+---------+--------+-------------------------+
+| Abdul Samad |      8 |      12 | 66.67  | Caught b DL Chahar      |
++-------------+--------+---------+--------+-------------------------+
+| YBK Jaiswal |      5 |      11 | 45.45  | Caught b SM Curran      |
++-------------+--------+---------+--------+-------------------------+
+| RA Tripathi |     58 |      51 | 113.73 | Caught b DL Chahar      |
++-------------+--------+---------+--------+-------------------------+
+| EJG Morgan  |     11 |      16 | 68.75  | Bowled b SM Curran      |
++-------------+--------+---------+--------+-------------------------+
+| RA Jadeja   |      1 |       2 | 50.0   | Not out                 |
++-------------+--------+---------+--------+-------------------------+
+| SP Narine   |      9 |      10 | 90.0   | Caught b Sandeep Sharma |
++-------------+--------+---------+--------+-------------------------+
+| Shivam Mavi |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| RP Meredith |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| R Tewatia   |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| SM Curran      |      6 |       3 |         2 | 2.0   |
++----------------+--------+---------+-----------+-------+
+| V Kohli        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| DL Chahar      |     23 |       4 |         3 | 5.75  |
++----------------+--------+---------+-----------+-------+
+| MS Dhoni       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Mohammed Shami |     22 |       3 |         0 | 7.33  |
++----------------+--------+---------+-----------+-------+
+| LH Ferguson    |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| DA Miller      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KD Karthik     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| A Nortje       |     15 |       3 |         0 | 5.0   |
++----------------+--------+---------+-----------+-------+
+| Sandeep Sharma |     23 |       3 |         1 | 7.67  |
++----------------+--------+---------+-----------+-------+
+| B Kumar        |     33 |       4 |         0 | 8.25  |
++----------------+--------+---------+-----------+-------+
+0.1 Shivam Mavi to Virat Kohli 0 Score: 0/0
+0.2 Shivam Mavi to Virat Kohli 0 Score: 0/0
+0.3 Shivam Mavi to Virat Kohli 4 Score: 4/0
+0.4 Shivam Mavi to Virat Kohli 0 Score: 4/0
+0.5 Shivam Mavi to Virat Kohli 1 Score: 5/0
+0.6 Shivam Mavi to David Miller 0 Score: 5/0
+1.1 Sunil Narine to Virat Kohli 0 Score: 5/0
+1.2 Sunil Narine to Virat Kohli 0 Score: 5/0
+1.3 Sunil Narine to Virat Kohli 1 Score: 6/0
+1.4 Sunil Narine to David Miller 1 Score: 7/0
+1.5 Sunil Narine to Virat Kohli 1 Score: 8/0
+1.6 Sunil Narine to David Miller 0 Score: 8/0
+2.1 Harshal Patel to Virat Kohli 0 Score: 8/0
+2.2 Harshal Patel to Virat Kohli 1 LB! Score: 9/0
+2.3 Harshal Patel to David Miller Wide Score: 10/0
+2.3 Harshal Patel to David Miller 4 Score: 14/0
+2.4 Harshal Patel to David Miller 0 Score: 14/0
+2.5 Harshal Patel to David Miller 0 Score: 14/0
+2.6 Harshal Patel to David Miller 0 Score: 14/0
+3.1 Shivam Mavi to Virat Kohli 1 Score: 15/0
+3.2 Shivam Mavi to David Miller 0 Score: 15/0
+3.3 Shivam Mavi to David Miller 0 Score: 15/0
+3.4 Shivam Mavi to David Miller 2 Score: 17/0
+3.5 Shivam Mavi to David Miller 1 Score: 18/0
+3.6 Shivam Mavi to Virat Kohli 4 Score: 22/0
+4.1 Rahul Tewatia to David Miller 1 Score: 23/0
+4.2 Rahul Tewatia to Virat Kohli 2 Score: 25/0
+4.3 Rahul Tewatia to Virat Kohli 0 Score: 25/0
+4.4 Rahul Tewatia to Virat Kohli 2 Score: 27/0
+4.5 Rahul Tewatia to Virat Kohli 1 B! Score: 28/0
+4.6 Rahul Tewatia to David Miller 6 Score: 34/0
+5.1 Ravindra Jadeja to Virat Kohli 0 Score: 34/0
+5.2 Ravindra Jadeja to Virat Kohli 0 Score: 34/0
+5.3 Ravindra Jadeja to Virat Kohli 1 Score: 35/0
+5.4 Ravindra Jadeja to David Miller 0 Score: 35/0
+5.5 Ravindra Jadeja to David Miller 0 Score: 35/0
+5.6 Ravindra Jadeja to David Miller 1 Score: 36/0
+6.1 Sunil Narine to David Miller 1 Score: 37/0
+6.2 Sunil Narine to Virat Kohli 2 Score: 39/0
+6.3 Sunil Narine to Virat Kohli 1 LB! Score: 40/0
+6.4 Sunil Narine to David Miller W Score: 41/1 Run Out (1r)
+6.5 Sunil Narine to Sam Curran 2 Score: 43/1
+6.6 Sunil Narine to Sam Curran 6 Score: 49/1
+7.1 Krunal Pandya to Virat Kohli 0 Score: 49/1
+7.2 Krunal Pandya to Virat Kohli 1 Score: 50/1
+7.3 Krunal Pandya to Sam Curran 1 Score: 51/1
+7.4 Krunal Pandya to Virat Kohli 1 Score: 52/1
+7.5 Krunal Pandya to Sam Curran 1 Score: 53/1
+7.6 Krunal Pandya to Virat Kohli 1 Score: 54/1
+8.1 Harshal Patel to Virat Kohli 0 Score: 54/1
+8.2 Harshal Patel to Virat Kohli W Score: 54/2 Caught
+8.3 Harshal Patel to MS Dhoni 0 Score: 54/2
+8.4 Harshal Patel to MS Dhoni 1 Score: 55/2
+8.5 Harshal Patel to Sam Curran 1 B! Score: 56/2
+8.6 Harshal Patel to MS Dhoni 1 Score: 57/2
+9.1 Shivam Mavi to MS Dhoni 0 Score: 57/2
+9.2 Shivam Mavi to MS Dhoni 1 Score: 58/2
+9.3 Shivam Mavi to Sam Curran 0 Score: 58/2
+9.4 Shivam Mavi to Sam Curran 0 Score: 58/2
+9.5 Shivam Mavi to Sam Curran 1 Score: 59/2
+9.6 Shivam Mavi to MS Dhoni Wide Score: 60/2
+9.6 Shivam Mavi to MS Dhoni W Score: 60/3 Caught
+10.1 Rahul Tewatia to Sam Curran 6 Score: 66/3
+10.2 Rahul Tewatia to Sam Curran 0 Score: 66/3
+10.3 Rahul Tewatia to Sam Curran 0 Score: 66/3
+10.4 Rahul Tewatia to Sam Curran 4 Score: 70/3
+10.5 Rahul Tewatia to Sam Curran 0 Score: 70/3
+10.6 Rahul Tewatia to Sam Curran 1 Score: 71/3
+11.1 Ravindra Jadeja to Sam Curran 0 Score: 71/3
+11.2 Ravindra Jadeja to Sam Curran 0 Score: 71/3
+11.3 Ravindra Jadeja to Sam Curran 2 B! Score: 73/3
+11.4 Ravindra Jadeja to Sam Curran Wide Score: 74/3
+11.4 Ravindra Jadeja to Sam Curran 1 Score: 75/3
+11.5 Ravindra Jadeja to Dinesh Karthik 1 Score: 76/3
+11.6 Ravindra Jadeja to Sam Curran 0 Score: 76/3
+12.1 Sunil Narine to Dinesh Karthik 0 Score: 76/3
+12.2 Sunil Narine to Dinesh Karthik 1 Score: 77/3
+12.3 Sunil Narine to Sam Curran 1 Score: 78/3
+12.4 Sunil Narine to Dinesh Karthik 1 Score: 79/3
+12.5 Sunil Narine to Sam Curran 4 Score: 83/3
+12.6 Sunil Narine to Sam Curran 1 Score: 84/3
+13.1 Krunal Pandya to Sam Curran 1 Score: 85/3
+13.2 Krunal Pandya to Dinesh Karthik 4 Score: 89/3
+13.3 Krunal Pandya to Dinesh Karthik 0 Score: 89/3
+13.4 Krunal Pandya to Dinesh Karthik 2 Score: 91/3
+13.5 Krunal Pandya to Dinesh Karthik 1 Score: 92/3
+13.6 Krunal Pandya to Sam Curran 1 Score: 93/3
+14.1 Harshal Patel to Sam Curran 1 Score: 94/3
+14.2 Harshal Patel to Dinesh Karthik 1 Score: 95/3
+14.3 Harshal Patel to Sam Curran 4 Score: 99/3
+14.4 Harshal Patel to Sam Curran Wide Score: 100/3
+14.4 Harshal Patel to Sam Curran 0 Score: 100/3
+14.5 Harshal Patel to Sam Curran 4 Score: 104/3
+14.6 Harshal Patel to Sam Curran 1 Score: 105/3
+15.1 Shivam Mavi to Sam Curran 2 Score: 107/3
+15.2 Shivam Mavi to Sam Curran 0 Score: 107/3
+15.3 Shivam Mavi to Sam Curran 6 Score: 113/3
+15.4 Shivam Mavi to Sam Curran 4 Score: 117/3
+15.5 Shivam Mavi to Sam Curran 4 Score: 121/3
+15.6 Shivam Mavi to Sam Curran 1 Score: 122/3
+16.1 Rahul Tewatia to Sam Curran 1 Score: 123/3
+16.2 Rahul Tewatia to Dinesh Karthik 1 Score: 124/3
+16.3 Rahul Tewatia to Sam Curran 0 Score: 124/3
+16.4 Rahul Tewatia to Sam Curran 1 Score: 125/3
+16.5 Rahul Tewatia to Dinesh Karthik 1 Score: 126/3
+16.6 Rahul Tewatia to Sam Curran 1 Score: 127/3
+17.1 Ravindra Jadeja to Sam Curran 0 Score: 127/3
+17.2 Ravindra Jadeja to Sam Curran 0 Score: 127/3
+17.3 Ravindra Jadeja to Sam Curran 0 Score: 127/3
+17.4 Ravindra Jadeja to Sam Curran 0 Score: 127/3
+17.5 Ravindra Jadeja to Sam Curran 0 Score: 127/3
+17.6 Ravindra Jadeja to Sam Curran 1 Score: 128/3
+rcb won by 7 wickets
++----------------+--------+---------+--------+--------------------------+
+| Player         |   Runs |   Balls | SR     | Out                      |
++================+========+=========+========+==========================+
+| SM Curran      |     62 |      45 | 137.78 | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| V Kohli        |     22 |      28 | 78.57  | Caught b HV Patel        |
++----------------+--------+---------+--------+--------------------------+
+| DL Chahar      |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| MS Dhoni       |      3 |       6 | 50.0   | Caught b Shivam Mavi     |
++----------------+--------+---------+--------+--------------------------+
+| Mohammed Shami |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| LH Ferguson    |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| DA Miller      |     18 |      18 | 100.0  | Run Out (1r) b SP Narine |
++----------------+--------+---------+--------+--------------------------+
+| KD Karthik     |     13 |      11 | 118.18 | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| A Nortje       |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| Sandeep Sharma |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| B Kumar        |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
++-------------+--------+---------+-----------+-------+
+| Player      |   Runs |   Overs |   Wickets | Eco   |
++=============+========+=========+===========+=======+
+| HV Patel    |     19 |       3 |         1 | 6.33  |
++-------------+--------+---------+-----------+-------+
+| KH Pandya   |     14 |       2 |         0 | 7.0   |
++-------------+--------+---------+-----------+-------+
+| Abdul Samad |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| YBK Jaiswal |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Tripathi |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| EJG Morgan  |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Jadeja   |      6 |       3 |         0 | 2.0   |
++-------------+--------+---------+-----------+-------+
+| SP Narine   |     23 |       3 |         0 | 7.67  |
++-------------+--------+---------+-----------+-------+
+| Shivam Mavi |     33 |       4 |         1 | 8.25  |
++-------------+--------+---------+-----------+-------+
+| RP Meredith |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| R Tewatia   |     27 |       3 |         0 | 9.0   |
++-------------+--------+---------+-----------+-------+

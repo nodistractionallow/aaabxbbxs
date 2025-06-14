@@ -1,0 +1,328 @@
+['Rahul Chahar', 'Shardul Thakur', 'David Warner', 'Ishan Kishan', 'Ravichandran Ashwin', 'Avesh Khan', 'Rohit Sharma', 'Faf du Plessis', 'Washington Sundar', 'Suresh Raina', 'Navdeep Saini']
+dc won the toss and chose to bat
+0.1 Chetan Sakariya to David Warner 1 Score: 1/0
+0.2 Chetan Sakariya to Faf du Plessis 0 Score: 1/0
+0.3 Chetan Sakariya to Faf du Plessis Wide Score: 2/0
+0.3 Chetan Sakariya to Faf du Plessis 1 Score: 3/0
+0.4 Chetan Sakariya to David Warner 1 Score: 4/0
+0.5 Chetan Sakariya to Faf du Plessis 1 Score: 5/0
+0.6 Chetan Sakariya to David Warner 4 Score: 9/0
+1.1 Moeen Ali to Faf du Plessis 2 B! Score: 11/0
+1.2 Moeen Ali to Faf du Plessis 1 Score: 12/0
+1.3 Moeen Ali to David Warner 1 Score: 13/0
+1.4 Moeen Ali to Faf du Plessis 0 Score: 13/0
+1.5 Moeen Ali to Faf du Plessis 1 Score: 14/0
+1.6 Moeen Ali to David Warner 1 Score: 15/0
+2.1 Shahbaz Ahmed to David Warner 1 Score: 16/0
+2.2 Shahbaz Ahmed to Faf du Plessis 1 Score: 17/0
+2.3 Shahbaz Ahmed to David Warner 4 Score: 21/0
+2.4 Shahbaz Ahmed to David Warner 0 Score: 21/0
+2.5 Shahbaz Ahmed to David Warner 0 Score: 21/0
+2.6 Shahbaz Ahmed to David Warner 3 Score: 24/0
+3.1 Moeen Ali to David Warner 2 Score: 26/0
+3.2 Moeen Ali to David Warner 2 Score: 28/0
+3.3 Moeen Ali to David Warner 1 Score: 29/0
+3.4 Moeen Ali to Faf du Plessis 1 Score: 30/0
+3.5 Moeen Ali to David Warner 0 Score: 30/0
+3.6 Moeen Ali to David Warner 1 Score: 31/0
+4.1 Ravi Bishnoi to David Warner 1 Score: 32/0
+4.2 Ravi Bishnoi to Faf du Plessis 1 Score: 33/0
+4.3 Ravi Bishnoi to David Warner 1 Score: 34/0
+4.4 Ravi Bishnoi to Faf du Plessis Wide Score: 35/0
+4.4 Ravi Bishnoi to Faf du Plessis 1 Score: 36/0
+4.5 Ravi Bishnoi to David Warner 4 Score: 40/0
+4.6 Ravi Bishnoi to David Warner 1 Score: 41/0
+5.1 Chetan Sakariya to David Warner 1 Score: 42/0
+5.2 Chetan Sakariya to Faf du Plessis 1 Score: 43/0
+5.3 Chetan Sakariya to David Warner 4 Score: 47/0
+5.4 Chetan Sakariya to David Warner 1 Score: 48/0
+5.5 Chetan Sakariya to Faf du Plessis 1 Score: 49/0
+5.6 Chetan Sakariya to David Warner Wide Score: 50/0
+5.6 Chetan Sakariya to David Warner 0 Score: 50/0
+6.1 Deepak Hooda to Faf du Plessis 1 Score: 51/0
+6.2 Deepak Hooda to David Warner 4 Score: 55/0
+6.3 Deepak Hooda to David Warner Wide Score: 56/0
+6.3 Deepak Hooda to David Warner 0 Score: 56/0
+6.4 Deepak Hooda to David Warner 1 Score: 57/0
+6.5 Deepak Hooda to Faf du Plessis 1 Score: 58/0
+6.6 Deepak Hooda to David Warner 1 Score: 59/0
+7.1 RINKU SINGH to David Warner 1 Score: 60/0
+7.2 RINKU SINGH to Faf du Plessis 0 Score: 60/0
+7.3 RINKU SINGH to Faf du Plessis 0 Score: 60/0
+7.4 RINKU SINGH to Faf du Plessis 1 Score: 61/0
+7.5 RINKU SINGH to David Warner W Score: 61/1 Bowled
+7.6 RINKU SINGH to Rohit Sharma 1 LB! Score: 62/1
+8.1 Shahbaz Ahmed to Rohit Sharma 0 Score: 62/1
+8.2 Shahbaz Ahmed to Rohit Sharma 1 Score: 63/1
+8.3 Shahbaz Ahmed to Faf du Plessis 1 Score: 64/1
+8.4 Shahbaz Ahmed to Rohit Sharma 0 Score: 64/1
+8.5 Shahbaz Ahmed to Rohit Sharma 1 Score: 65/1
+8.6 Shahbaz Ahmed to Faf du Plessis 4 Score: 69/1
+9.1 Moeen Ali to Rohit Sharma 0 Score: 69/1
+9.2 Moeen Ali to Rohit Sharma 2 Score: 71/1
+9.3 Moeen Ali to Rohit Sharma 4 Score: 75/1
+9.4 Moeen Ali to Rohit Sharma 1 Score: 76/1
+9.5 Moeen Ali to Faf du Plessis 2 Score: 78/1
+9.6 Moeen Ali to Faf du Plessis 0 Score: 78/1
+10.1 Ravi Bishnoi to Rohit Sharma 4 Score: 82/1
+10.2 Ravi Bishnoi to Rohit Sharma 1 Score: 83/1
+10.3 Ravi Bishnoi to Faf du Plessis 1 LB! Score: 84/1
+10.4 Ravi Bishnoi to Rohit Sharma 4 Score: 88/1
+10.5 Ravi Bishnoi to Rohit Sharma 0 Score: 88/1
+10.6 Ravi Bishnoi to Rohit Sharma 0 Score: 88/1
+11.1 Chetan Sakariya to Faf du Plessis 4 Score: 92/1
+11.2 Chetan Sakariya to Faf du Plessis 1 Score: 93/1
+11.3 Chetan Sakariya to Rohit Sharma 0 Score: 93/1
+11.4 Chetan Sakariya to Rohit Sharma 0 Score: 93/1
+11.5 Chetan Sakariya to Rohit Sharma 1 Score: 94/1
+11.6 Chetan Sakariya to Faf du Plessis 1 Score: 95/1
+12.1 Deepak Hooda to Faf du Plessis 0 Score: 95/1
+12.2 Deepak Hooda to Faf du Plessis 0 Score: 95/1
+12.3 Deepak Hooda to Faf du Plessis 1 Score: 96/1
+12.4 Deepak Hooda to Rohit Sharma 0 Score: 96/1
+12.5 Deepak Hooda to Rohit Sharma 1 Score: 97/1
+12.6 Deepak Hooda to Faf du Plessis 2 Score: 99/1
+13.1 RINKU SINGH to Rohit Sharma 1 Score: 100/1
+13.2 RINKU SINGH to Faf du Plessis 2 Score: 102/1
+13.3 RINKU SINGH to Faf du Plessis 1 Score: 103/1
+13.4 RINKU SINGH to Rohit Sharma 1 Score: 104/1
+13.5 RINKU SINGH to Faf du Plessis 0 Score: 104/1
+13.6 RINKU SINGH to Faf du Plessis 1 Score: 105/1
+14.1 Shahbaz Ahmed to Faf du Plessis 1 Score: 106/1
+14.2 Shahbaz Ahmed to Rohit Sharma 0 Score: 106/1
+14.3 Shahbaz Ahmed to Rohit Sharma W Score: 106/2 Caught
+14.4 Shahbaz Ahmed to Suresh Raina 1 Score: 107/2
+14.5 Shahbaz Ahmed to Faf du Plessis 1 Score: 108/2
+14.6 Shahbaz Ahmed to Suresh Raina 1 Score: 109/2
+15.1 Moeen Ali to Suresh Raina 4 Score: 113/2
+15.2 Moeen Ali to Suresh Raina 0 Score: 113/2
+15.3 Moeen Ali to Suresh Raina 1 Score: 114/2
+15.4 Moeen Ali to Faf du Plessis 4 Score: 118/2
+15.5 Moeen Ali to Faf du Plessis 0 Score: 118/2
+15.6 Moeen Ali to Faf du Plessis 0 Score: 118/2
+16.1 Ravi Bishnoi to Suresh Raina 2 LB! Score: 120/2
+16.2 Ravi Bishnoi to Suresh Raina 0 Score: 120/2
+16.3 Ravi Bishnoi to Suresh Raina 4 Score: 124/2
+16.4 Ravi Bishnoi to Suresh Raina 1 Score: 125/2
+16.5 Ravi Bishnoi to Faf du Plessis 6 Score: 131/2
+16.6 Ravi Bishnoi to Faf du Plessis 1 Score: 132/2
+17.1 Chetan Sakariya to Faf du Plessis W Score: 132/3 Caught
+17.2 Chetan Sakariya to Ishan Kishan 1 Score: 133/3
+17.3 Chetan Sakariya to Suresh Raina W Score: 133/4 Caught
+17.4 Chetan Sakariya to Washington Sundar 1 Score: 134/4
+17.5 Chetan Sakariya to Ishan Kishan 0 Score: 134/4
+17.6 Chetan Sakariya to Ishan Kishan 1 Score: 135/4
+18.1 Deepak Hooda to Ishan Kishan 1 Score: 136/4
+18.2 Deepak Hooda to Washington Sundar W Score: 136/5 Bowled
+18.3 Deepak Hooda to Ravichandran Ashwin 1 Score: 137/5
+18.4 Deepak Hooda to Ishan Kishan 4 Score: 141/5
+18.5 Deepak Hooda to Ishan Kishan 2 Score: 143/5
+18.6 Deepak Hooda to Ishan Kishan Wide Score: 144/5
+18.6 Deepak Hooda to Ishan Kishan 0 Score: 144/5
+19.1 RINKU SINGH to Ravichandran Ashwin W Score: 144/6 Caught
+19.2 RINKU SINGH to Navdeep Saini 1 Score: 145/6
+19.3 RINKU SINGH to Ishan Kishan W Score: 145/7 Bowled
+19.4 RINKU SINGH to Rahul Chahar 4 Score: 149/7
+19.5 RINKU SINGH to Rahul Chahar 0 Score: 149/7
+19.6 RINKU SINGH to Rahul Chahar 1 Score: 150/7
++-------------------+--------+---------+--------+------------------------+
+| Player            |   Runs |   Balls | SR     | Out                    |
++===================+========+=========+========+========================+
+| RD Chahar         |      5 |       3 | 166.67 | Not out                |
++-------------------+--------+---------+--------+------------------------+
+| SN Thakur         |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| DA Warner         |     42 |      29 | 144.83 | Bowled b R SINGH       |
++-------------------+--------+---------+--------+------------------------+
+| Ishan Kishan      |      9 |       8 | 112.5  | Bowled b R SINGH       |
++-------------------+--------+---------+--------+------------------------+
+| R Ashwin          |      1 |       2 | 50.0   | Caught b R SINGH       |
++-------------------+--------+---------+--------+------------------------+
+| Avesh Khan        |      0 |       0 | NA     | DNB                    |
++-------------------+--------+---------+--------+------------------------+
+| RG Sharma         |     22 |      23 | 95.65  | Caught b Shahbaz Ahmed |
++-------------------+--------+---------+--------+------------------------+
+| F du Plessis      |     46 |      42 | 109.52 | Caught b C Sakariya    |
++-------------------+--------+---------+--------+------------------------+
+| Washington Sundar |      1 |       2 | 50.0   | Bowled b DJ Hooda      |
++-------------------+--------+---------+--------+------------------------+
+| SK Raina          |     12 |      10 | 120.0  | Caught b C Sakariya    |
++-------------------+--------+---------+--------+------------------------+
+| NA Saini          |      1 |       1 | 100.0  | Not out                |
++-------------------+--------+---------+--------+------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| Shahbaz Ahmed   |     20 |       3 |         1 | 6.67  |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KL Rahul        |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Lomror       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MM Ali          |     29 |       4 |         0 | 7.25  |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     31 |       3 |         0 | 10.33 |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |     22 |       3 |         1 | 7.33  |
++-----------------+--------+---------+-----------+-------+
+| T VERMA         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| R SINGH         |     14 |       3 |         3 | 4.67  |
++-----------------+--------+---------+-----------+-------+
+| R Parag         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| C Sakariya      |     28 |       4 |         2 | 7.0   |
++-----------------+--------+---------+-----------+-------+
+0.1 Ravichandran Ashwin to TILAK VERMA 1 Score: 1/0
+0.2 Ravichandran Ashwin to KL Rahul 0 Score: 1/0
+0.3 Ravichandran Ashwin to KL Rahul 0 Score: 1/0
+0.4 Ravichandran Ashwin to KL Rahul 1 Score: 2/0
+0.5 Ravichandran Ashwin to TILAK VERMA 1 Score: 3/0
+0.6 Ravichandran Ashwin to KL Rahul 2 Score: 5/0
+1.1 Washington Sundar to TILAK VERMA 1 Score: 6/0
+1.2 Washington Sundar to KL Rahul 4 Score: 10/0
+1.3 Washington Sundar to KL Rahul 1 Score: 11/0
+1.4 Washington Sundar to TILAK VERMA 1 Score: 12/0
+1.5 Washington Sundar to KL Rahul 1 Score: 13/0
+1.6 Washington Sundar to TILAK VERMA 1 Score: 14/0
+2.1 Rahul Chahar to TILAK VERMA 2 Score: 16/0
+2.2 Rahul Chahar to TILAK VERMA Wide Score: 17/0
+2.2 Rahul Chahar to TILAK VERMA 1 Score: 18/0
+2.3 Rahul Chahar to KL Rahul 1 Score: 19/0
+2.4 Rahul Chahar to TILAK VERMA 0 Score: 19/0
+2.5 Rahul Chahar to TILAK VERMA 2 Score: 21/0
+2.6 Rahul Chahar to TILAK VERMA 4 Score: 25/0
+3.1 Shardul Thakur to KL Rahul 0 Score: 25/0
+3.2 Shardul Thakur to KL Rahul 1 Score: 26/0
+3.3 Shardul Thakur to TILAK VERMA 4 Score: 30/0
+3.4 Shardul Thakur to TILAK VERMA 1 Score: 31/0
+3.5 Shardul Thakur to KL Rahul 0 Score: 31/0
+3.6 Shardul Thakur to KL Rahul 1 Score: 32/0
+4.1 Avesh Khan to KL Rahul 2 Score: 34/0
+4.2 Avesh Khan to KL Rahul 1 Score: 35/0
+4.3 Avesh Khan to TILAK VERMA W Score: 35/1 Bowled
+4.4 Avesh Khan to Moeen Ali 0 Score: 35/1
+4.5 Avesh Khan to Moeen Ali 1 Score: 36/1
+4.6 Avesh Khan to KL Rahul 4 Score: 40/1
+5.1 Ravichandran Ashwin to Moeen Ali 0 Score: 40/1
+5.2 Ravichandran Ashwin to Moeen Ali 0 Score: 40/1
+5.3 Ravichandran Ashwin to Moeen Ali 1 Score: 41/1
+5.4 Ravichandran Ashwin to KL Rahul 1 Score: 42/1
+5.5 Ravichandran Ashwin to Moeen Ali 2 Score: 44/1
+5.6 Ravichandran Ashwin to Moeen Ali 0 Score: 44/1
+6.1 Washington Sundar to KL Rahul 1 Score: 45/1
+6.2 Washington Sundar to Moeen Ali 0 Score: 45/1
+6.3 Washington Sundar to Moeen Ali 1 Score: 46/1
+6.4 Washington Sundar to KL Rahul 1 Score: 47/1
+6.5 Washington Sundar to Moeen Ali 2 B! Score: 49/1
+6.6 Washington Sundar to Moeen Ali 0 Score: 49/1
+7.1 Navdeep Saini to KL Rahul 0 Score: 49/1
+7.2 Navdeep Saini to KL Rahul 1 Score: 50/1
+7.3 Navdeep Saini to Moeen Ali 1 Score: 51/1
+7.4 Navdeep Saini to KL Rahul NO BALL! Score: 52/1
+7.4 Navdeep Saini to KL Rahul 0 Score: 52/1 (Free Hit) (Off No-Ball)
+7.4 Navdeep Saini to KL Rahul 6 Score: 58/1 (Free Hit)
+7.5 Navdeep Saini to KL Rahul Wide Score: 59/1
+7.5 Navdeep Saini to KL Rahul 1 Score: 60/1
+7.6 Navdeep Saini to Moeen Ali W Score: 60/2 Caught
+8.1 Rahul Chahar to KL Rahul 1 Score: 61/2
+8.2 Rahul Chahar to Deepak Hooda 0 Score: 61/2
+8.3 Rahul Chahar to Deepak Hooda 4 Score: 65/2
+8.4 Rahul Chahar to Deepak Hooda 6 Score: 71/2
+8.5 Rahul Chahar to Deepak Hooda 1 Score: 72/2
+8.6 Rahul Chahar to KL Rahul 1 Score: 73/2
+9.1 Shardul Thakur to KL Rahul 4 LB! Score: 77/2
+9.2 Shardul Thakur to KL Rahul 1 Score: 78/2
+9.3 Shardul Thakur to Deepak Hooda 0 Score: 78/2
+9.4 Shardul Thakur to Deepak Hooda 1 Score: 79/2
+9.5 Shardul Thakur to KL Rahul 0 Score: 79/2
+9.6 Shardul Thakur to KL Rahul 4 Score: 83/2
+10.1 Avesh Khan to Deepak Hooda 0 Score: 83/2
+10.2 Avesh Khan to Deepak Hooda 1 Score: 84/2
+10.3 Avesh Khan to KL Rahul 1 Score: 85/2
+10.4 Avesh Khan to Deepak Hooda 1 LB! Score: 86/2
+10.5 Avesh Khan to KL Rahul 0 Score: 86/2
+10.6 Avesh Khan to KL Rahul W Score: 86/3 Caught
+11.1 Ravichandran Ashwin to Deepak Hooda 0 Score: 86/3
+11.2 Ravichandran Ashwin to Deepak Hooda 1 Score: 87/3
+11.3 Ravichandran Ashwin to Mahipal Lomror 1 Score: 88/3
+11.4 Ravichandran Ashwin to Deepak Hooda W Score: 89/4 Run Out (1r)
+11.5 Ravichandran Ashwin to Shahbaz Ahmed 1 Score: 90/4
+11.6 Ravichandran Ashwin to Mahipal Lomror 1 Score: 91/4
+12.1 Washington Sundar to Mahipal Lomror 4 Score: 95/4
+12.2 Washington Sundar to Mahipal Lomror 0 Score: 95/4
+12.3 Washington Sundar to Mahipal Lomror 4 B! Score: 99/4
+12.4 Washington Sundar to Mahipal Lomror 2 Score: 101/4
+12.5 Washington Sundar to Mahipal Lomror 1 Score: 102/4
+12.6 Washington Sundar to Shahbaz Ahmed 1 Score: 103/4
+13.1 Navdeep Saini to Shahbaz Ahmed 0 Score: 103/4
+13.2 Navdeep Saini to Shahbaz Ahmed 0 Score: 103/4
+13.3 Navdeep Saini to Shahbaz Ahmed W Score: 103/5 Bowled
+13.4 Navdeep Saini to Riyan Parag 0 Score: 103/5
+13.5 Navdeep Saini to Riyan Parag 4 Score: 107/5
+13.6 Navdeep Saini to Riyan Parag 0 Score: 107/5
+14.1 Rahul Chahar to Mahipal Lomror 1 Score: 108/5
+14.2 Rahul Chahar to Riyan Parag 1 Score: 109/5
+14.3 Rahul Chahar to Mahipal Lomror 1 Score: 110/5
+14.4 Rahul Chahar to Riyan Parag W Score: 110/6 Bowled
+14.5 Rahul Chahar to Shahrukh Khan 1 Score: 111/6
+14.6 Rahul Chahar to Mahipal Lomror W Score: 111/7 Caught
+15.1 Shardul Thakur to Shahrukh Khan 1 LB! Score: 112/7
+15.2 Shardul Thakur to Ravi Bishnoi 0 Score: 112/7
+15.3 Shardul Thakur to Ravi Bishnoi 1 Score: 113/7
+15.4 Shardul Thakur to Shahrukh Khan W Score: 113/8 Caught
+15.5 Shardul Thakur to Chetan Sakariya W Score: 113/9 Caught
+15.6 Shardul Thakur to RINKU SINGH W Score: 113/10 Caught
+dc won by 37 runs
++-----------------+--------+---------+--------+-------------------------+
+| Player          |   Runs |   Balls |     SR | Out                     |
++=================+========+=========+========+=========================+
+| Shahbaz Ahmed   |      2 |       5 |  40    | Bowled b NA Saini       |
++-----------------+--------+---------+--------+-------------------------+
+| M Shahrukh Khan |      1 |       3 |  33.33 | Caught b SN Thakur      |
++-----------------+--------+---------+--------+-------------------------+
+| KL Rahul        |     38 |      32 | 118.75 | Caught b Avesh Khan     |
++-----------------+--------+---------+--------+-------------------------+
+| MK Lomror       |     11 |      10 | 110    | Caught b RD Chahar      |
++-----------------+--------+---------+--------+-------------------------+
+| MM Ali          |      6 |      13 |  46.15 | Caught b NA Saini       |
++-----------------+--------+---------+--------+-------------------------+
+| Ravi Bishnoi    |      1 |       2 |  50    | Not out                 |
++-----------------+--------+---------+--------+-------------------------+
+| DJ Hooda        |     15 |      12 | 125    | Run Out (1r) b R Ashwin |
++-----------------+--------+---------+--------+-------------------------+
+| T VERMA         |     19 |      13 | 146.15 | Bowled b Avesh Khan     |
++-----------------+--------+---------+--------+-------------------------+
+| R SINGH         |      0 |       1 |   0    | Caught b SN Thakur      |
++-----------------+--------+---------+--------+-------------------------+
+| R Parag         |      5 |       5 | 100    | Bowled b RD Chahar      |
++-----------------+--------+---------+--------+-------------------------+
+| C Sakariya      |      0 |       1 |   0    | Caught b SN Thakur      |
++-----------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| RD Chahar         |     28 |       3 |         2 | 9.33  |
++-------------------+--------+---------+-----------+-------+
+| SN Thakur         |     14 |       3 |         3 | 4.67  |
++-------------------+--------+---------+-----------+-------+
+| DA Warner         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Ishan Kishan      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Ashwin          |     14 |       3 |         0 | 4.67  |
++-------------------+--------+---------+-----------+-------+
+| Avesh Khan        |     10 |       2 |         2 | 5.0   |
++-------------------+--------+---------+-----------+-------+
+| RG Sharma         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| F du Plessis      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     20 |       3 |         0 | 6.67  |
++-------------------+--------+---------+-----------+-------+
+| SK Raina          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     15 |       2 |         2 | 7.5   |
++-------------------+--------+---------+-----------+-------+

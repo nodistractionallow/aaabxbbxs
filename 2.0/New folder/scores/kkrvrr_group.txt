@@ -1,0 +1,363 @@
+['Hardik Pandya', 'Chris Gayle', 'Trent Boult', 'Shreyas Iyer', 'Liam Livingstone', 'Ambati Rayudu', 'Kedar Jadhav', 'Jasprit Bumrah', 'Dan Christian', 'Manish Pandey', 'Prasidh Krishna']
+kkr won the toss and chose to bat
+0.1 Kagiso Rabada to Liam Livingstone 6 Score: 6/0
+0.2 Kagiso Rabada to Liam Livingstone Wide Score: 7/0
+0.2 Kagiso Rabada to Liam Livingstone 4 Score: 11/0
+0.3 Kagiso Rabada to Liam Livingstone 1 Score: 12/0
+0.4 Kagiso Rabada to Chris Gayle 0 Score: 12/0
+0.5 Kagiso Rabada to Chris Gayle 1 Score: 13/0
+0.6 Kagiso Rabada to Liam Livingstone 1 Score: 14/0
+1.1 Andre Russell to Liam Livingstone 4 Score: 18/0
+1.2 Andre Russell to Liam Livingstone 1 Score: 19/0
+1.3 Andre Russell to Chris Gayle 4 Score: 23/0
+1.4 Andre Russell to Chris Gayle 1 Score: 24/0
+1.5 Andre Russell to Liam Livingstone 1 Score: 25/0
+1.6 Andre Russell to Chris Gayle 1 Score: 26/0
+2.1 Kagiso Rabada to Chris Gayle 0 Score: 26/0
+2.2 Kagiso Rabada to Chris Gayle 4 Score: 30/0
+2.3 Kagiso Rabada to Chris Gayle 0 Score: 30/0
+2.4 Kagiso Rabada to Chris Gayle 4 Score: 34/0
+2.5 Kagiso Rabada to Chris Gayle Wide Score: 35/0
+2.5 Kagiso Rabada to Chris Gayle 0 Score: 35/0
+2.6 Kagiso Rabada to Chris Gayle 0 Score: 35/0
+3.1 Andre Russell to Liam Livingstone Wide Score: 36/0
+3.1 Andre Russell to Liam Livingstone 0 Score: 36/0
+3.2 Andre Russell to Liam Livingstone 1 Score: 37/0
+3.3 Andre Russell to Chris Gayle 0 Score: 37/0
+3.4 Andre Russell to Chris Gayle 4 Score: 41/0
+3.5 Andre Russell to Chris Gayle 0 Score: 41/0
+3.6 Andre Russell to Chris Gayle 0 Score: 41/0
+4.1 Yuzvendra Chahal to Liam Livingstone 1 Score: 42/0
+4.2 Yuzvendra Chahal to Chris Gayle 1 Score: 43/0
+4.3 Yuzvendra Chahal to Liam Livingstone 2 Score: 45/0
+4.4 Yuzvendra Chahal to Liam Livingstone 0 Score: 45/0
+4.5 Yuzvendra Chahal to Liam Livingstone 1 Score: 46/0
+4.6 Yuzvendra Chahal to Chris Gayle 0 Score: 46/0
+5.1 Mohammed Siraj to Liam Livingstone 0 Score: 46/0
+5.2 Mohammed Siraj to Liam Livingstone 0 Score: 46/0
+5.3 Mohammed Siraj to Liam Livingstone 1 Score: 47/0
+5.4 Mohammed Siraj to Chris Gayle 0 Score: 47/0
+5.5 Mohammed Siraj to Chris Gayle 2 Score: 49/0
+5.6 Mohammed Siraj to Chris Gayle 6 Score: 55/0
+6.1 Lalit Yadav to Liam Livingstone 1 Score: 56/0
+6.2 Lalit Yadav to Chris Gayle 2 B! Score: 58/0
+6.3 Lalit Yadav to Chris Gayle 1 Score: 59/0
+6.4 Lalit Yadav to Liam Livingstone 2 Score: 61/0
+6.5 Lalit Yadav to Liam Livingstone 0 Score: 61/0
+6.6 Lalit Yadav to Liam Livingstone 6 Score: 67/0
+7.1 Kartik Tyagi to Chris Gayle 4 Score: 71/0
+7.2 Kartik Tyagi to Chris Gayle 0 Score: 71/0
+7.3 Kartik Tyagi to Chris Gayle 4 Score: 75/0
+7.4 Kartik Tyagi to Chris Gayle 0 Score: 75/0
+7.5 Kartik Tyagi to Chris Gayle 2 Score: 77/0
+7.6 Kartik Tyagi to Chris Gayle 4 Score: 81/0
+8.1 Kagiso Rabada to Liam Livingstone 1 Score: 82/0
+8.2 Kagiso Rabada to Chris Gayle 1 Score: 83/0
+8.3 Kagiso Rabada to Liam Livingstone 0 Score: 83/0
+8.4 Kagiso Rabada to Liam Livingstone Wide Score: 84/0
+8.4 Kagiso Rabada to Liam Livingstone 0 Score: 84/0
+8.5 Kagiso Rabada to Liam Livingstone 4 Score: 88/0
+8.6 Kagiso Rabada to Liam Livingstone 1 Score: 89/0
+9.1 Andre Russell to Liam Livingstone 0 Score: 89/0
+9.2 Andre Russell to Liam Livingstone 1 Score: 90/0
+9.3 Andre Russell to Chris Gayle 0 Score: 90/0
+9.4 Andre Russell to Chris Gayle 0 Score: 90/0
+9.5 Andre Russell to Chris Gayle 1 Score: 91/0
+9.6 Andre Russell to Liam Livingstone 1 Score: 92/0
+10.1 Yuzvendra Chahal to Liam Livingstone 4 Score: 96/0
+10.2 Yuzvendra Chahal to Liam Livingstone 0 Score: 96/0
+10.3 Yuzvendra Chahal to Liam Livingstone 1 Score: 97/0
+10.4 Yuzvendra Chahal to Chris Gayle 1 Score: 98/0
+10.5 Yuzvendra Chahal to Liam Livingstone 1 Score: 99/0
+10.6 Yuzvendra Chahal to Chris Gayle 2 Score: 101/0
+11.1 Mohammed Siraj to Liam Livingstone 0 Score: 101/0
+11.2 Mohammed Siraj to Liam Livingstone 1 Score: 102/0
+11.3 Mohammed Siraj to Chris Gayle Wide Score: 103/0
+11.3 Mohammed Siraj to Chris Gayle 0 Score: 103/0
+11.4 Mohammed Siraj to Chris Gayle 0 Score: 103/0
+11.5 Mohammed Siraj to Chris Gayle 4 Score: 107/0
+11.6 Mohammed Siraj to Chris Gayle Wide Score: 108/0
+11.6 Mohammed Siraj to Chris Gayle 0 Score: 108/0
+12.1 Lalit Yadav to Liam Livingstone 1 Score: 109/0
+12.2 Lalit Yadav to Chris Gayle W Score: 109/1 Bowled
+12.3 Lalit Yadav to Shreyas Iyer 0 Score: 109/1
+12.4 Lalit Yadav to Shreyas Iyer 0 Score: 109/1
+12.5 Lalit Yadav to Shreyas Iyer 2 Score: 111/1
+12.6 Lalit Yadav to Shreyas Iyer 0 Score: 111/1
+13.1 Kartik Tyagi to Liam Livingstone 0 Score: 111/1
+13.2 Kartik Tyagi to Liam Livingstone 0 Score: 111/1
+13.3 Kartik Tyagi to Liam Livingstone 0 Score: 111/1
+13.4 Kartik Tyagi to Liam Livingstone 6 Score: 117/1
+13.5 Kartik Tyagi to Liam Livingstone 1 Score: 118/1
+13.6 Kartik Tyagi to Shreyas Iyer 0 Score: 118/1
+14.1 Kagiso Rabada to Liam Livingstone 3 Score: 121/1
+14.2 Kagiso Rabada to Shreyas Iyer 2 Score: 123/1
+14.3 Kagiso Rabada to Shreyas Iyer 1 Score: 124/1
+14.4 Kagiso Rabada to Liam Livingstone 1 Score: 125/1
+14.5 Kagiso Rabada to Shreyas Iyer 1 Score: 126/1
+14.6 Kagiso Rabada to Liam Livingstone 0 Score: 126/1
+15.1 Andre Russell to Shreyas Iyer 1 Score: 127/1
+15.2 Andre Russell to Liam Livingstone 6 Score: 133/1
+15.3 Andre Russell to Liam Livingstone 1 Score: 134/1
+15.4 Andre Russell to Shreyas Iyer 1 Score: 135/1
+15.5 Andre Russell to Liam Livingstone 0 Score: 135/1
+15.6 Andre Russell to Liam Livingstone 4 Score: 139/1
+16.1 Yuzvendra Chahal to Shreyas Iyer NO BALL! Score: 140/1
+16.1 Yuzvendra Chahal to Shreyas Iyer 1 Score: 141/1 (Free Hit) (Off No-Ball)
+16.1 Yuzvendra Chahal to Liam Livingstone 0 Score: 141/1 (Free Hit)
+16.2 Yuzvendra Chahal to Liam Livingstone 0 Score: 141/1
+16.3 Yuzvendra Chahal to Liam Livingstone 4 Score: 145/1
+16.4 Yuzvendra Chahal to Liam Livingstone 4 Score: 149/1
+16.5 Yuzvendra Chahal to Liam Livingstone 6 Score: 155/1
+16.6 Yuzvendra Chahal to Liam Livingstone 0 Score: 155/1
+17.1 Mohammed Siraj to Shreyas Iyer 1 Score: 156/1
+17.2 Mohammed Siraj to Liam Livingstone 1 Score: 157/1
+17.3 Mohammed Siraj to Shreyas Iyer 4 Score: 161/1
+17.4 Mohammed Siraj to Shreyas Iyer 1 Score: 162/1
+17.5 Mohammed Siraj to Liam Livingstone 1 Score: 163/1
+17.6 Mohammed Siraj to Shreyas Iyer 0 Score: 163/1
+18.1 Lalit Yadav to Liam Livingstone 1 Score: 164/1
+18.2 Lalit Yadav to Shreyas Iyer 1 Score: 165/1
+18.3 Lalit Yadav to Liam Livingstone 1 Score: 166/1
+18.4 Lalit Yadav to Shreyas Iyer 1 Score: 167/1
+18.5 Lalit Yadav to Liam Livingstone 1 Score: 168/1
+18.6 Lalit Yadav to Shreyas Iyer 1 Score: 169/1
+19.1 Kartik Tyagi to Shreyas Iyer 4 Score: 173/1
+19.2 Kartik Tyagi to Shreyas Iyer 0 Score: 173/1
+19.3 Kartik Tyagi to Shreyas Iyer 1 B! Score: 174/1
+19.4 Kartik Tyagi to Liam Livingstone 6 Score: 180/1
+19.5 Kartik Tyagi to Liam Livingstone NO BALL! Score: 181/1
+19.5 Kartik Tyagi to Liam Livingstone 1 Score: 182/1 (Free Hit) (Off No-Ball)
+19.5 Kartik Tyagi to Shreyas Iyer 1 Score: 183/1 (Free Hit)
+19.6 Kartik Tyagi to Liam Livingstone 0 Score: 183/1
++-------------------+--------+---------+--------+----------------------+
+| Player            |   Runs |   Balls | SR     | Out                  |
++===================+========+=========+========+======================+
+| HH Pandya         |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| CH Gayle          |     52 |      39 | 133.33 | Bowled b Lalit Yadav |
++-------------------+--------+---------+--------+----------------------+
+| TA Boult          |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| SS Iyer           |     23 |      22 | 104.55 | Not out              |
++-------------------+--------+---------+--------+----------------------+
+| LS Livingstone    |     97 |      61 | 159.02 | Not out              |
++-------------------+--------+---------+--------+----------------------+
+| AT Rayudu         |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| KM Jadhav         |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| JJ Bumrah         |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| DT Christian      |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| MK Pandey         |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
+| M Prasidh Krishna |      0 |       0 | NA     | DNB                  |
++-------------------+--------+---------+--------+----------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Mohammed Siraj |     24 |       3 |         0 | 8.0   |
++----------------+--------+---------+-----------+-------+
+| MA Agarwal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KA Pollard     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Kartik Tyagi   |     34 |       3 |         0 | 11.33 |
++----------------+--------+---------+-----------+-------+
+| YS Chahal      |     30 |       3 |         0 | 10.0  |
++----------------+--------+---------+-----------+-------+
+| AB de Villiers |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| K Rabada       |     39 |       4 |         0 | 9.75  |
++----------------+--------+---------+-----------+-------+
+| WP Saha        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| AD Russell     |     34 |       4 |         0 | 8.5   |
++----------------+--------+---------+-----------+-------+
+| Lalit Yadav    |     19 |       3 |         1 | 6.33  |
++----------------+--------+---------+-----------+-------+
+| Q de Kock      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Quinton de Kock 2 Score: 2/0
+0.2 Trent Boult to Quinton de Kock 1 Score: 3/0
+0.3 Trent Boult to Mayank Agarwal 0 Score: 3/0
+0.4 Trent Boult to Mayank Agarwal 1 Score: 4/0
+0.5 Trent Boult to Quinton de Kock 0 Score: 4/0
+0.6 Trent Boult to Quinton de Kock 0 Score: 4/0
+1.1 Prasidh Krishna to Mayank Agarwal 1 Score: 5/0
+1.2 Prasidh Krishna to Quinton de Kock 1 Score: 6/0
+1.3 Prasidh Krishna to Mayank Agarwal 1 Score: 7/0
+1.4 Prasidh Krishna to Quinton de Kock 4 Score: 11/0
+1.5 Prasidh Krishna to Quinton de Kock 1 Score: 12/0
+1.6 Prasidh Krishna to Mayank Agarwal 1 Score: 13/0
+2.1 Trent Boult to Mayank Agarwal 0 Score: 13/0
+2.2 Trent Boult to Mayank Agarwal 1 Score: 14/0
+2.3 Trent Boult to Quinton de Kock 4 Score: 18/0
+2.4 Trent Boult to Quinton de Kock 4 Score: 22/0
+2.5 Trent Boult to Quinton de Kock 6 Score: 28/0
+2.6 Trent Boult to Quinton de Kock 0 Score: 28/0
+3.1 Jasprit Bumrah to Mayank Agarwal 1 Score: 29/0
+3.2 Jasprit Bumrah to Quinton de Kock 0 Score: 29/0
+3.3 Jasprit Bumrah to Quinton de Kock 1 Score: 30/0
+3.4 Jasprit Bumrah to Mayank Agarwal 1 Score: 31/0
+3.5 Jasprit Bumrah to Quinton de Kock 4 Score: 35/0
+3.6 Jasprit Bumrah to Quinton de Kock 4 Score: 39/0
+4.1 Hardik Pandya to Mayank Agarwal 0 Score: 39/0
+4.2 Hardik Pandya to Mayank Agarwal 1 Score: 40/0
+4.3 Hardik Pandya to Quinton de Kock 0 Score: 40/0
+4.4 Hardik Pandya to Quinton de Kock 4 Score: 44/0
+4.5 Hardik Pandya to Quinton de Kock 1 Score: 45/0
+4.6 Hardik Pandya to Mayank Agarwal 1 Score: 46/0
+5.1 Dan Christian to Mayank Agarwal 4 Score: 50/0
+5.2 Dan Christian to Mayank Agarwal 2 Score: 52/0
+5.3 Dan Christian to Mayank Agarwal 0 Score: 52/0
+5.4 Dan Christian to Mayank Agarwal 1 Score: 53/0
+5.5 Dan Christian to Quinton de Kock 0 Score: 53/0
+5.6 Dan Christian to Quinton de Kock 4 Score: 57/0
+6.1 Prasidh Krishna to Mayank Agarwal 6 Score: 63/0
+6.2 Prasidh Krishna to Mayank Agarwal 0 Score: 63/0
+6.3 Prasidh Krishna to Mayank Agarwal 1 Score: 64/0
+6.4 Prasidh Krishna to Quinton de Kock 0 Score: 64/0
+6.5 Prasidh Krishna to Quinton de Kock NO BALL! Score: 65/0
+6.5 Prasidh Krishna to Quinton de Kock 0 Score: 65/0 (Free Hit) (Off No-Ball)
+6.5 Prasidh Krishna to Quinton de Kock Wide Score: 66/0
+6.5 Prasidh Krishna to Quinton de Kock 1 Score: 67/0 (Free Hit)
+6.6 Prasidh Krishna to Mayank Agarwal 1 Score: 68/0
+7.1 Chris Gayle to Mayank Agarwal 1 Score: 69/0
+7.2 Chris Gayle to Quinton de Kock 1 Score: 70/0
+7.3 Chris Gayle to Mayank Agarwal 1 Score: 71/0
+7.4 Chris Gayle to Quinton de Kock W Score: 71/1 Run Out (0r)
+7.5 Chris Gayle to AB de Villiers 0 Score: 71/1
+7.6 Chris Gayle to AB de Villiers 0 Score: 71/1
+8.1 Trent Boult to Mayank Agarwal 1 Score: 72/1
+8.2 Trent Boult to AB de Villiers 4 Score: 76/1
+8.3 Trent Boult to AB de Villiers 1 Score: 77/1
+8.4 Trent Boult to Mayank Agarwal 1 Score: 78/1
+8.5 Trent Boult to AB de Villiers 0 Score: 78/1
+8.6 Trent Boult to AB de Villiers 1 Score: 79/1
+9.1 Jasprit Bumrah to AB de Villiers 0 Score: 79/1
+9.2 Jasprit Bumrah to AB de Villiers 1 Score: 80/1
+9.3 Jasprit Bumrah to Mayank Agarwal 1 Score: 81/1
+9.4 Jasprit Bumrah to AB de Villiers 1 Score: 82/1
+9.5 Jasprit Bumrah to Mayank Agarwal 0 Score: 82/1
+9.6 Jasprit Bumrah to Mayank Agarwal 0 Score: 82/1
+10.1 Hardik Pandya to AB de Villiers 1 Score: 83/1
+10.2 Hardik Pandya to Mayank Agarwal Wide Score: 84/1
+10.2 Hardik Pandya to Mayank Agarwal 1 LB! Score: 85/1
+10.3 Hardik Pandya to AB de Villiers 0 Score: 85/1
+10.4 Hardik Pandya to AB de Villiers 1 Score: 86/1
+10.5 Hardik Pandya to Mayank Agarwal Wide Score: 87/1
+10.5 Hardik Pandya to Mayank Agarwal 0 Score: 87/1
+10.6 Hardik Pandya to Mayank Agarwal 0 Score: 87/1
+11.1 Dan Christian to AB de Villiers 1 Score: 88/1
+11.2 Dan Christian to Mayank Agarwal 4 Score: 92/1
+11.3 Dan Christian to Mayank Agarwal 0 Score: 92/1
+11.4 Dan Christian to Mayank Agarwal 1 Score: 93/1
+11.5 Dan Christian to AB de Villiers 4 Score: 97/1
+11.6 Dan Christian to AB de Villiers 0 Score: 97/1
+12.1 Prasidh Krishna to Mayank Agarwal 0 Score: 97/1
+12.2 Prasidh Krishna to Mayank Agarwal 2 Score: 99/1
+12.3 Prasidh Krishna to Mayank Agarwal 0 Score: 99/1
+12.4 Prasidh Krishna to Mayank Agarwal W Score: 100/2 Run Out (1r)
+12.5 Prasidh Krishna to Wriddhiman Saha 1 Score: 101/2
+12.6 Prasidh Krishna to AB de Villiers 1 Score: 102/2
+13.1 Chris Gayle to AB de Villiers 0 Score: 102/2
+13.2 Chris Gayle to AB de Villiers 1 Score: 103/2
+13.3 Chris Gayle to Wriddhiman Saha 1 Score: 104/2
+13.4 Chris Gayle to AB de Villiers 0 Score: 104/2
+13.5 Chris Gayle to AB de Villiers 1 Score: 105/2
+13.6 Chris Gayle to Wriddhiman Saha 0 Score: 105/2
+14.1 Trent Boult to AB de Villiers 6 Score: 111/2
+14.2 Trent Boult to AB de Villiers 0 Score: 111/2
+14.3 Trent Boult to AB de Villiers 0 Score: 111/2
+14.4 Trent Boult to AB de Villiers 2 Score: 113/2
+14.5 Trent Boult to AB de Villiers 0 Score: 113/2
+14.6 Trent Boult to AB de Villiers 1 Score: 114/2
+15.1 Jasprit Bumrah to AB de Villiers 4 Score: 118/2
+15.2 Jasprit Bumrah to AB de Villiers 4 Score: 122/2
+15.3 Jasprit Bumrah to AB de Villiers 0 Score: 122/2
+15.4 Jasprit Bumrah to AB de Villiers 4 Score: 126/2
+15.5 Jasprit Bumrah to AB de Villiers 2 Score: 128/2
+15.6 Jasprit Bumrah to AB de Villiers 2 Score: 130/2
+16.1 Hardik Pandya to Wriddhiman Saha 1 Score: 131/2
+16.2 Hardik Pandya to AB de Villiers 1 Score: 132/2
+16.3 Hardik Pandya to Wriddhiman Saha 4 Score: 136/2
+16.4 Hardik Pandya to Wriddhiman Saha 1 Score: 137/2
+16.5 Hardik Pandya to AB de Villiers 1 Score: 138/2
+16.6 Hardik Pandya to Wriddhiman Saha 1 Score: 139/2
+17.1 Dan Christian to Wriddhiman Saha 1 Score: 140/2
+17.2 Dan Christian to AB de Villiers 0 Score: 140/2
+17.3 Dan Christian to AB de Villiers 1 Score: 141/2
+17.4 Dan Christian to Wriddhiman Saha 2 Score: 143/2
+17.5 Dan Christian to Wriddhiman Saha 4 Score: 147/2
+17.6 Dan Christian to Wriddhiman Saha 1 Score: 148/2
+18.1 Prasidh Krishna to Wriddhiman Saha 3 Score: 151/2
+18.2 Prasidh Krishna to AB de Villiers 1 Score: 152/2
+18.3 Prasidh Krishna to Wriddhiman Saha 1 Score: 153/2
+18.4 Prasidh Krishna to AB de Villiers 2 Score: 155/2
+18.5 Prasidh Krishna to AB de Villiers Wide Score: 156/2
+18.5 Prasidh Krishna to AB de Villiers 0 Score: 156/2
+18.6 Prasidh Krishna to AB de Villiers 1 Score: 157/2
+19.1 Chris Gayle to AB de Villiers Wide Score: 158/2
+19.1 Chris Gayle to AB de Villiers NO BALL! Score: 159/2
+19.1 Chris Gayle to AB de Villiers 1 Score: 160/2 (Free Hit) (Off No-Ball)
+19.1 Chris Gayle to Wriddhiman Saha 1 Score: 161/2 (Free Hit)
+19.2 Chris Gayle to AB de Villiers 1 LB! Score: 162/2
+19.3 Chris Gayle to Wriddhiman Saha Wide Score: 163/2
+19.3 Chris Gayle to Wriddhiman Saha 1 Score: 164/2
+19.4 Chris Gayle to AB de Villiers 1 Score: 165/2
+19.5 Chris Gayle to Wriddhiman Saha 4 Score: 169/2
+19.6 Chris Gayle to Wriddhiman Saha 1 Score: 170/2
+kkr won by 13 runs
++----------------+--------+---------+--------+----------------------------------+
+| Player         |   Runs |   Balls | SR     | Out                              |
++================+========+=========+========+==================================+
+| Mohammed Siraj |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| MA Agarwal     |     37 |      37 | 100.0  | Run Out (1r) b M Prasidh Krishna |
++----------------+--------+---------+--------+----------------------------------+
+| KA Pollard     |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| Kartik Tyagi   |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| YS Chahal      |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| AB de Villiers |     52 |      43 | 120.93 | Not out                          |
++----------------+--------+---------+--------+----------------------------------+
+| K Rabada       |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| WP Saha        |     28 |      17 | 164.71 | Not out                          |
++----------------+--------+---------+--------+----------------------------------+
+| AD Russell     |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| Lalit Yadav    |      0 |       0 | NA     | DNB                              |
++----------------+--------+---------+--------+----------------------------------+
+| Q de Kock      |     43 |      25 | 172.0  | Run Out (0r) b CH Gayle          |
++----------------+--------+---------+--------+----------------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| HH Pandya         |     20 |       3 |         0 | 6.67  |
++-------------------+--------+---------+-----------+-------+
+| CH Gayle          |     18 |       3 |         0 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+| TA Boult          |     36 |       4 |         0 | 9.0   |
++-------------------+--------+---------+-----------+-------+
+| SS Iyer           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| LS Livingstone    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AT Rayudu         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KM Jadhav         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| JJ Bumrah         |     30 |       3 |         0 | 10.0  |
++-------------------+--------+---------+-----------+-------+
+| DT Christian      |     30 |       3 |         0 | 10.0  |
++-------------------+--------+---------+-----------+-------+
+| MK Pandey         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     34 |       4 |         0 | 8.5   |
++-------------------+--------+---------+-----------+-------+
