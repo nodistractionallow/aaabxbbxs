@@ -2483,16 +2483,12 @@ def handle_second_innings_rain_delay(is_rain_affected_param, current_overs_innin
     new_target_final = target # Read current global target (which should be innings1_runs + 1)
 
     try:
-        # 75% chance of NO rain delay here, even if match is "rain_affected"
-        # This is to make second innings delays less frequent than pre-match.
-        # Also, ensure innings1_log_param is not empty, meaning innings1 was actually played.
-        if not is_rain_affected_param or not innings1_log_param or random.random() >= 0.75:
-            if is_rain_affected_param and innings1_log_param: # Only print if it was a candidate for rain and innings1 happened
-                print("\nNo rain interruption before the second innings.")
+        if not is_rain_affected_param or not innings1_log_param:
+            # Not eligible for 2nd innings rain (either not a rain-affected match, or innings 1 didn't happen)
+            # No message needed here usually, or could be a debug log.
             status_from_handler = 'ok'
-            # new_target_final remains as current global target (inn1_score + 1)
-            # second_innings_overs_final remains current_overs_innings1_played
-        else:
+            # new_target_final and second_innings_overs_final remain as initialized
+        elif random.random() < 0.40:  # 40% chance for rain to actually start if eligible
             print("\nRain has interrupted play before the start of the second innings!")
             total_second_innings_delay_minutes = 0
             rain_simulation_active = True
@@ -2579,6 +2575,11 @@ def handle_second_innings_rain_delay(is_rain_affected_param, current_overs_innin
                     winner_from_handler = 'tie'
                     second_innings_overs_final = 0
                     new_target_final = 0
+        else: # Eligible for rain, but it didn't start (the 60% case)
+            if is_rain_affected_param and innings1_log_param: # Only print if it was a candidate for rain
+                 print("\nNo rain interruption before the second innings (dice roll).")
+            status_from_handler = 'ok'
+            # new_target_final and second_innings_overs_final remain as initialized (no change by this handler)
 
     finally: # Ensure stdout is reset
         sys.stdout = actual_current_stdout
@@ -3003,9 +3004,10 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group", is_rai
             if winMsg: innings2Log.append({'event': winMsg, 'balls': 0, 'runs_this_ball': 0, 'total_runs': 0, 'wickets': 0})
 
             # Ensure sys.stdout is the console before returning early
-            if sys.stdout != stdoutOrigin:
+            # If sys.stdout is the game's log file, close it and revert to console (stdoutOrigin)
+            if sys.stdout != stdoutOrigin and hasattr(sys.stdout, 'close') and not sys.stdout.closed: # Check if it's a file and not already closed
                 sys.stdout.close()
-                sys.stdout = stdoutOrigin
+            sys.stdout = stdoutOrigin # Ensure it's console for any final messages if needed, or before returning
 
             # Construct the return dictionary for game cancellation
             # resList for super over needs to be initialized here too for consistent return structure
@@ -3139,8 +3141,10 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group", is_rai
              # sys.stdout = open(current_game_logfile, "a") # Append if more game logs needed
              pass # For now, assume no further logs to game file post-SO.
 
-    sys.stdout.close() # This closes the game's main log file if open, or console if no redirection.
-    sys.stdout=stdoutOrigin # Reset to original console.
+    # Ensure the correct stdout is closed only if it's a file stream we opened and not already closed
+    if sys.stdout != stdoutOrigin and hasattr(sys.stdout, 'close') and not sys.stdout.closed:
+        sys.stdout.close()
+    sys.stdout = stdoutOrigin # Reset to original console.
 
     # print(innings1Log)
     # print(innings2Log)
@@ -3169,7 +3173,7 @@ def handle_pre_match_rain_delay(is_rain_affected_match, base_match_overs, sentTe
     # For simplicity, this function will manage its own state and return critical values.
     # The caller (`game` function) will then update its state or return based on this function's output.
 
-    if is_rain_affected_match and random.random() < 0.5: # 50% chance of rain delay
+    if is_rain_affected_match and random.random() < 0.7:  # Increased from 0.5
         print("Rain has delayed the start of the match.")
         total_delay_minutes = 0
         rain_delay_simulation_active = True
