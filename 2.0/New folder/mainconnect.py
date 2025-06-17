@@ -2464,6 +2464,133 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     innings2Bowltracker = bowlerTracker
 
 
+# target is a global variable in mainconnect.py.
+# This function will calculate a new target if conditions change,
+# and game() will use the returned value to update the global target.
+
+def handle_second_innings_rain_delay(is_rain_affected_param, current_overs_innings1_played, base_match_overs_param, innings1_log_param, team1_name_param, team2_name_param, stdout_origin_param):
+    global target # To read the initial target that was set after innings 1
+
+    # Store the current sys.stdout (which might be a file) and set sys.stdout for console messages
+    actual_current_stdout = sys.stdout
+    sys.stdout = stdout_origin_param
+
+    winMsg_from_handler = None
+    winner_from_handler = None
+    status_from_handler = 'ok'
+    # Initialize with current state from innings1
+    second_innings_overs_final = current_overs_innings1_played
+    new_target_final = target # Read current global target (which should be innings1_runs + 1)
+
+    try:
+        # 75% chance of NO rain delay here, even if match is "rain_affected"
+        # This is to make second innings delays less frequent than pre-match.
+        # Also, ensure innings1_log_param is not empty, meaning innings1 was actually played.
+        if not is_rain_affected_param or not innings1_log_param or random.random() >= 0.75:
+            if is_rain_affected_param and innings1_log_param: # Only print if it was a candidate for rain and innings1 happened
+                print("\nNo rain interruption before the second innings.")
+            status_from_handler = 'ok'
+            # new_target_final remains as current global target (inn1_score + 1)
+            # second_innings_overs_final remains current_overs_innings1_played
+        else:
+            print("\nRain has interrupted play before the start of the second innings!")
+            total_second_innings_delay_minutes = 0
+            rain_simulation_active = True
+
+            while rain_simulation_active:
+                time.sleep(1) # Each sleep represents 10 virtual minutes
+                total_second_innings_delay_minutes += 10
+
+                delay_updates = [
+                    "Umpires are inspecting the conditions.",
+                    "Covers are still on. The rain is quite persistent.",
+                    "Ground staff are on standby, waiting for a break in the weather.",
+                    f"Update: Total delay now {total_second_innings_delay_minutes} virtual minutes."
+                ]
+                print(random.choice(delay_updates))
+
+                # Condition for rain to stop
+                if random.random() < 0.35 and total_second_innings_delay_minutes >= 20: # Min 20 virtual mins delay
+                    print(f"Good news! The rain has stopped. Total delay: {total_second_innings_delay_minutes} virtual minutes.")
+                    rain_simulation_active = False
+                    overs_lost_this_delay = 0
+
+                    if total_second_innings_delay_minutes > 60:
+                        overs_lost_this_delay = (total_second_innings_delay_minutes - 60) // 4
+                        second_innings_overs_final = current_overs_innings1_played - overs_lost_this_delay
+                        print(f"Second innings has been reduced by {overs_lost_this_delay} overs. Now set to {second_innings_overs_final} overs.")
+                    else:
+                        second_innings_overs_final = current_overs_innings1_played
+                        print("No overs lost for the second innings due to this specific rain delay.")
+
+                    if second_innings_overs_final < 5:
+                        print("Match abandoned: Second innings reduced to less than 5 overs.")
+                        status_from_handler = 'cancelled_rain_2nd_inns'
+                        winMsg_from_handler = f"Match between {team1_name_param.upper()} and {team2_name_param.upper()} tied due to rain (2nd innings < 5 overs). Points shared."
+                        winner_from_handler = 'tie'
+                        new_target_final = 0
+                    else:
+                        # Calculate revised target only if overs were actually lost for 2nd innings compared to 1st.
+                        # Or if second_innings_overs_final is different from current_overs_innings1_played due to this delay.
+                        if second_innings_overs_final < current_overs_innings1_played:
+                            target_score_at_balls = second_innings_overs_final * 6
+                            score_in_equivalent_overs = 0
+
+                            # Ensure innings1_log_param is not empty before trying to access its elements
+                            if not innings1_log_param:
+                                print("Error: Innings 1 log is empty. Cannot accurately revise target. Match may proceed with original target or be handled as an error.")
+                                score_in_equivalent_overs = target -1 # Fallback to original Innings 1 score if possible
+                            else:
+                                found_score_at_reduced_overs = False
+                                # Iterate from the start of innings1_log_param to find the score
+                                for log_entry in innings1_log_param:
+                                    if log_entry['balls'] >= target_score_at_balls:
+                                        score_in_equivalent_overs = log_entry['total_runs']
+                                        # If the exact ball count is found, great. If not, this will be the score *at or after* target_balls.
+                                        # We need score *at* target_balls or last before it if innings ended early.
+                                        # A reverse search is better for finding score *at or before* a certain ball count.
+                                        break # Found first entry at or exceeding target_balls
+                                # Refined search for score at exactly target_balls or last before it.
+                                temp_score = 0
+                                for log_entry in innings1_log_param:
+                                    if log_entry['balls'] <= target_score_at_balls:
+                                        temp_score = log_entry['total_runs']
+                                    else: # Past the target_score_at_balls
+                                        break
+                                score_in_equivalent_overs = temp_score
+                                found_score_at_reduced_overs = True
+
+
+                            new_target_final = score_in_equivalent_overs # As per spec: target IS the score for revised games.
+                            print(f"Target revised. Second team needs {new_target_final} runs in {second_innings_overs_final} overs to win.")
+                            status_from_handler = 'ok_reduced'
+                        else: # No reduction in overs for 2nd inn compared to 1st inn from *this* delay
+                              # Target remains inn1_score + 1 (which is already in new_target_final)
+                            print(f"Second innings to proceed with {second_innings_overs_final} overs. Target: {new_target_final} runs.")
+                            status_from_handler = 'ok'
+
+
+                # Condition for abandonment due to excessive delay
+                elif total_second_innings_delay_minutes > 120:
+                    print("Match abandoned due to excessive rain delay before second innings.")
+                    rain_simulation_active = False
+                    status_from_handler = 'cancelled_rain_2nd_inns'
+                    winMsg_from_handler = f"Match between {team1_name_param.upper()} and {team2_name_param.upper()} tied due to excessive rain delay (2nd innings). Points shared."
+                    winner_from_handler = 'tie'
+                    second_innings_overs_final = 0
+                    new_target_final = 0
+
+    finally: # Ensure stdout is reset
+        sys.stdout = actual_current_stdout
+
+    return {
+        'status': status_from_handler,
+        'second_innings_overs': second_innings_overs_final,
+        'new_target': new_target_final,
+        'winMsg': winMsg_from_handler,
+        'winner': winner_from_handler
+    }
+
 # Super Over Simulation Function
 def simulate_super_over(batting_team_info, bowling_team_info, batting_team_name, bowling_team_name, target_runs, stdout_origin_param, selected_batsmen_initials, selected_bowler_initials):
     """
@@ -2770,6 +2897,13 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group", is_rai
     battingFirst = doToss(paceFactor, spinFactor, outfield,
                           secondInnDew, pitchDetoriate, typeOfPitch, team1, team2)
 
+    # CORRECT PLACEMENT FOR getBatting DEFINITION:
+    def getBatting():
+        if(battingFirst == 0):
+            return [team1Info, team2Info, team1, team2]
+        else:
+            return [team2Info, team1Info, team2, team1]
+
     # Now that tossMsg is set and getBatting can work, call rain delay handler
     # Also, redirect stdout to file *after* this, so rain delay messages go to console.
 
@@ -2823,18 +2957,82 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group", is_rai
         else:
             print("Match proceeding after rain delay. No overs lost.")
 
-
-    def getBatting():
-        if(battingFirst == 0):
-            return [team1Info, team2Info, team1, team2]
-        else:
-            return [team2Info, team1Info, team2, team1]
-
     innings1(getBatting()[0], getBatting()[1], getBatting()[2], getBatting()[
             3], paceFactor, spinFactor, outfield, dew, detoriate, match_overs=current_match_overs)
 
-    innings2(getBatting()[1], getBatting()[0], getBatting()[3], getBatting()[
-            2], paceFactor, spinFactor, outfield, dew, detoriate, match_overs=current_match_overs)
+    # ---- Second Innings Rain Delay Handling START ----
+    # current_match_overs here is what innings1 was played with.
+    # base_match_overs is the original scheduled overs.
+    rain_2nd_inn_result = handle_second_innings_rain_delay(
+        is_rain_affected_match,
+        current_match_overs,    # Overs innings1 was actually played with
+        base_match_overs,       # The original scheduled overs for the match
+        innings1Log,            # Log from innings1 to determine score at interruption point
+        getBatting()[2],        # Team that batted first (innings1BatTeam)
+        getBatting()[3],        # Team that is due to bat second (innings2BatTeam)
+        stdoutOrigin            # To ensure delay messages go to console
+    )
+
+    if rain_2nd_inn_result:
+        current_match_overs = rain_2nd_inn_result['second_innings_overs'] # Update overs for innings2
+        # Update global target directly using the key from the handler's return
+        # The 'target' global is read by innings2 and was set by innings1.
+        # The handler calculates 'new_target' which might be different from original target or DLS.
+        # As per spec, for revised games, the target IS the score achieved by team1 in equivalent overs.
+        # So, if new_target is 150, team2 needs 150 to win (not 151).
+        # However, the game's core logic (target = runs + 1) implies target is "runs to win".
+        # The handler sets 'new_target' as the score team 2 *needs to make*.
+        # If DLS target is 150, team 2 needs 150. If they score 150, it's a win.
+        # The current 'target' global variable holds team1_score + 1.
+        # If new_target_final from handler is, say, 150 (meaning team 2 needs 150 to win),
+        # then the global target should be set to 150.
+        # Innings2 logic: if runs == target, it's a win. if runs == target-1, it's a tie.
+        # So, if new_target_final is "runs to win", then global target should be new_target_final.
+        globals()['target'] = rain_2nd_inn_result['new_target']
+
+        if rain_2nd_inn_result['status'] == 'cancelled_rain_2nd_inns':
+            winMsg = rain_2nd_inn_result['winMsg']
+            winner = rain_2nd_inn_result['winner']
+
+            innings2Runs = 0
+            innings2Balls = 0
+            innings2Battracker = {}
+            innings2Bowltracker = {}
+            innings2Batting = "Second innings not played due to rain."
+            innings2Bowling = ""
+            if winMsg: innings2Log.append({'event': winMsg, 'balls': 0, 'runs_this_ball': 0, 'total_runs': 0, 'wickets': 0})
+
+            # Ensure sys.stdout is the console before returning early
+            if sys.stdout != stdoutOrigin:
+                sys.stdout.close()
+                sys.stdout = stdoutOrigin
+
+            # Construct the return dictionary for game cancellation
+            # resList for super over needs to be initialized here too for consistent return structure
+            resList = {"superOverPlayed": False, "superOverDetails": [] }
+            final_res = {
+                "innings1Batting": innings1Batting, "innings1Bowling": innings1Bowling,
+                "innings2Batting": innings2Batting, "innings2Bowling": innings2Bowling,
+                "innings1Balls": innings1Balls, "innings2Balls": innings2Balls,
+                "innings1Runs": innings1Runs, "innings2Runs": innings2Runs,
+                "winMsg": winMsg, "winner": winner,
+                "innings1Battracker": innings1Battracker, "innings2Battracker": innings2Battracker,
+                "innings1Bowltracker": innings1Bowltracker, "innings2Bowltracker": innings2Bowltracker,
+                "innings1BatTeam": getBatting()[2], "innings2BatTeam": getBatting()[3],
+                "innings1Log": innings1Log, "innings2Log": innings2Log,
+                "tossMsg": tossMsg,
+                "current_match_overs": current_match_overs, # This would be the reduced overs for 2nd inn if calculated
+                "target": globals()['target'],
+                "base_match_overs": base_match_overs
+            }
+            final_res.update(resList)
+            return final_res
+
+    # Conditional call to innings2
+    if rain_2nd_inn_result is None or rain_2nd_inn_result['status'] != 'cancelled_rain_2nd_inns':
+        innings2(getBatting()[1], getBatting()[0], getBatting()[3], getBatting()[
+                2], paceFactor, spinFactor, outfield, dew, detoriate, match_overs=current_match_overs)
+    # ---- Second Innings Rain Delay Handling END ----
 
     # Super Over Logic
     resList = {"superOverPlayed": False, "superOverDetails": [] } # Initialize resList for super over keys
