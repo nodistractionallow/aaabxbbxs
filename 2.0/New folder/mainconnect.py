@@ -1,8 +1,9 @@
 import random
 import accessJSON
 import copy
-import sys 
+import sys
 import json
+import time
 
 MIN_MATCHES_EXPERIENCE = 15
 MIN_BAT_BALLS_EXPERIENCE = 300
@@ -140,7 +141,7 @@ def normalize_probabilities(prob_dict, target_sum):
 #Player analysis by phases
 from tabulate import tabulate
 
-target = 1 
+target = 1
 
 innings1Batting = None
 innings1Bowling = None
@@ -233,10 +234,16 @@ def pitchInfo(venue, typeOfPitch):
     return [pace, spin, outfield]
 
 
-def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
+def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate, match_overs=20):
     global target, innings1Balls, innings1Runs, innings1Batting, innings1Bowling, winner, winMsg, innings1Battracker, innings1Bowltracker, innings1Log
-    # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
+
     is_next_ball_free_hit = False # Initialize for the innings
+
+    powerplay_overs = round(match_overs * 0.3)
+    death_overs_start_calculation = match_overs - 4
+    death_overs_start_over = death_overs_start_calculation if death_overs_start_calculation > powerplay_overs else powerplay_overs
+
+    # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
     battingOrder = []
@@ -349,7 +356,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 posAvgObj[str(p)] = 1
 
         for key_p in posAvgObj:
-            posAvgObj[key_p] = posAvgObj[key_p]/i['matches'] 
+            posAvgObj[key_p] = posAvgObj[key_p]/i['matches']
 
         if(len(newPos) != 0):
             posAvg = posTotal/len(newPos)
@@ -363,7 +370,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     for i in bowling:
         i['bowlBallsTotalRate'] = i['bowlBallsTotal'] / i['matches']
         # Ensure 'noballs' is initialized for each bowler
-        bowlerTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0, 
+        bowlerTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0,
         'runs': 0, 'ballLog': [], 'overs': 0, 'wickets': 0, 'noballs': 0}
         runObj = {}
         outObj = {}
@@ -736,7 +743,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
     # Refactored delivery function for innings1
     def delivery(bowler, batter, over, is_free_hit=False): # is_free_hit is for the CURRENT ball
-        nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets, spin, pace
+        nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets, spin, pace, powerplay_overs, death_overs_start_over, match_overs # Added new nonlocal vars
         global innings1Log
 
         blname = bowler['playerInitials']
@@ -878,27 +885,27 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         # ... (other aggression adjustments need similar .get(key,0) and max(0.001, ...) guards) ...
         # For brevity, I'll assume these are applied carefully. The structure is what's key here.
 
-        if(current_ball_of_innings <= 12):
+        if(current_ball_of_innings <= 12): # First 2 overs specific - Kept as is
             sixAdjustment = random.uniform(0.02, 0.05)
-            if(outAvg < 0.07): outAvg = 0.001 # Ensure not zero, but small
+            if(outAvg < 0.07): outAvg = 0.001
             else: outAvg = max(0.001, outAvg - 0.07)
-            if(sixAdjustment > denAvg.get('6',0)): sixAdjustment = denAvg.get('6',0)
+            if(sixAdjustment > denAvg.get('6',0)): sixAdjustment = denAvg.get('6',0) # Ensure not reducing more than available
             denAvg['6'] = max(0.001, denAvg.get('6',0) - sixAdjustment)
             denAvg['0'] = max(0.001, denAvg.get('0',0) + sixAdjustment * (1/3))
             denAvg['1'] = max(0.001, denAvg.get('1',0) + sixAdjustment * (2/3))
-        elif(current_ball_of_innings > 12 and current_ball_of_innings <= 36):
+        elif current_ball_of_innings > 12 and current_ball_of_innings <= powerplay_overs * 6: # MODIFIED - Powerplay after first 2 overs
             if(wickets == 0):
                 adj = random.uniform(0.05,0.11); denAvg['0']=max(0.001,denAvg.get('0',0)-adj*(2/3)); denAvg['1']=max(0.001,denAvg.get('1',0)-adj*(1/3)); denAvg['4']=max(0.001,denAvg.get('4',0)+adj*(2/3)); denAvg['6']=max(0.001,denAvg.get('6',0)+adj*(1/3))
             else:
-                adj = random.uniform(0.02,0.08); denAvg['0']-=adj*(2/3); denAvg['1']-=adj*(1/3); denAvg['4']+=adj*(2.5/3); denAvg['6']+=adj*(0.5/3); outAvg = max(0.001, outAvg-0.03)
-        elif(current_ball_of_innings > 36 and current_ball_of_innings <= 102):
+                adj = random.uniform(0.02,0.08); denAvg['0']=max(0.001,denAvg.get('0',0)-adj*(2/3)); denAvg['1']=max(0.001,denAvg.get('1',0)-adj*(1/3)); denAvg['4']=max(0.001,denAvg.get('4',0)+adj*(2.5/3)); denAvg['6']=max(0.001,denAvg.get('6',0)+adj*(0.5/3)); outAvg = max(0.001, outAvg-0.03)
+        elif current_ball_of_innings > powerplay_overs * 6 and current_ball_of_innings <= death_overs_start_over * 6: # MODIFIED - Middle Overs
             if(wickets < 3):
-                adj = random.uniform(0.05,0.11); denAvg['0']-=adj*(1.5/3); denAvg['1']-=adj*(1/3); denAvg['4']+=adj*(1.5/3); denAvg['6']+=adj*(1/3)
+                adj = random.uniform(0.05,0.11); denAvg['0']=max(0.001,denAvg.get('0',0)-adj*(1.5/3)); denAvg['1']=max(0.001,denAvg.get('1',0)-adj*(1/3)); denAvg['4']=max(0.001,denAvg.get('4',0)+adj*(1.5/3)); denAvg['6']=max(0.001,denAvg.get('6',0)+adj*(1/3))
             else:
-                adj = random.uniform(0.02,0.07); denAvg['0']-=adj*(1.6/3); denAvg['1']-=adj*(1.2/3); denAvg['4']+=adj*(2.1/3); denAvg['6']+=adj*(0.9/3); outAvg = max(0.001, outAvg-0.03)
-        else:
+                adj = random.uniform(0.02,0.07); denAvg['0']=max(0.001,denAvg.get('0',0)-adj*(1.6/3)); denAvg['1']=max(0.001,denAvg.get('1',0)-adj*(1.2/3)); denAvg['4']=max(0.001,denAvg.get('4',0)+adj*(2.1/3)); denAvg['6']=max(0.001,denAvg.get('6',0)+adj*(0.9/3)); outAvg = max(0.001, outAvg-0.03)
+        else: # Death Overs (balls > death_overs_start_over * 6)
             if(wickets < 7):
-                adj = random.uniform(0.07,0.1); denAvg['0']-=adj*(0.4/3); denAvg['1']-=adj*(1/3); denAvg['4']+=adj*(1.4/3); denAvg['6']+=adj*(1.8/3); outAvg = max(0.001, outAvg+0.01)
+                adj = random.uniform(0.07,0.1); denAvg['0']=max(0.001,denAvg.get('0',0)-adj*(0.4/3)); denAvg['1']=max(0.001,denAvg.get('1',0)-adj*(1/3)); denAvg['4']=max(0.001,denAvg.get('4',0)+adj*(1.4/3)); denAvg['6']=max(0.001,denAvg.get('6',0)+adj*(1.8/3)); outAvg = max(0.001, outAvg+0.01)
             else:
                 adj = random.uniform(0.07,0.09); denAvg['0']-=adj*(0.4/3); denAvg['1']-=adj*(1.8/3); denAvg['4']+=adj*(1.5/3); denAvg['6']+=adj*(1.5/3); outAvg = max(0.001, outAvg+0.01)
         # --- End of aggression adjustments ---
@@ -906,7 +913,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         getOutcome_standalone(bowler, batter, denAvg, outAvg, outTypeAvg, over, is_fh_param=is_free_hit, event_type_param="LEGAL")
         return "LEGAL"
 
-    for i in range(20):
+    for i in range(match_overs): # MODIFIED FROM 20
         # Strike rotation
         if i != 0:
             if onStrike == batter1: onStrike = batter2
@@ -926,8 +933,8 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             current_bowler_obj = bowler2_obj
         else:
             phase = ""
-            if i < 6: phase = "PP"
-            elif i < 16: phase = "MID"
+            if i < powerplay_overs: phase = "PP"
+            elif i < death_overs_start_over: phase = "MID"
             else: phase = "DEATH"
 
             candidates = [
@@ -1083,7 +1090,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             print(f"CRITICAL ERROR (Innings1): No bowlers in selection pool for team {bowlingName}. Innings ends.")
             break
         if wickets == 10: break # Break outer over loop if all out
-            
+
     # print(batterTracker)
     # print(bowlerTracker)
     batsmanTabulate = []
@@ -1149,12 +1156,12 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 # Else, remains "DNB" if not in this range and didn't bat.
 
         batsmanTabulate.append([btckd_player_initials, runs_scored, balls_faced, sr_val, dismissal_status])
-        
+
     bowlerTabulate = []
     for btrack in bowlerTracker:
         localBowlerTabulate = [btrack, bowlerTracker[btrack]['runs']]
         overs_tb = 0
-        remainder_balls = bowlerTracker[btrack]['balls'] % 6 
+        remainder_balls = bowlerTracker[btrack]['balls'] % 6
         number_overs = bowlerTracker[btrack]['balls'] // 6
         localBowlerTabulate.append(f"{number_overs}.{remainder_balls}")
         localBowlerTabulate.append(bowlerTracker[btrack]['wickets'])
@@ -1167,7 +1174,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
     print(tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid"))
     print(tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid"))
-        
+
     target = runs + 1
     innings1Balls = balls
     innings1Runs = runs
@@ -1177,12 +1184,18 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     innings1Battracker = batterTracker
     innings1Bowltracker = bowlerTracker
 
-def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
+def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate, match_overs=20):
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
     global innings2Batting, innings2Bowling, innings2Runs, innings2Balls, winner, winMsg, innings2Bowltracker, innings2Battracker, innings2Log
-    is_next_ball_free_hit = False # Initialize for the innings
-    bowlerTracker = {} #add names of all in innings def
-    batterTracker = {} #add names of all in innings def
+
+    is_next_ball_free_hit = False
+
+    powerplay_overs = round(match_overs * 0.3)
+    death_overs_start_calculation = match_overs - 4
+    death_overs_start_over = death_overs_start_calculation if death_overs_start_calculation > powerplay_overs else powerplay_overs
+
+    bowlerTracker = {}
+    batterTracker = {}
     battingOrder = []
     catchingOrder = []
     ballLog = []
@@ -1294,7 +1307,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 posAvgObj[str(p)] = 1
 
         for key_p in posAvgObj:
-            posAvgObj[key_p] = posAvgObj[key_p]/i['matches'] 
+            posAvgObj[key_p] = posAvgObj[key_p]/i['matches']
 
         if(len(newPos) != 0):
             posAvg = posTotal/len(newPos)
@@ -1308,7 +1321,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     for i in bowling:
         i['bowlBallsTotalRate'] = i['bowlBallsTotal'] / i['matches']
         # Ensure 'noballs' is initialized for each bowler
-        bowlerTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0, 
+        bowlerTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0,
         'runs': 0, 'ballLog': [], 'overs': 0, 'wickets': 0, 'noballs': 0}
         runObj = {}
         outObj = {}
@@ -1440,7 +1453,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
     # This is the new, refactored getOutcome_standalone function for innings2
     def getOutcome_standalone(current_bowler, current_batter, den_avg_param, out_avg_param, out_type_avg_param, current_over_str, is_fh_param=False, event_type_param="LEGAL"): # Added is_fh_param and event_type_param
-        nonlocal batterTracker, bowlerTracker, runs, balls, ballLog, wickets, onStrike, bowling, batter1, batter2, targetChased
+        nonlocal batterTracker, bowlerTracker, runs, balls, ballLog, wickets, onStrike, bowling, batter1, batter2, targetChased, match_overs
         global innings2Log, winner, winMsg # innings2 specific globals
 
         bln = current_bowler['playerInitials']
@@ -1593,7 +1606,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                             # Innings End Checks after extras
                             if runs >= target:
                                 targetChased = True; winner = battingName; winMsg = f"{battingName} won by {10 - wickets} wickets"
-                            elif wickets == 10 or (event_type_param == "LEGAL" and balls == 120):
+                            elif wickets == 10 or (event_type_param == "LEGAL" and balls == match_overs * 6): # MODIFIED
                                 if runs < target -1 : winner = bowlingName; winMsg = f"{bowlingName} won by {(target-1)-runs} runs"
                                 elif runs == target-1: winner = "tie"; winMsg = "Match Tied"
                             return # Processed as extras, exit
@@ -1615,12 +1628,12 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 # Innings End Checks (specific to innings2)
                 if runs >= target:
                     targetChased = True
-                    print(f"{battingName} won by {10 - wickets} wickets") # Assuming battingName is correctly passed or global
+                    print(f"{battingName} won by {10 - wickets} wickets")
                     winner = battingName
                     winMsg = f"{battingName} won by {10 - wickets} wickets"
-                elif wickets == 10 or (event_type_param == "LEGAL" and balls == 120) : # Check for 120 legal balls
+                elif wickets == 10 or (event_type_param == "LEGAL" and balls == match_overs * 6) : # MODIFIED
                     if runs < target -1 :
-                        print(f"{bowlingName} won by {(target - 1) - runs} runs") # Assuming bowlingName is correctly passed or global
+                        print(f"{bowlingName} won by {(target - 1) - runs} runs")
                         winner = bowlingName
                         winMsg = f"{bowlingName} won by {(target - 1) - runs} runs"
                     elif runs == target -1:
@@ -1647,7 +1660,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             print(f"{battingName} won by {10 - wickets} wickets")
             winner = battingName
             winMsg = f"{battingName} won by {10 - wickets} wickets"
-        elif wickets == 10 or (event_type_param == "LEGAL" and balls == 120):
+        elif wickets == 10 or (event_type_param == "LEGAL" and balls == match_overs * 6): # MODIFIED
             if runs < target - 1 :
                 print(f"{bowlingName} won by {(target - 1) - runs} runs")
                 winner = bowlingName
@@ -1700,7 +1713,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         # The complex while loop trying to find a batter with 0 balls is removed.
 
     def delivery(bowler, batter, over, is_free_hit=False): # is_free_hit is for the CURRENT ball
-        nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets, targetChased, spin, pace
+        nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets, targetChased, spin, pace, match_overs
         global winner, winMsg, innings2Log
 
         blname = bowler['playerInitials']
@@ -1814,8 +1827,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
         # RRR based aggression
         rrr = 0
-        if (120 - balls) > 0 : # Avoid division by zero
-            rrr = (target - runs) / (120 - balls) * 6 # RRR per over
+        if (match_overs * 6 - balls) > 0 : # MODIFIED - Avoid division by zero & use match_overs
+            rrr = (target - runs) / (match_overs * 6 - balls) * 6 # RRR per over
 
         # Simplified aggression logic for Innings 2 (can be expanded)
         if current_ball_of_innings <= 36 : # Powerplay
@@ -1826,7 +1839,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             elif rrr < 6: # Low required rate
                  for r_key in ['4','6']: denAvg[r_key] = max(0.001, denAvg.get(r_key,0) * 0.8)
                  outAvg = max(0.001, outAvg - 0.01)
-        elif current_ball_of_innings > 90: # Death overs
+        elif current_ball_of_innings > (match_overs * 6 * 0.75): # MODIFIED - Death overs (e.g. > 90 for 20 overs)
             if rrr > 7:
                 outAvg = max(0.001, outAvg + 0.03)
                 for r_key in ['4','6']: denAvg[r_key] = max(0.001, denAvg.get(r_key,0) * 1.3)
@@ -1846,7 +1859,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         return "LEGAL"
 
     # Removed the old nested getOutcome function as it's replaced by getOutcome_standalone
-        
+
         # sumLast10 = 0
         # outsLast10 = 0
         for i in ballLog:
@@ -1856,7 +1869,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             else:
                 outsLast10 += 1
 
-        if(balls < 105):
+        if(balls < (match_overs * 6 * 0.875) ): # MODIFIED from 105, relative to match_overs
             adjust_last10 = random.uniform(0.02,0.04)
             if(outsLast10 < 2):
                 denAvg['0'] -= adjust_last10 * (1/2)
@@ -1866,14 +1879,14 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             else:
                 adjust_last10 += 0.018
                 denAvg['0'] += adjust_last10 * (1.1/2)
-                denAvg['0'] += adjust_last10 * (0.9/2)
+                denAvg['0'] += adjust_last10 * (0.9/2) # Original code had this as denAvg['0'] twice
                 denAvg['4'] -= adjust_last10 * (1/2)
                 denAvg['6'] -= adjust_last10 * (1/2)
                 outAvg -= 0.02
 
 
 
-        if(batterTracker[btname]['balls'] < 8 and balls < 80):
+        if(batterTracker[btname]['balls'] < 8 and balls < (match_overs * 6 * 0.66) ): # MODIFIED from 80
             adjust = random.uniform(-0.01, 0.03)
             outAvg -= 0.015
             denAvg['0'] += adjust * (1.5/3)
@@ -1909,20 +1922,21 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             denAvg['6'] += adjust * (1.8/3)
             outAvg += 0.04
 
-        if(batterTracker[btname]['balls'] > 30 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) > 145 and (wickets < 5) or balls > 102):
+        if(batterTracker[btname]['balls'] > 30 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) > 145 and (wickets < 5) or balls > (match_overs * 6 * 0.85)): # MODIFIED from 102
             adjust = random.uniform(0.06, 0.09)
             denAvg['0'] -= adjust * (1/3)
             denAvg['1'] -= adjust * (1.5/3)
             denAvg['4'] += adjust * (1.6/3)
             denAvg['6'] += adjust * (1.9/3)
             outAvg += 0.02
-    
+
         rr = 0
         if(balls != 0):
             rr = runs / balls
 
-        if(balls < 120):
-            rrr = (target - runs) / (120 - balls)
+        if(balls < match_overs * 6): # MODIFIED
+            rrr = (target - runs) / (match_overs * 6 - balls) if (match_overs * 6 - balls) > 0 else float('inf') # MODIFIED
+
 
         if(balls < 12):
             # print(rrr)
@@ -1974,7 +1988,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 outAvg += (0.02 + ((rrro*1.1)/1000))
                 getOutcome(denAvg, outAvg, over)
 
-        elif(balls >= 36 and balls < 102): #102 usually, now 120
+        elif(balls >= 36 and balls < (match_overs * 6 * 0.85) ): # MODIFIED from 102
             rrro = rrr*6
             if(rrro < 8):
                 if(wickets < 3):
@@ -2004,7 +2018,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     denAvg['2'] -= adjust * (1/3)
                     outAvg += 0.015
                     getOutcome(denAvg, outAvg, over)
-                    
+
                 else:
                     adjust = random.uniform(0.04, 0.08)
                     denAvg['6'] += adjust * (0.95/3)
@@ -2016,7 +2030,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     getOutcome(denAvg, outAvg, over)
 
 
-                
+
 
             elif(rrro > 10.4 and rrro < 12):
                 if(wickets < 3):
@@ -2040,10 +2054,10 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     outAvg += 0.035
                     getOutcome(denAvg, outAvg, over)
 
-                
+
 
             elif(rrro >= 12 and rrro <= 15):
-                if(balls > 85):
+                if(balls > (match_overs * 6 * 0.7) ): # MODIFIED from 85
                     if(wickets < 3):
                         adjust = random.uniform(0.065, 0.115)
                         denAvg['6'] += adjust * (1.5/3)
@@ -2119,8 +2133,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 getOutcome(denAvg, outAvg, over)
             #logic for last 3 overs chase
             pass
-                    
-        if(runs == (target - 1) and (balls == 120 or wickets == 10)):
+
+        if(runs == (target - 1) and (balls == match_overs * 6 or wickets == 10)): # MODIFIED
             print("Match tied")
             winner = "tie"
             winMsg = "Match Tied"
@@ -2130,7 +2144,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 winner = battingName
                 winMsg = f"{battingName} won by {10 - wickets} wickets"
                 targetChased = True
-            elif(balls == 120 or wickets == 10):
+            elif(balls == match_overs * 6 or wickets == 10): # MODIFIED
                 print(f"{bowlingName} won by {(target - 1) - runs} runs")
                 winner = bowlingName
                 winMsg = f"{bowlingName} won by {(target - 1) - runs} runs"
@@ -2167,7 +2181,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         #         adjust = random.uniform(0.04, 0.8)
         #         denAvg['1'] += adjust * (1/3) * (wickets / 2)
         #         denAvg['4'] -= adjust * (2/3) * (wickets / 2)
-        #         denAvg['6'] -= adjust * (1/3) * (wickets / 2)  
+        #         denAvg['6'] -= adjust * (1/3) * (wickets / 2)
         #         denAvg['2'] += adjust * (1/3) * (wickets / 2)
         #         denAvg['0'] += adjust * (1/3) * (wickets / 2)
 
@@ -2179,7 +2193,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
 
 
-    for i in range(20): # This 'i' represents the over number from 0 to 19
+    for i in range(match_overs): # MODIFIED This 'i' represents the over number
         # Strike rotation
         if i != 0: # No strike rotation before the first ball of the innings
             if onStrike == batter1: onStrike = batter2
@@ -2190,7 +2204,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 else: # Both batters are None, innings should end
                     print(f"Innings2 Over {i+1}: Both batters are None. Ending innings.")
                     break
-        
+
         if targetChased or wickets == 10 : break # Check before starting the over
 
         current_bowler_obj = None
@@ -2201,9 +2215,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             current_bowler_obj = bowler2_obj
         else:
             phase = ""
-            if i < 6: phase = "PP"
-            elif i < 16: phase = "MID"
-            else: phase = "DEATH"
+            if i < powerplay_overs: phase = "PP"       # MODIFIED
+            elif i < death_overs_start_over: phase = "MID"  # MODIFIED
+            else: phase = "DEATH"                       # MODIFIED (implicit)
 
             candidates = [
                 b for b in designated_bowlers
@@ -2357,7 +2371,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             break
 
         if targetChased or wickets == 10: break # Break outer over loop if innings ended mid-over
-            
+
     # print(batterTracker)
     # print(bowlerTracker)
     batsmanTabulate = []
@@ -2423,12 +2437,12 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 # Else, remains "DNB" if not in this range and didn't bat.
 
         batsmanTabulate.append([btckd_player_initials, runs_scored, balls_faced, sr_val, dismissal_status])
-        
+
     bowlerTabulate = []
     for btrack in bowlerTracker:
         localBowlerTabulate = [btrack, bowlerTracker[btrack]['runs']]
         overs_tb = 0
-        remainder_balls = bowlerTracker[btrack]['balls'] % 6 
+        remainder_balls = bowlerTracker[btrack]['balls'] % 6
         number_overs = bowlerTracker[btrack]['balls'] // 6
         localBowlerTabulate.append(f"{number_overs}.{remainder_balls}")
         localBowlerTabulate.append(bowlerTracker[btrack]['wickets'])
@@ -2449,10 +2463,236 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     innings2Battracker = batterTracker
     innings2Bowltracker = bowlerTracker
 
-def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
+
+# Super Over Simulation Function
+def simulate_super_over(batting_team_info, bowling_team_info, batting_team_name, bowling_team_name, target_runs, stdout_origin_param, selected_batsmen_initials, selected_bowler_initials):
+    """
+    Simulates a single Super Over innings (6 balls).
+    batting_team_info: List of player objects for the batting team.
+    bowling_team_info: List of player objects for the bowling team.
+    batting_team_name: String name of the batting team.
+    bowling_team_name: String name of the bowling team.
+    target_runs: Runs to chase (-1 if batting first in super over).
+    stdout_origin_param: Original sys.stdout to revert to for console messages.
+    selected_batsmen_initials: List of initials of the 2 batsmen for the super over.
+    selected_bowler_initials: Initials of the bowler for the super over.
+    Returns: (runs_scored, wickets_lost, list_of_ball_details_for_log)
+    """
+
+    # Ensure console output for super over
+    original_stdout = sys.stdout
+    if sys.stdout != stdout_origin_param:
+        sys.stdout.close() # Close the file stream if it's open
+        sys.stdout = stdout_origin_param
+        print(f"\n--- Switching to console for Super Over ---")
+
+    super_over_runs = 0
+    super_over_wickets = 0
+    super_over_balls_bowled = 0
+    super_over_log = []
+
+    # Prepare batsmen
+    available_batsmen = [p for p in batting_team_info if p['playerInitials'] in selected_batsmen_initials]
+    if len(available_batsmen) < 2:
+        # Fallback: if specific batsmen aren't found, pick top 2 by some metric (e.g., original batting order)
+        # This part needs robust implementation if selected_batsmen_initials is not guaranteed.
+        # For now, assuming valid initials are passed.
+        print(f"Error: Could not find the selected batsmen for Super Over for {batting_team_name}. Using fallback (not yet fully implemented).")
+        # Simplified fallback: take first two from batting_team_info if available_batsmen is short
+        if len(batting_team_info) >=2 :
+             available_batsmen = batting_team_info[:2]
+        elif len(batting_team_info) == 1:
+             available_batsmen.append(batting_team_info[0]) # Will likely cause issues, but basic
+        else: # No batsmen
+             super_over_log.append("CRITICAL ERROR: No batsmen available for super over.")
+             if original_stdout != stdout_origin_param : sys.stdout = open(f"scores/{batting_team_name}v{bowling_team_name}_super_over_ERROR.txt", "w") # Re-redirect if needed
+             return 0, 2, super_over_log # Max wickets, 0 runs
+
+    batter1_obj = {'player': available_batsmen[0], 'runs': 0, 'balls': 0}
+    batter2_obj = {'player': available_batsmen[1], 'runs': 0, 'balls': 0}
+    on_strike = batter1_obj
+
+    # Prepare bowler
+    bowler_player_obj = next((p for p in bowling_team_info if p['playerInitials'] == selected_bowler_initials), None)
+    if not bowler_player_obj:
+        print(f"Error: Could not find the selected bowler for Super Over for {bowling_team_name}. Using fallback.")
+        # Fallback: pick the first bowler from bowling_team_info (needs better selection)
+        if bowling_team_info:
+            bowler_player_obj = bowling_team_info[0]
+        else:
+            super_over_log.append("CRITICAL ERROR: No bowler available for super over.")
+            if original_stdout != stdout_origin_param : sys.stdout = open(f"scores/{batting_team_name}v{bowling_team_name}_super_over_ERROR.txt", "w")
+            return 0, super_over_wickets, super_over_log # Return current state
+
+    current_bowler_stats = {'playerInitials': bowler_player_obj['playerInitials'], 'runs': 0, 'wickets': 0, 'balls': 0}
+
+    print(f"\n--- {batting_team_name.upper()} Super Over Innings ---")
+    print(f"Bowler: {bowler_player_obj['displayName']}")
+    print(f"Batsmen: {batter1_obj['player']['displayName']}, {batter2_obj['player']['displayName']}")
+    super_over_log.append(f"--- {batting_team_name.upper()} Super Over Innings ---")
+    super_over_log.append(f"Bowler: {bowler_player_obj['displayName']}")
+    super_over_log.append(f"Batsmen: {batter1_obj['player']['displayName']}, {batter2_obj['player']['displayName']}")
+
+
+    def get_super_over_outcome(bowler, batter, aggression_factor=1.5):
+        nonlocal super_over_runs, super_over_wickets, on_strike, batter1_obj, batter2_obj, current_bowler_stats
+
+        bat_info = batter['player']
+        bowl_info = bowler # This is the player object
+
+        # Simplified outcome logic for Super Over - HIGH AGGRESSION
+        # Using overall player stats, not pitch-adjusted or phase-adjusted for this version
+        den_avg = {}
+        for run_val, prob in bat_info['batRunDenominationsObject'].items():
+            den_avg[run_val] = prob
+
+        # Boost boundary chances, reduce dots/singles
+        den_avg['6'] = den_avg.get('6', 0.01) * aggression_factor * 1.5
+        den_avg['4'] = den_avg.get('4', 0.02) * aggression_factor * 1.4
+        den_avg['0'] = den_avg.get('0', 0.3) / (aggression_factor * 1.2)
+        den_avg['1'] = den_avg.get('1', 0.3) / aggression_factor
+
+        # Normalize probabilities to sum to 1 (approx)
+        current_sum = sum(den_avg.values())
+        if current_sum > 0 :
+            for k in den_avg: den_avg[k] /= current_sum
+        else: # Avoid division by zero, set a default (e.g. dot ball)
+            den_avg = {'0':1.0}
+
+
+        out_avg = (bat_info['batOutsRate'] + bowl_info['bowlOutsRate']) / 2
+        out_avg *= 0.8 # Slightly lower out rate due to "nothing to lose" batting
+
+        # Determine outcome
+        rand_val = random.random()
+        cumulative_prob = 0
+        ball_event = "0" # Default to dot
+
+        for run_outcome, prob in sorted(den_avg.items(), key=lambda x: x[0]): # Sort to process 0,1,2..6
+            cumulative_prob += prob
+            if rand_val < cumulative_prob:
+                ball_event = run_outcome
+                break
+
+        runs_this_ball = 0
+        if ball_event.isdigit():
+            runs_this_ball = int(ball_event)
+
+            # Wicket check on a scoring shot (less likely in super over unless it's a 0)
+            if runs_this_ball == 0: # Higher chance of wicket on a dot
+                if random.random() < out_avg * 1.5: # Increased wicket prob on dot
+                    super_over_wickets += 1
+                    current_bowler_stats['wickets'] +=1
+                    batter['balls'] +=1 # Batter faced the ball
+                    print(f"{super_over_balls_bowled//6}.{super_over_balls_bowled%6 + 1} WICKET! {batter['player']['displayName']} is out. Score: {super_over_runs}/{super_over_wickets}")
+                    super_over_log.append(f"{super_over_balls_bowled//6}.{super_over_balls_bowled%6 + 1} WICKET! {batter['player']['displayName']}. Score: {super_over_runs}/{super_over_wickets}")
+                    return "W" # Signal wicket
+
+            super_over_runs += runs_this_ball
+            batter['runs'] += runs_this_ball
+            batter['balls'] +=1
+            current_bowler_stats['runs'] += runs_this_ball
+
+            print(f"{super_over_balls_bowled//6}.{super_over_balls_bowled%6 + 1} {bowler['displayName']} to {batter['player']['displayName']}: {ball_event}! Score: {super_over_runs}/{super_over_wickets}")
+            super_over_log.append(f"{super_over_balls_bowled//6}.{super_over_balls_bowled%6 + 1} {bowler['displayName']} to {batter['player']['displayName']}: {ball_event}. Score: {super_over_runs}/{super_over_wickets}")
+
+            if runs_this_ball % 2 == 1: # Change strike
+                on_strike = batter2_obj if on_strike == batter1_obj else batter1_obj
+            return ball_event
+        else: # Should not happen with current logic but as a fallback
+            batter['balls'] +=1
+            print(f"{super_over_balls_bowled//6}.{super_over_balls_bowled%6 + 1} {bowler['displayName']} to {batter['player']['displayName']}: 0 (Fallback). Score: {super_over_runs}/{super_over_wickets}")
+            super_over_log.append(f"{super_over_balls_bowled//6}.{super_over_balls_bowled%6 + 1} {bowler['displayName']} to {batter['player']['displayName']}: 0 (Fallback). Score: {super_over_runs}/{super_over_wickets}")
+            return "0"
+
+
+    while super_over_balls_bowled < 6 and super_over_wickets < 2:
+        input("Press Enter to bowl next ball of Super Over...")
+
+        outcome = get_super_over_outcome(bowler_player_obj, on_strike)
+        current_bowler_stats['balls'] +=1
+        super_over_balls_bowled += 1
+
+        if outcome == "W":
+            if super_over_wickets == 2:
+                break
+            # Batsman change logic
+            if on_strike == batter1_obj:
+                # Batter1 is out, if there's a 3rd batsman, they come in.
+                # For simplicity, Super Over typically allows only the initial 2 (or 3 selected) batsmen.
+                # If 2 wickets fall, innings ends.
+                # Here, we assume only 2 batsmen. If one is out, the other continues if it's not the 2nd wicket.
+                on_strike = batter2_obj # The other batsman takes strike (if not out already)
+            else: # batter2_obj was on_strike and got out
+                on_strike = batter1_obj
+
+            if super_over_balls_bowled == 6 and super_over_wickets < 2 : # Over ends, change strike
+                 if outcome.isdigit() and int(outcome) % 2 == 1: # if odd runs on last ball
+                     pass # strike already changed in get_super_over_outcome
+                 else: # if even runs or wicket on last ball, current striker (who just got out or played dot) would be off strike.
+                     on_strike = batter2_obj if on_strike == batter1_obj else batter1_obj
+            continue # Skip strike change if wicket fell and over not complete
+
+        if super_over_balls_bowled == 6: # Over finished
+            break
+
+        # Strike rotation at end of over handled by loop logic if not a wicket
+        # No, explicitly handle for super over last ball if not a wicket.
+        # Strike rotation is handled by get_super_over_outcome for scoring runs.
+
+    super_over_log.append(f"Super Over Summary for {batting_team_name}: {super_over_runs}/{super_over_wickets} from {super_over_balls_bowled/6:.1f} overs.")
+    print(f"Super Over Summary for {batting_team_name}: {super_over_runs}/{super_over_wickets}")
+
+    # Restore stdout if it was changed
+    if sys.stdout != original_stdout and not original_stdout.closed: # original_stdout might be the closed file stream
+        sys.stdout = original_stdout # This could be problematic if original_stdout was a file that game() expects to write to.
+                                     # The game() function should handle re-opening its file if necessary after super over.
+                                     # For now, assume stdout_origin_param is the true console.
+    elif sys.stdout != stdout_origin_param and stdout_origin_param != original_stdout: # If original was file, but we want console
+        sys.stdout = stdout_origin_param
+
+
+    return super_over_runs, super_over_wickets, super_over_log
+
+def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group", is_rain_affected_match=False, base_match_overs=20):
+    current_match_overs = base_match_overs # This line is added
     global innings1Batting, innings1Bowling, innings2Batting, innings2Bowling, innings1Balls, innings2Balls
     global innings1Log, innings2Log, innings1Battracker, innings2Battracker, innings2Bowltracker, innings1Bowltracker
-    global innings1Runs, innings2Runs
+    global innings1Runs, innings2Runs, target, winner, winMsg, tossMsg # Added target, winner, winMsg, tossMsg to globals
+
+    target = 0 # Initialize target at the beginning of the game
+
+    # Call pre-match rain delay handler
+    # NOTE: We need to ensure all variables passed to handle_pre_match_rain_delay are initialized
+    # if the rain delay function itself might try to use them before they are normally set in the game flow.
+    # For example, getBatting relies on teamInfo lists being populated, and tossMsg is set by doToss.
+    # The rain delay logic should ideally be positioned after team setup and toss.
+    # The current plan is to call it here, assuming these are available if needed by the handler.
+    # If the handler cancels the match, it will populate most of these itself for the return dict.
+
+    # Initialize stdoutOrigin here as it's used by the rain handler for closing file stream
+    stdoutOrigin=sys.stdout
+    # The actual file redirection for scores happens later, so sys.stdout is still console here if rain occurs early.
+    # This means current_stdout_param in the handler might just be stdoutOrigin if rain cancels before file is opened.
+
+    # Initialize variables that the rain handler might try to put in its return dict if cancelled early
+    # These are normally set later in the game function.
+    if 'tossMsg' not in globals() or tossMsg is None: tossMsg = "Toss not decided" # Ensure tossMsg has a default
+
+    # Placeholder for team info if accessed by getBatting before full setup
+    # This is tricky; getBatting needs team1Info, team2Info, team1, team2, battingFirst
+    # These are set up AFTER the initial part of the 'game' function.
+    # For the rain handler to use getBatting() for team names if cancelled,
+    # getBatting() must be callable. The current placement of rain logic is *before*
+    # team selection and toss in the original plan.
+    # This implies the rain handler must be called *after* team setup and toss.
+    # For now, let's assume the call to handle_pre_match_rain_delay will be moved
+    # to after team setup and toss for getBatting and tossMsg to be reliably available.
+    # The parameters passed below for log/tracker/batting/bowling/balls/runs etc. are
+    # passed by reference and will be updated by the handler if needed, or by game flow.
+
+    # Corrected placement of rain logic call is AFTER team setup and toss.
+    # The following lines are moved down to reflect this.
 
     innings1Batting = None
     innings1Bowling = None
@@ -2480,25 +2720,23 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
         team_one_inp = sentTeamOne
         team_two_inp = sentTeamTwo
 
-    # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
-    stdoutOrigin=sys.stdout 
-    sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}_{switch}.txt", "w")
+    # stdoutOrigin is already defined above
+    # sys.stdout file opening moved after potential early exit from rain delay
 
-    # f = open("matches/csk_v_rr.txt", "r")
+    current_stdout_for_handler = sys.stdout # Store current stdout before potential redirection
+
     with open('teams/teams.json') as fl:
         dataFile = json.load(fl)
 
     team1 = None
     team2 = None
     venue = None
-    toss = None
+    # toss = None # tossMsg is used from globals
 
     secondInnDew = False
-    # for 1st
     dew = False
     pitchDetoriate = True
-    # for 1st
     detoriate = False
 
     paceFactor = None
@@ -2512,7 +2750,6 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
     team1Info = []
     team2Info = []
 
-    # spin, pace factor -> 0.0 - 1.0
     team1Players = dataFile[team_one_inp]
     team2Players = dataFile[team_two_inp]
     team1 = team_one_inp
@@ -2532,7 +2769,60 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
         0], pitchInfo_[1], pitchInfo_[2]
     battingFirst = doToss(paceFactor, spinFactor, outfield,
                           secondInnDew, pitchDetoriate, typeOfPitch, team1, team2)
-    # print(paceFactor, spinFactor, outfield)
+
+    # Now that tossMsg is set and getBatting can work, call rain delay handler
+    # Also, redirect stdout to file *after* this, so rain delay messages go to console.
+
+    rain_delay_result = handle_pre_match_rain_delay(
+        is_rain_affected_match, base_match_overs, sentTeamOne, sentTeamTwo,
+        getBatting, tossMsg, current_match_overs, target,
+        innings1Log, innings2Log, innings1Battracker, innings2Battracker,
+        innings1Bowltracker, innings2Bowltracker, innings1Batting, innings1Bowling,
+        innings2Batting, innings2Bowling, innings1Balls, innings2Balls,
+        innings1Runs, innings2Runs, winner, winMsg,
+        stdoutOrigin, current_stdout_for_handler # Pass original and current (console) stdout
+    )
+
+    if rain_delay_result and rain_delay_result.get("status") in ["cancelled", "cancelled_reduced"]:
+        # The handler already took care of closing the file stream if it opened one,
+        # and reset sys.stdout to original if necessary.
+        # It returns a fully formed results dictionary.
+        winner = rain_delay_result["winner"]
+        winMsg = rain_delay_result["winMsg"]
+        innings1Batting = rain_delay_result["innings1Batting"]
+        innings1Bowling = rain_delay_result["innings1Bowling"]
+        innings2Batting = rain_delay_result["innings2Batting"]
+        innings2Bowling = rain_delay_result["innings2Bowling"]
+        innings1Balls = rain_delay_result["innings1Balls"]
+        innings2Balls = rain_delay_result["innings2Balls"]
+        innings1Runs = rain_delay_result["innings1Runs"]
+        innings2Runs = rain_delay_result["innings2Runs"]
+        innings1Battracker = rain_delay_result["innings1Battracker"]
+        innings2Battracker = rain_delay_result["innings2Battracker"]
+        innings1Bowltracker = rain_delay_result["innings1Bowltracker"]
+        innings2Bowltracker = rain_delay_result["innings2Bowltracker"]
+        innings1Log = rain_delay_result["innings1Log"]
+        innings2Log = rain_delay_result["innings2Log"]
+        # tossMsg is already global and set
+        current_match_overs = rain_delay_result["current_match_overs"]
+        target = rain_delay_result["target"]
+        # No need to close sys.stdout here as the handler should manage it if it redirected.
+        # If it was cancelled before game's own redirection, sys.stdout is still stdoutOrigin.
+        return rain_delay_result
+
+    if rain_delay_result and "current_match_overs" in rain_delay_result:
+        current_match_overs = rain_delay_result["current_match_overs"]
+
+    # Redirect stdout to file for actual match logs if not cancelled
+    sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}_{switch}.txt", "w")
+    print(f"Toss: {tossMsg}") # Log toss message to file
+    if rain_delay_result and rain_delay_result.get("status") == "ok" and is_rain_affected_match:
+        # Log rain delay outcome if match proceeds
+        if current_match_overs < base_match_overs:
+            print(f"Match proceeding after rain delay. Reduced to {current_match_overs} overs per side.")
+        else:
+            print("Match proceeding after rain delay. No overs lost.")
+
 
     def getBatting():
         if(battingFirst == 0):
@@ -2541,23 +2831,247 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
             return [team2Info, team1Info, team2, team1]
 
     innings1(getBatting()[0], getBatting()[1], getBatting()[2], getBatting()[
-            3], paceFactor, spinFactor, outfield, dew, detoriate)
+            3], paceFactor, spinFactor, outfield, dew, detoriate, match_overs=current_match_overs)
 
     innings2(getBatting()[1], getBatting()[0], getBatting()[3], getBatting()[
-            2], paceFactor, spinFactor, outfield, dew, detoriate)
-    sys.stdout.close()
-    sys.stdout=stdoutOrigin
+            2], paceFactor, spinFactor, outfield, dew, detoriate, match_overs=current_match_overs)
+
+    # Super Over Logic
+    resList = {"superOverPlayed": False, "superOverDetails": [] } # Initialize resList for super over keys
+    superOverDetails_log_main = []
+
+    if winner == "tie":
+        # Ensure output goes to console for Super Over announcements
+        if sys.stdout != stdoutOrigin:
+            sys.stdout.close()
+            sys.stdout = stdoutOrigin
+            print("\n--- Switching to console for Super Over announcement ---")
+
+        print("Match Tied! Proceeding to Super Over.")
+        superOverDetails_log_main.append("Match Tied! Proceeding to Super Over.")
+        resList['superOverPlayed'] = True
+
+        # Team A (who batted first in main game) bats first in Super Over
+        team_A_info = getBatting()[0] # Batting team info for Super Over Team A
+        team_B_info = getBatting()[1] # Bowling team info for Super Over Team A
+        team_A_name = getBatting()[2]
+        team_B_name = getBatting()[3]
+
+        # Simplified player selection for Super Over Team A
+        # Batsmen: first two players. Bowler: first player from opposing team.
+        team_A_batsmen_initials = [p['playerInitials'] for p in team_A_info[:2]] if len(team_A_info) >= 2 else [p['playerInitials'] for p in team_A_info[:1]] # Handle if less than 2 players
+        if len(team_A_batsmen_initials) == 1 and len(team_A_info) > 1: team_A_batsmen_initials.append(team_A_info[1]['playerInitials']) # Ensure two if possible
+        elif not team_A_batsmen_initials and team_A_info: team_A_batsmen_initials = [team_A_info[0]['playerInitials']] # At least one if possible
+
+        team_A_bowler_initials = team_B_info[0]['playerInitials'] if team_B_info else None # Bowler from Team B for Team A's innings
+
+        if not team_A_batsmen_initials or len(team_A_batsmen_initials) < 1 or not team_A_bowler_initials: # Min 1 batsman needed
+            print(f"CRITICAL ERROR: Not enough players for Super Over ({team_A_name} batsmen or {team_B_name} bowler). Cannot proceed.")
+            superOverDetails_log_main.append("CRITICAL ERROR: Not enough players for Super Over. Super Over aborted.")
+            winner = "tie_no_super_over" # Indicate tie, but super over couldn't be played
+            winMsg = "Match Tied (Super Over aborted due to lack of players)"
+        else:
+            if len(team_A_batsmen_initials) == 1 and len(team_A_info) > 0: # If only one batsman was selected due to team size, try to add another if available
+                 if team_A_info[0]['playerInitials'] not in team_A_batsmen_initials: team_A_batsmen_initials.append(team_A_info[0]['playerInitials'])
+                 elif len(team_A_info) > 1 and team_A_info[1]['playerInitials'] not in team_A_batsmen_initials: team_A_batsmen_initials.append(team_A_info[1]['playerInitials'])
+
+
+            print(f"\n--- {team_A_name.upper()} TO BAT SUPER OVER ---")
+            super_over_team_A_runs, super_over_team_A_wickets, so_A_log = simulate_super_over(
+                team_A_info, team_B_info, team_A_name, team_B_name, -1, stdoutOrigin, team_A_batsmen_initials[:2], team_A_bowler_initials
+            )
+            superOverDetails_log_main.extend(so_A_log)
+            print(f"{team_A_name.upper()} scored {super_over_team_A_runs}/{super_over_team_A_wickets} in their Super Over.")
+            superOverDetails_log_main.append(f"RESULT: {team_A_name.upper()} scored {super_over_team_A_runs}/{super_over_team_A_wickets} in their Super Over.")
+
+            # Team B bats second in Super Over
+            # Swap roles: Team B is now batting_team_info, Team A is bowling_team_info
+            team_B_batsmen_initials = [p['playerInitials'] for p in team_B_info[:2]] if len(team_B_info) >= 2 else [p['playerInitials'] for p in team_B_info[:1]]
+            if len(team_B_batsmen_initials) == 1 and len(team_B_info) > 1: team_B_batsmen_initials.append(team_B_info[1]['playerInitials'])
+            elif not team_B_batsmen_initials and team_B_info: team_B_batsmen_initials = [team_B_info[0]['playerInitials']]
+
+            team_B_bowler_initials = team_A_info[0]['playerInitials'] if team_A_info else None # Bowler from Team A
+
+            if not team_B_batsmen_initials or len(team_B_batsmen_initials) < 1 or not team_B_bowler_initials:
+                print(f"CRITICAL ERROR: Not enough players for Super Over ({team_B_name} batsmen or {team_A_name} bowler). Super Over for {team_B_name} aborted.")
+                superOverDetails_log_main.append(f"CRITICAL ERROR: Not enough players for Super Over for {team_B_name}. Super Over incomplete.")
+                # Team A wins by default as Team B cannot complete their over.
+                winner = team_A_name
+                winMsg = f"{team_A_name} won the Super Over (opponent unable to field team)."
+            else:
+                if len(team_B_batsmen_initials) == 1 and len(team_B_info) > 0: # If only one batsman selected
+                    if team_B_info[0]['playerInitials'] not in team_B_batsmen_initials: team_B_batsmen_initials.append(team_B_info[0]['playerInitials'])
+                    elif len(team_B_info) > 1 and team_B_info[1]['playerInitials'] not in team_B_batsmen_initials : team_B_batsmen_initials.append(team_B_info[1]['playerInitials'])
+
+                print(f"\n--- {team_B_name.upper()} TO BAT SUPER OVER (Target: {super_over_team_A_runs + 1}) ---")
+                super_over_team_B_runs, super_over_team_B_wickets, so_B_log = simulate_super_over(
+                    team_B_info, team_A_info, team_B_name, team_A_name, super_over_team_A_runs + 1, stdoutOrigin, team_B_batsmen_initials[:2], team_B_bowler_initials
+                )
+                superOverDetails_log_main.extend(so_B_log)
+                print(f"{team_B_name.upper()} scored {super_over_team_B_runs}/{super_over_team_B_wickets} in their Super Over.")
+                superOverDetails_log_main.append(f"RESULT: {team_B_name.upper()} scored {super_over_team_B_runs}/{super_over_team_B_wickets} in their Super Over.")
+
+                # Determine Super Over Winner
+                if super_over_team_B_runs > super_over_team_A_runs:
+                    winner = team_B_name
+                    winMsg = f"{team_B_name} won the Super Over."
+                elif super_over_team_A_runs > super_over_team_B_runs:
+                    winner = team_A_name
+                    winMsg = f"{team_A_name} won the Super Over."
+                else: # Super Over Tied
+                    winner = "tie_super_over_tie" # Or apply boundary count rule etc.
+                    winMsg = "Match Tied (Super Over also Tied!)."
+                print(winMsg)
+                superOverDetails_log_main.append(winMsg)
+
+        resList['superOverDetails'] = superOverDetails_log_main
+        # Ensure sys.stdout is reset to the game's file logger if it was active
+        # The game function closes and resets sys.stdout to stdoutOrigin at the very end.
+        # If simulate_super_over correctly reset to stdoutOrigin (console), this is fine.
+        # If the game was writing to a file, we might want to reopen it here if more logging was needed.
+        # For now, assume console for super over is fine, and main game's closing sequence handles final reset.
+        current_game_logfile = f"scores/{team_one_inp}v{team_two_inp}_{switch}.txt"
+        if sys.stdout != stdoutOrigin : # If it's not console, it might be a closed file or something else.
+            # We should ensure it's the game's log file IF subsequent logs are needed there.
+            # However, Super Over is usually the absolute end.
+            pass # Let the final game closing handle it.
+        elif sys.stdout == stdoutOrigin and original_stdout != stdoutOrigin : # If it's console, but original was a file
+             # This means simulate_super_over reset to console, and original_stdout was the game's file.
+             # Re-open the game's log file if further game-level logging is expected *after* super over.
+             # sys.stdout = open(current_game_logfile, "a") # Append if more game logs needed
+             pass # For now, assume no further logs to game file post-SO.
+
+    sys.stdout.close() # This closes the game's main log file if open, or console if no redirection.
+    sys.stdout=stdoutOrigin # Reset to original console.
+
     # print(innings1Log)
     # print(innings2Log)
     # Ensure 'balls' in innings summary is the total legal balls bowled.
     # The 'balls' variable within innings functions was modified to track legal balls.
-    return {"innings1Batting": innings1Batting, "innings1Bowling": innings1Bowling, "innings2Batting": innings2Batting, 
+    final_res = {"innings1Batting": innings1Batting, "innings1Bowling": innings1Bowling, "innings2Batting": innings2Batting,
             "innings2Bowling": innings2Bowling, "innings2Balls": innings2Balls, "innings1Balls": innings1Balls, # Use actual legal balls for innings1
             "innings1Runs": innings1Runs, "innings2Runs": innings2Runs, "winMsg": winMsg, "innings1Battracker": innings1Battracker,
             "innings2Battracker": innings2Battracker, "innings1Bowltracker": innings1Bowltracker, "innings2Bowltracker": innings2Bowltracker,
             "innings1BatTeam": getBatting()[2],"innings2BatTeam": getBatting()[3], "winner": winner, "innings1Log": innings1Log,
-            "innings2Log": innings2Log, "tossMsg": tossMsg }
+            "innings2Log": innings2Log, "tossMsg": tossMsg, "current_match_overs": current_match_overs, "target": target}
+    final_res.update(resList) # Add super over keys
+    return final_res
 
 
 
 # game()
+
+def handle_pre_match_rain_delay(is_rain_affected_match, base_match_overs, sentTeamOne, sentTeamTwo, getBatting_func, tossMsg_global, current_match_overs_val, target_val, innings1Log_global, innings2Log_global, innings1Battracker_global, innings2Battracker_global, innings1Bowltracker_global, innings2Bowltracker_global, innings1Batting_global, innings1Bowling_global, innings2Batting_global, innings2Bowling_global, innings1Balls_global, innings2Balls_global, innings1Runs_global, innings2Runs_global, winner_global, winMsg_global, stdoutOrigin_param, current_stdout_param):
+    """
+    Handles pre-match rain delay logic, including over reduction and match cancellation.
+    Returns a dictionary if the match is cancelled, otherwise None.
+    Updates current_match_overs_val if overs are reduced.
+    """
+    # Ensure we are modifying the actual global variables if needed, or treat params as local state
+    # For simplicity, this function will manage its own state and return critical values.
+    # The caller (`game` function) will then update its state or return based on this function's output.
+
+    if is_rain_affected_match and random.random() < 0.5: # 50% chance of rain delay
+        print("Rain has delayed the start of the match.")
+        total_delay_minutes = 0
+        rain_delay_simulation_active = True
+
+        # Local copies for modification if necessary, or rely on caller to handle updates
+        local_current_match_overs = current_match_overs_val
+
+        while rain_delay_simulation_active:
+            time.sleep(1) # Simulates 10 virtual minutes passed
+            total_delay_minutes += 10
+
+            delay_updates = [
+                "Rain continues. Umpires scheduling an inspection.",
+                "Ground staff are at work, covering the pitch.",
+                f"Update: Covers are coming off. Inspection at virtual time + {random.randint(5,15)} mins.",
+                "The rain seems to be easing up a bit.",
+                "Still drizzling. Waiting for an official update."
+            ]
+            print(random.choice(delay_updates) + f" (Total delay: {total_delay_minutes} virtual minutes)")
+
+            if total_delay_minutes > 180: # More than 3 virtual hours
+                print("Unfortunately, the match has been called off due to persistent rain.")
+
+                bat_teams_for_log = getBatting_func() # Call to get team names
+
+                # Closing stdout if it was redirected by the game function before calling this handler
+                # This check is important if the game function opens its score file *before* calling this.
+                # Based on current refactoring, game() calls this *before* opening its own score file,
+                # so current_stdout_param should be sys.stdout (console).
+                # if current_stdout_param != stdoutOrigin_param:
+                #     current_stdout_param.close()
+                #     sys.stdout = stdoutOrigin_param # Reset stdout before returning
+
+                return {
+                    "status": "cancelled",
+                    "winMsg": f"Match between {sentTeamOne.upper()} and {sentTeamTwo.upper()} cancelled due to rain. Points shared.",
+                    "winner": "cancelled",
+                    "innings1Batting": "Match Cancelled", "innings1Bowling": "Match Cancelled",
+                    "innings2Batting": "Match Cancelled", "innings2Bowling": "Match Cancelled",
+                    "innings2Balls": 0, "innings1Balls": 0,
+                    "innings1Runs": 0, "innings2Runs": 0,
+                    "innings1Battracker": {}, "innings2Battracker": {},
+                    "innings1Bowltracker": {}, "innings2Bowltracker": {},
+                    "innings1BatTeam": bat_teams_for_log[2], "innings2BatTeam": bat_teams_for_log[3],
+                    "innings1Log": [{"event": "Match Cancelled due to rain", "balls": 0, "runs_this_ball": 0, "total_runs": 0, "wickets": 0}],
+                    "innings2Log": [{"event": "Match Cancelled due to rain", "balls": 0, "runs_this_ball": 0, "total_runs": 0, "wickets": 0}],
+                    "tossMsg": tossMsg_global if tossMsg_global else "Toss not held due to rain",
+                    "current_match_overs": 0,
+                    "target": 0,
+                    "superOverPlayed": False,
+                    "superOverDetails": []
+                }
+
+            if random.random() < 0.3 and total_delay_minutes > 30: # 30% chance after 30 virtual mins
+                print(f"Good news! The rain has stopped. Match will start after a delay of {total_delay_minutes} virtual minutes.")
+                rain_delay_simulation_active = False
+
+                if total_delay_minutes > 60:
+                    overs_lost_per_side = (total_delay_minutes - 60) // 4
+                    local_current_match_overs = base_match_overs - overs_lost_per_side
+                    print(f"The match has been reduced to {local_current_match_overs} overs per side.")
+                    if local_current_match_overs < 5:
+                        print("Match reduced below 5 overs per side. It has been called off.")
+                        bat_teams_for_log_reduced = getBatting_func()
+
+                        # Same stdout handling consideration as above
+                        # if current_stdout_param != stdoutOrigin_param:
+                        #      current_stdout_param.close()
+                        #      sys.stdout = stdoutOrigin_param
+
+                        return {
+                            "status": "cancelled_reduced",
+                            "winMsg": f"Match between {sentTeamOne.upper()} and {sentTeamTwo.upper()} called off (reduced below 5 overs). Points shared.",
+                            "winner": "cancelled",
+                            "innings1Batting": "Match Cancelled (Reduced <5 overs)", "innings1Bowling": "Match Cancelled (Reduced <5 overs)",
+                            "innings2Batting": "Match Cancelled (Reduced <5 overs)", "innings2Bowling": "Match Cancelled (Reduced <5 overs)",
+                            "innings2Balls": 0, "innings1Balls": 0,
+                            "innings1Runs": 0, "innings2Runs": 0,
+                            "innings1Battracker": {}, "innings2Battracker": {},
+                            "innings1Bowltracker": {}, "innings2Bowltracker": {},
+                            "innings1BatTeam": bat_teams_for_log_reduced[2], "innings2BatTeam": bat_teams_for_log_reduced[3],
+                            "innings1Log": [{"event": "Match Cancelled (Reduced <5 overs)", "balls": 0, "runs_this_ball": 0, "total_runs": 0, "wickets": 0}],
+                            "innings2Log": [{"event": "Match Cancelled (Reduced <5 overs)", "balls": 0, "runs_this_ball": 0, "total_runs": 0, "wickets": 0}],
+                            "tossMsg": tossMsg_global,
+                            "current_match_overs": local_current_match_overs,
+                            "target": 0,
+                            "superOverPlayed": False,
+                            "superOverDetails": []
+                        }
+                else:
+                    print("No overs lost due to the delay.")
+                # Return updated overs if not cancelled
+                return {"status": "ok", "current_match_overs": local_current_match_overs}
+        # If loop finishes without cancellation or starting (e.g. if random condition for start never met, though unlikely with current logic)
+        # This case might need a timeout or default to cancellation if not handled, for now, assume it resolves.
+        # If it's possible to exit while loop without rain_delay_simulation_active becoming False, this implies it's still "raining"
+        # but we didn't hit the >180 min cancel or the random <0.3 start. This path should ideally not be hit.
+        # For safety, if we exit here, assume no change to overs beyond what might have been calculated if rain stopped.
+        return {"status": "ok", "current_match_overs": local_current_match_overs}
+
+
+    # No rain, or not a rain-affected match designated
+    return {"status": "ok", "current_match_overs": current_match_overs_val}

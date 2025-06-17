@@ -146,7 +146,33 @@ commentary_lines = {
             "Signalled as Leg Byes by the umpire.",
             "They get leg-byes for that deflection."
         ]
-    }
+    },
+    'rain_interruption': [
+        "Rain has stopped play. What a shame for the spectators!",
+        "The umpires have decided to take the players off the field due to a downpour.",
+        "Covers are swiftly being brought onto the pitch as the rain intensifies."
+    ],
+    'rain_delay_update': [
+        "The ground staff are working tirelessly to prepare the outfield.",
+        "An official inspection by the umpires is scheduled shortly.",
+        "We're still waiting for the weather to improve. Fingers crossed!",
+        "The forecast isn't looking too promising, but hope remains for a restart."
+    ],
+    'play_resumes': [
+        "Excellent news from the middle! Play is set to resume shortly.",
+        "The rain has passed, the covers are off, and we're ready for cricket again!",
+        "After that delay, the players are coming back out. Let's hope the weather holds."
+    ],
+    'overs_reduced': [
+        "Unfortunately, due to the time lost, this match has been reduced in overs.",
+        "We have official confirmation: some overs have been lost due to the interruption.",
+        "It's going to be a slightly shorter game now, which could change team strategies."
+    ],
+    'target_revised': [
+        "With the reduction in overs, the target for the chasing side has been recalculated.",
+        "A new, revised target will be in effect for the second innings.",
+        "The Duckworth-Lewis-Stern method (or simplified method) will determine the adjusted target."
+    ]
 }
 
 def display_points_table():
