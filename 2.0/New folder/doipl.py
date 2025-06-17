@@ -21,7 +21,7 @@ bowlingInfo = {}
 # Initialize points table
 for team in teams:
     points[team] = {
-        "P": 0, "W": 0, "L": 0, "T": 0, "SO": 0,
+        "P": 0, "W": 0, "L": 0, "T": 0, "SO": 0, "RA": 0, # Added RA here
         "runsScored": 0, "ballsFaced": 0,
         "runsConceded": 0, "ballsBowled": 0,
         "pts": 0
@@ -180,13 +180,17 @@ def display_points_table():
     for team in points:
         data = points[team]
         nrr = 0
-        if data['ballsFaced'] > 0 and data['ballsBowled'] > 0:
+        if data['ballsFaced'] > 0 and data['ballsBowled'] > 0: # Avoid ZeroDivisionError for NRR
             nrr = (data['runsScored'] / data['ballsFaced']) * 6 - (data['runsConceded'] / data['ballsBowled']) * 6
-        row = [team.upper(), data['P'], data['W'], data['L'], data['T'], data['SO'], round(nrr, 2), data['pts']]
+        # Ensure 'RA' is present in data or default to 0
+        ra_count = data.get('RA', 0)
+        row = [team.upper(), data['P'], data['W'], data['L'], data['T'], data['SO'], ra_count, round(nrr, 2), data['pts']] # Added ra_count
         pointsTabulate.append(row)
-    pointsTabulate = sorted(pointsTabulate, key=lambda x: (x[7], x[6]), reverse=True) # Sort by Pts (idx 7), then NRR (idx 6)
+    # Sort by Pts (idx 8 now), then NRR (idx 7 now)
+    pointsTabulate = sorted(pointsTabulate, key=lambda x: (x[8], x[7]), reverse=True)
     print("\nCurrent Points Table:")
-    print(tabulate(pointsTabulate, headers=["Team", "Played", "Won", "Lost", "Tied", "SO", "NRR", "Points"], tablefmt="grid"))
+    # Update headers:
+    print(tabulate(pointsTabulate, headers=["Team", "P", "W", "L", "T", "SO", "RA", "NRR", "Pts"], tablefmt="grid"))
 
 def display_top_players():
     battingTabulate = []
